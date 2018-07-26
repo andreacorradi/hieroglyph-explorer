@@ -1,0 +1,37 @@
+.DS_STORE
+.DS_Store
+docs
+
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+Desktop.ini
+.vscode
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+*.ai
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+*.DS_Store
+
+node_modules
+package-lock.json
+*.log
+
+app/js/configs/influx.json
+app/**/*.processed.*

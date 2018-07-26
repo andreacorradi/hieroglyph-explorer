@@ -50,6 +50,11 @@
     else descUrl = 'https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/signdescriptioneng.xml'
     return axios({
       method: 'get',
+      headers: {
+        'Access-Control-Request-Method': 'get'
+        'Access-Control-Allow-Credentials':true,
+        'Access-Control-Allow-Origin':true
+      },
       url: descUrl,
       responseType: 'document'
     })
@@ -61,10 +66,16 @@
     else codeUrl = 'https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/signunicode.xml'
     return axios({
       method: 'get',
+      headers: {
+        'Access-Control-Request-Method': 'get'
+        'Access-Control-Allow-Credentials':true,
+        'Access-Control-Allow-Origin':true
+      },
       url: codeUrl,
       responseType: 'document'
     })
   }
+
 
   axios.all([getDescriptions(), getUnicodes()])
     .then(axios.spread(function (desc, codes) {

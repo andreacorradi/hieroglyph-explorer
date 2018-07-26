@@ -3,7 +3,11 @@
   window.APP = window.APP || {}
   APP.glyphs = []
   let gardCat = "A"
-  let mode = "local"
+  let env = "prod"
+
+  if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
+    env = "local"
+  }
 
   const categories = {
     "Man and his occupations": "A",
@@ -42,7 +46,7 @@
 
   function getDescriptions() {
     let descUrl
-    if (mode === "local") { descUrl = 'data/description.xml' }
+    if (env === "local") { descUrl = 'data/description.xml' }
     else descUrl = 'https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/signdescriptioneng.xml'
     return axios({
       method: 'get',
@@ -53,7 +57,7 @@
 
   function getUnicodes() {
     let codeUrl
-    if (mode === "local") { codeUrl = 'data/unicodes.xml' }
+    if (env === "local") { codeUrl = 'data/unicodes.xml' }
     else codeUrl = 'https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/signunicode.xml'
     return axios({
       method: 'get',

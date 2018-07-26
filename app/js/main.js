@@ -3,7 +3,7 @@
   window.APP = window.APP || {}
   APP.glyphs = []
   let gardCat = "A"
-  let env = "prod"
+  let env = "local"
 
   if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {
     env = "local"
@@ -50,11 +50,6 @@
     else descUrl = 'https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/signdescriptioneng.xml'
     return axios({
       method: 'get',
-      headers: {
-        'Access-Control-Request-Method': 'get',
-        'Access-Control-Allow-Credentials':true,
-        'Access-Control-Allow-Origin':true
-      },
       url: descUrl,
       responseType: 'document'
     })
@@ -66,11 +61,6 @@
     else codeUrl = 'https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/signunicode.xml'
     return axios({
       method: 'get',
-      headers: {
-        'Access-Control-Request-Method': 'get',
-        'Access-Control-Allow-Credentials':true,
-        'Access-Control-Allow-Origin':true
-      },
       url: codeUrl,
       responseType: 'document'
     })

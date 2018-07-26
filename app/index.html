@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Hieroglyph explorer</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+	<link rel="stylesheet" href="css/reset.css" >
+	<link rel="stylesheet" href="css/style.css" >
+</head>
+<body>
+	
+	<header>
+		<h1>Hieroglyph explorer</h1>
+		<h3>Displaying Gardiner's list hieroglyphs.<br/>You must have the <a href="https://drive.google.com/open?id=1ANbdMGZ8LCFgLYDeZ5K6424XRj0JvjNb" target="_blank">NewGardiner</a> font installed on your computer.</h3>
+	</header>
+	<main>
+		<div class="container">
+			<div id="category-container">
+				<div class="label">Select a category:</div>
+				<select name="category" id="cat-selector"><option></option></select>
+			</div>
+			<div id="item-container">
+				<div class="label">Select an item:</div>
+				<select name="item" id="item-selector"></select>
+			</div>
+			<!-- <input type="text"> -->
+			<div class="pictogram"></div>
+			<!-- <div class="description"></div> -->
+		</div>
+	</main>
+	
+	<script src="node_modules/jquery/dist/jquery.min.js"></script>
+	<script src="node_modules/lodash/lodash.min.js"></script>
+	<script src="node_modules/axios/dist/axios.min.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+</html>

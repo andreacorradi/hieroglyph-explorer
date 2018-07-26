@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'NewGardiner';
+  src: url('NewGardinerSMP.ttf') format('truetype');
+}
+
+*	{
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	height: 100%;
+	font-family: serif;
+}
+
+main {
+	width: 100%;
+	height: 80vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+header {
+	width: 100%;
+	padding-top: 10vh;
+	height: 10vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	font-size: 2rem;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 80%;
+	height: 50%;
+}
+
+#cat-selector {
+	height: 2rem;
+}
+
+#item-selector {
+	margin-left: 2rem;
+	height: 2rem;
+}
+
+input {
+	margin-left: 2rem;
+	width: 6rem;
+	height: 2rem;
+}
+
+.pictogram {
+	margin-left: 4rem;
+	width: 6rem;
+	height: 4rem;
+	font-size: 4rem;
+}
+
+.description {
+	margin-left: 2rem;
+}

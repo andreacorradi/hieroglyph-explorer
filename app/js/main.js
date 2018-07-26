@@ -51,7 +51,7 @@
     return axios({
       method: 'get',
       headers: {
-        'Access-Control-Request-Method': 'get'
+        'Access-Control-Request-Method': 'get',
         'Access-Control-Allow-Credentials':true,
         'Access-Control-Allow-Origin':true
       },
@@ -67,7 +67,7 @@
     return axios({
       method: 'get',
       headers: {
-        'Access-Control-Request-Method': 'get'
+        'Access-Control-Request-Method': 'get',
         'Access-Control-Allow-Credentials':true,
         'Access-Control-Allow-Origin':true
       },

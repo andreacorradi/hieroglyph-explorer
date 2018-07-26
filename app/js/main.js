@@ -2,7 +2,8 @@
   'use strict'
   window.APP = window.APP || {}
   APP.glyphs = []
-  var gardCat = "A"
+  let gardCat = "A"
+  let mode = "local"
 
   const categories = {
     "Man and his occupations": "A",
@@ -40,18 +41,24 @@
   }
 
   function getDescriptions() {
+    let descUrl
+    if (mode === "local") { descUrl = 'data/description.xml' }
+    else descUrl = 'https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/signdescriptioneng.xml'
     return axios({
-      method:'get',
-      url:'../data/description.xml',
-      responseType:'document'
+      method: 'get',
+      url: descUrl,
+      responseType: 'document'
     })
   }
 
   function getUnicodes() {
+    let codeUrl
+    if (mode === "local") { codeUrl = 'data/unicodes.xml' }
+    else codeUrl = 'https://mjn.host.cs.st-andrews.ac.uk/egyptian/unicode/signunicode.xml'
     return axios({
-      method:'get',
-      url:'../data/unicodes.xml',
-      responseType:'document'
+      method: 'get',
+      url: codeUrl,
+      responseType: 'document'
     })
   }
 

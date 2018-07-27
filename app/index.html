@@ -15,24 +15,31 @@
 	</header>
 	<main>
 		<div class="container">
-			<div id="category-container">
-				<div class="label">Select a category:</div>
-				<select name="category" id="cat-selector"><option></option></select>
-			</div>
-			<div id="item-container">
-				<div class="label">Select an item:</div>
-				<select name="item" id="item-selector"></select>
-			</div>
-			<!-- <input type="text"> -->
-			<div class="pictogram"></div>
-			<!-- <div class="description"></div> -->
+			<section id="hieroglyph">
+				<div id="category-container">
+					<div class="label">Select a category:</div>
+					<select name="category" id="cat-selector"><option></option></select>
+				</div>
+				<div id="item-container">
+					<div class="label">Select an item:</div>
+					<select name="item" id="item-selector"></select>
+				</div>
+				<div class="pictogram"></div>
+			</section>
+			<section id="info">
+				<div class="use label">Use<ul></ul></div>
+				<div class="use context">Context<ul></ul></div>
+				<div class="use examples">Examples<ul></ul></div>
+			</section>
 		</div>
 	</main>
 	
 	<script src="node_modules/jquery/dist/jquery.min.js"></script>
 	<script src="node_modules/lodash/lodash.min.js"></script>
 	<script src="node_modules/axios/dist/axios.min.js"></script>
-	<script src="js/main.js"></script>
+	<script src="js/utilities.js"></script>
+	<script src="js/parser.js"></script>
+	<script src="js/app.js"></script>
 
 </body>
 </html>

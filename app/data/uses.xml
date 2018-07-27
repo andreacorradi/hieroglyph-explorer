@@ -1,0 +1,11371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<signlist 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="signuse.xsd">
+
+<p>
+Readings of signs are divided into classes according to use,
+mostly neglecting the origin or pictographic meaning. 
+That is, we focus on the functions that signs fulfil 
+within writings of words, especially in relation to other signs.
+The following classes are distinguished:
+
+<ul>
+	<li> <b>Log.</b>
+	A <i>logogram</i> is a sign that can stand for a word by itself, 
+	mostly without phonograms.
+	Some logograms however can stand for several different, 
+	etymologically unrelated words.
+	The table below gives a transliteration 
+	and a translation for each such reading.
+	</li>
+
+	<li> <b>Det.</b>
+	A <i>determinative</i> is a sign
+	that mostly occurs following phonograms (and sometimes logograms) and that
+	serves to narrow down or emphasize the meaning.
+	A determinative normally does not identify a particular word,
+	in which case the table contains the description of a range of meanings.
+	However, if the known occurrences of a determinative are 
+	restricted to one word (and words derived from it), 
+	then the transliteration and the
+	translation of that word are given, in a way similar to how logograms
+	are presented.
+	</li>
+
+	<li> <b>Log. or det.</b>
+	A sign is included in this class if it
+	can be used as logogram, but may alternatively be accompanied 
+	(usually preceded) by phonograms or other logograms. 
+	</li>
+
+	<li> <b>Phon.</b>
+	A <i>phonogram</i> is a sign that stands for a sequence of consonants,
+	used in writings of words irrespective of their meaning.
+	For phonograms, the table contains the transliteration.
+	Where there are variants, with <al>t</al> versus <al>T</al> or
+	<al>d</al> versus <al>D</al>, only the oldest form is given.
+	</li>
+
+	<li> <b>Phon. det.</b>
+	A <i>phonetic determinative</i> functions much as a phonogram,
+	and has an interpretation as a sequence of consonants,
+	as indicated in the table. Unlike phonograms however,
+	a phonetic determinative cannot stand on its own and must
+	follow one or more phonograms together covering the
+	same consonants. Phonetic determinatives usually stand at the
+	end of a word, next to any (semantic) determinatives.
+	</li>
+
+	<li> <b>Phon. or phon. det.</b>
+	This class includes signs that are used both as phonetic determinatives
+	and as ordinary phonograms.
+	</li>
+
+	<li> <b>Typ.</b>
+	The class of <i>typographical symbols</i> includes all signs that
+	do not fall into any of the above categories.
+	</li>
+</ul>
+
+Some readings apply to a combination of signs rather than to a single sign.
+The table may offer one or more examples for each reading.
+After D48 however, examples and comments are mostly omitted for the time
+being.
+</p>
+<p>
+We leave implicit in the table that one logogram can often be used
+for several words that are all related through derivation and inflection.
+One example is <signref name="L2" />, which can be used both for
+<al>bjt</al>, <tr>bee</tr>, and for <al>bjt</al>, <tr>honey</tr>.
+Another example is <signref name="M20" />, which can be used both for
+<al>sxt</al>, <tr>marshland</tr>, and for <al>sxtj</al>, <tr>peasant</tr>.
+</p>
+<p>
+The distinction between logograms and determinatives is often problematic.
+For example, <signref name="P1" /> can be used in the writing of various 
+words that all mean <tr>boat</tr>. This would suggest classifying it as 
+determinative rather than as logogram, as it is not associated with one
+particular word. 
+However, it can be used without phonograms, to represent one of 
+<al>dpt</al>, <al>jmw</al>, etc., by which its use is clearly logographic
+in nature. In this case, we have chosen to give a list of readings,
+each as 'Log. or det.' for one of the words that <signref name="P1" />
+may represent.
+</p>
+<p>
+In other cases, it seems more appropriate to give a reading 
+as determinative next to one or more readings as logograms. 
+For example, <signref name="P5" /> can be used
+without phonograms to mean <al>TAw</al> (<tr>breath</tr>)
+or <al>nfw</al> (<tr>skipper</tr>). These uses will be
+classified as 'Log. or det.'.
+In addition, the same sign can be used 
+in the writing of many other concepts related to wind and sails,
+so that an additional reading as determinative is justified.
+In yet other cases, only a reading as determinative is given.
+An example is <signref name="I14" />, which seems to be always
+preceded by phonograms, despite its pictographic nature, which
+may suggest <al>HfAw</al> or <al>Ddft</al>.
+</p>
+<p>
+Sometimes a sign is classified as 'Log. or det.' even if no occurrences
+without preceding phonograms are known, in other words,
+when its observed use is as determinative rather than as logogram.
+This holds in particular when 
+its pictographic nature suggests one particular word, or even two, as
+in the case of <tr>hippopotamus</tr> <signref name="E25" /> 
+(<al>db</al> or <al>xAb</al>). An additional reason may be that
+the same sign can also be used as a phonogram that is derived from 
+that word, which suggests a tight connection between that sign and
+the word.
+In such cases one can imagine that occurrences without preceding 
+phonograms will eventually be found.
+</p>
+<p>
+In some cases, the distinction between logogram and phonogram can also be
+hard to make, especially when a phonogram covers the entire stem of a word,
+and no other phonograms precede the sign. Our decision in such cases
+may be based on various factors, such as what the sign represents
+pictographically,
+and the number of semantically unrelated words in which the sign
+can be used. For example, <signref name="Aa28" /> is here taken to be a
+'Phon. or phon. det.', ignoring its (speculative) pictographic nature,
+motivated by the high number of words in which it 
+occurs that are semantically unrelated to building.
+However, <signref name="D43" /> is taken to be a logogram rather than
+a phonogram in 
+<hi>x:[sep=0.4]D43-[sep=0.4]w*mDAt[rotate=270]</hi>,
+<al>xwj</al>, <tr>protect</tr>, as it tends to 
+occur in a number of words that are related through derivation and 
+inflection, as opposed to several other words that happen to start with the
+same consonants. Yet, a separate use as phonogram needs to be identified for
+use in those words containing consonants <al>xw</al> that are not etymologically
+related to <al>xwj</al>, <tr>protect</tr>.
+</p>
+<p>
+In the case of <signref name="G25" />, we have chosen to classify 
+the use in <al>Ax</al>, <tr>spirit</tr> as logogram, as it is
+in this word that the sign is most often used without further phonograms, 
+and the use in other words starting with <al>Ax</al> as phonogram.
+We admit this choice is debatable.
+Similarly controversial may be our decision to classify <signref name="G27" />
+in <al>dSr</al>, <tr>flamingo</tr>, as determinative and
+in <al>dSr</al>, <tr>red</tr>, as phonogram, as the two words are
+intimately related, and often even written in the exact same way. 
+In the case of <signref name="R4" />, the relation between
+<al>Htp</al>, <tr>altar</tr>, and <al>Htp</al>, <tr>rest</tr>,
+is less clear, and consequently classifying the use in <tr>rest</tr> as
+phonogram, or as logogram distinct from that in <tr>altar</tr>,
+is more easily justitied.
+We contend that introduction of auxiliary classes
+such as 'semi-ideogram' and 'semi-phonogram' would not help to
+solve such dilemmas, and on the contrary would create more problematic
+boundaries between classes.
+</p>
+<p>
+By 'Use as' is meant that a sign has uses that it shares with 
+another sign.
+In most cases this should not be mistaken for straightforward
+interchangeability.
+</p>
+<p>
+The primary sources are those mentioned in the 
+<a href="tablemain.html">main table</a>.
+</p>
+
+<sign id="A1">
+	
+	<det>
+		<al>s</al>
+		<tr>man</tr>
+	  <example>
+			<hi cite="Peas. R 1.1">O34:A1*(.:Z1)</hi> 
+	  </example>
+	</det>
+
+	<logdet plural="true">
+		<group>A1:Z2</group>
+		<al>rHw</al> 
+		<tr>men</tr>
+	  <example>
+			<hi>r-H*w-A1:Z2</hi> 
+			<al>rHw</al> 
+			<tr>men</tr>
+	  </example>
+	  <example>
+			<hi>A1:Z2-anx-n:x</hi>
+			<al>^rHw-anx</al>
+			<tr>Rekhu-ankh</tr>
+	  </example>
+	</logdet>
+
+	<det>
+		<describe>man and his occupations</describe>
+	  <example>
+			<hi>zA-A1</hi>
+			<al>sA</al>
+			<tr>son</tr>
+	  </example>
+	  <example>
+			<hi cite="">s*Ab-A1</hi>
+			<al>smr</al>
+			<tr>courtier</tr>
+	  </example>
+	  <example>
+			<hi cite="Peas. B1 51">H-wr:r-w-G37-A1</hi>
+			<al>Hwrw</al>
+			<tr>wretch</tr>
+	  </example>
+	  <example>
+			<hi cite="Peas. B1 139">ir:A1</hi>
+			<al>jr</al>
+			<tr>doer</tr>
+	  </example>
+	</det>
+
+	<det plural="true">
+		<group>A1*B1:Z1*Z1*Z1</group>
+		<describe>people and their occupations</describe>
+	  <example>
+			<hi cite="Peas. B1 50">r:T-A1*B1:Z2</hi>
+			<al>rmT</al>
+			<tr>people</tr>
+	  </example>
+	  <example>
+			<hi>T14*m-w-A1*B1:Z2</hi>
+			<al>aAmw</al>
+			<tr>Asiatics</tr>
+	  </example>
+	  <example>
+			<hi>mt:[fit]t*.:r-w-[fit]T14*[fit]T14-A1*B1:Z2</hi>
+			<al>mtrw</al>
+			<tr>witnesses</tr>
+	  </example>
+	</det>
+
+	<det>
+		<describe>in personal names</describe>
+	  <example>
+			<hi>anx-n:x-w-A1</hi> 
+			<al>^anxw</al>
+			<tr>Ankhu</tr>
+	  </example>
+	</det>
+
+	<log>
+		<al>=j</al>
+		<tr>I</tr>
+	</log>
+
+	<det>
+		<describe>first person singular</describe>
+	  <example>
+			<hi>w-A1</hi>
+			<al>wj</al>
+			<tr>me</tr> 
+	  </example>
+	  <example>
+			<hi>nw:k-A1</hi>
+			<al>jnk</al>
+			<tr>I</tr> 
+	  </example>
+	  <example>
+			<hi>k:w-A1</hi>
+			<al>.kw</al>
+			<tr>I</tr> 
+	  </example>
+	</det>
+
+</sign>
+
+<sign id="A2">
+<det>
+<describe>eat and drink</describe>
+    <example>
+	<hi>E34:n-m-A2</hi>
+	<al>wnm</al>
+	<tr>eat</tr>
+    </example>
+    <example>
+	<hi>H-q:r-A2</hi>
+	<al>Hqr</al>
+	<tr>hungry</tr>
+    </example>
+    <example>
+	<hi>s-wr:r-A2</hi>
+	<al>swr</al>
+	<tr>drink</tr>
+    </example>
+</det>
+
+<det>
+<describe>speak, think, feel</describe>
+    <example>
+	<hi>s-D:d-A2</hi>
+	<al>sDd</al>
+	<tr>recount</tr>
+    </example>
+    <example>
+	<hi>g:r-A2</hi>
+	<al>gr</al>
+	<tr>silent</tr>
+    </example>
+    <example>
+	<hi>k*[fit]A-A2</hi>
+	<al>kAj</al>
+	<tr>think</tr>
+    </example>
+    <example>
+	<hi>U7:r-A2</hi>
+	<al>mrj</al>
+	<tr>love</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A3">
+<det>
+<al root="Hms">Hmsj</al>
+<tr>sit</tr>
+    <example>
+	<hi>N41:z-A3</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="A4">
+<det>
+<describe>praise, supplicate</describe>
+    <example>
+    	<hi>N14-A4</hi>
+	<al>dwA</al>
+	<tr>praise</tr>
+    </example>
+</det>
+
+<det>
+<describe>hide</describe>
+    <example>
+	<hi>s-d:g-A4-.:D54</hi>
+	<al>sdgj</al>
+	<tr>hide</tr>
+    </example>
+    <example>
+	<hi>i-mn:n-A4</hi>
+	<al>jmn</al>
+	<tr>hidden</tr>
+    </example>
+</det>
+
+<p>
+Cf. <signref name="A30" />.
+</p>
+</sign>
+
+<sign id="A5" period="18-">
+<det>
+<describe>hide</describe>
+    <example>
+	<hi>i-mn:n-A5-Y1[rotate=270]</hi> 
+	<al>jmn</al>
+	<tr>hidden</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A5a">
+<useas name="A5" />
+</sign>
+
+<sign id="A6">
+<logdet>
+<al>wab</al>
+<tr>pure</tr>
+<tr>clean</tr>
+</logdet>
+</sign>
+
+<sign id="A6a">
+<det>
+<al>sAT</al>
+<tr>make libation</tr> 
+<tr>libation stone</tr>
+</det>
+</sign>
+
+<sign id="A6b">
+<det>
+<al>sAT</al>
+<tr>make libation</tr>
+</det>
+</sign>
+
+<sign id="A7">
+<det>
+<describe>weary, weak</describe>
+    <example>
+	<hi>wr:r-d-A7-G37</hi>
+	<al>wrD</al>
+	<tr>tired</tr>
+    </example>
+    <example>
+	<hi>b-d:S-A7-G37</hi>
+	<al>bdS</al>
+	<tr>faint</tr>
+    </example>
+    <example>
+	<hi>g-n:n-A7</hi>
+	<al>gnn</al>
+	<tr>soft</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A8">
+<det>
+<al root="hn">hnw</al>
+<tr>jubilation</tr>
+    <example>
+	<hi>O4:n-insert[s](.*w,nw)-A8</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="A9">
+<logdet>
+<al>ATp</al>
+<tr>load</tr>
+    <example>
+	<hi>A-T:p-A9</hi>
+	<hi>A9-a</hi>
+    </example>
+</logdet>
+
+<logdet>
+<al root="fA">fAj</al>
+<tr>raise</tr>
+    <example>
+	<hi>f-[fit]A-A9</hi>
+	<hi cite="Peas. B1 122">A9-A24</hi>
+    </example>
+</logdet>
+
+<logdet>
+<al root="kA">kAt</al>
+<tr>work</tr>
+    <example>
+	<hi>kA:t-A9</hi>
+	<hi>A9</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="A10">
+<det>
+<describe>sailing</describe>
+    <example>
+	<hi>s*qd-d:nw-A10</hi>
+	<al>sqdj</al>
+	<tr>sail (verb)</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A11" period="OK">
+<logdet>
+<al>xnms</al>
+<tr>friend</tr>
+    <example>
+	<hi>A11</hi>
+	<hi>x:n-m-s-A11</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="A12">
+<logdet>
+<al>mSa</al>
+<tr>army</tr>
+    <example>
+	<hi>A12*Z3</hi>
+	<hi>m-S:a-A12*Z3</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>army</describe>
+    <example>
+	<hi>mn:n-f-[fit]A-[fit]t-A12*Z3</hi>
+	<al>mnfAt</al>
+	<tr>infantry</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A13">
+<det>
+<describe>enemy</describe>
+    <example>
+	<hi>s*b-i*A13</hi>
+	<al>sbj</al>
+	<tr>rebel</tr>
+    </example>
+    <example>
+	<hi>x*(.:t):f-A13</hi>
+	<al>xftj</al>
+	<tr>enemy</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A14">
+<det>
+<describe>die</describe>
+    <example>
+	<hi>m:t-A14</hi>
+	<al>mwt</al>
+	<tr>die</tr>
+    </example>
+</det>
+
+<det>
+<describe>enemy</describe>
+    <example>
+	<hi>x*(.:t):f-A14</hi>
+	<al>xftj</al>
+	<tr>enemy</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A14a">
+<useas name="A14" />
+</sign>
+
+<sign id="A15">
+<logdet>
+<al>xr</al>
+<tr>fall</tr>
+    <example>
+	<hi>x:r-A15</hi> 
+	<hi>A15</hi>
+    </example>
+    <example>
+	<hi>A15*w</hi> 
+	<hi>x:r-w-A15</hi>
+	<al>xrw</al>
+	<tr>fallen (conquered) enemy</tr>
+    </example>
+</logdet>
+
+<log>
+<group>A15:X1</group>
+<al root="sxr">sxrt</al>
+<tr>overthrow (infinitive)</tr>
+</log>
+</sign>
+
+<sign id="A16">
+<det>
+<al root="ks">ksj</al>	
+<tr>bow down</tr>
+    <example>
+    	<hi>k*s-A16</hi>	
+    </example>
+</det>
+</sign>
+
+<sign id="A17">
+<logdet>
+<al>Xrd</al>
+<tr>child</tr>
+    <example>
+    	<hi>A17-A1</hi>
+	<hi>X:r:d-A17</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>young</describe>
+    <example>
+	<hi>r:n-p*M6-A17</hi>
+	<al>rnpj</al>
+	<tr>rejuvenate</tr>
+    </example>
+    <example>
+	<hi>S:r-i-A17</hi>
+	<al>Srj</al>
+	<tr>child</tr>
+    </example>
+    <example>
+	<hi>ms*s-A17</hi>
+	<al>ms</al>
+	<tr>child</tr>
+    </example>
+    <example>
+	<hi>n:nm*m-A17-G37</hi>
+	<al>nmHw</al>
+	<tr>orphan</tr>
+    </example>
+</det>
+
+<phon>
+<al>nnj</al>
+    <example>
+	<hi>M23-t:n-A17-n:n-niwt</hi>
+	<al>^nnj-nsw</al>
+	<tr>Herakleopolis</tr>
+    </example>
+</phon>
+
+<useas texttype="hieratic" name="A3" />
+</sign>
+
+<sign id="A17a">
+<useas texttype="hieratic" name="A3">
+    <example>
+	<hi>N41:z-A17a</hi>
+	<al>Hmsj</al>
+	<tr>sit</tr>
+    </example>
+</useas>
+
+<useas texttype="hieratic" name="A17">
+    <example>
+	<hi>ms*w-A17a-Z2</hi>
+	<al>msw</al>
+	<tr>children</tr>
+    </example>
+</useas>
+</sign>
+
+<sign id="A18">
+<det>
+<describe>child-king</describe>
+    <example>
+	<hi>i-n:p-A18</hi>
+	<al>jnpw</al>
+	<tr>crown-prince</tr>
+    </example>
+    <example>
+	<hi>V25*H-A18</hi>
+	<al>wDH</al>
+	<tr>weaned princeling</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A19">
+<logdet>
+<al root="jA">jAwj</al>
+<tr>old</tr>
+    <example>
+	<hi>i-A-[fit]w-A19</hi> 
+	<hi>A19</hi>
+    </example>
+</logdet>
+
+<logdet>
+<al root="sms">smsw</al>
+<tr>eldest</tr>
+    <example>
+    	<hi>s*m-s*w-A19</hi> 
+	<hi>A19</hi>
+    </example>
+</logdet>
+
+<logdet>
+<al>wr</al>
+<tr>great</tr>
+    <example>
+    	<hi>wr:r-A19</hi>
+	<hi>A19</hi>
+	<al>wr</al>
+	<tr>chief</tr>
+    </example>
+</logdet>
+
+<det>
+<describe>old</describe>
+    <example>
+    	<hi>t:n-i-A19</hi>	
+	<al>tnj</al>	
+	<tr>old</tr>
+    </example>
+</det>
+
+<det>
+<describe>lean</describe>
+    <example>
+    	<hi>r:h:n-A19</hi>
+	<al>rhn</al>
+	<tr>lean (verb)</tr>
+    </example>
+    <example>
+	<hi>t-wA-A-A19</hi>
+	<al>twA</al>
+	<tr>support oneself</tr>
+    </example>
+</det>
+
+<logdet>
+<al root="jk">jky</al>
+<tr>quarryman</tr>
+    <example>
+	<hi>i-k-A19</hi>
+	<hi>A19-i*i</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="A20">
+<logdet>
+<al root="sms">smsw</al>
+<tr>eldest</tr>
+    <example>
+	<hi>A20</hi>
+    	<hi>s*m-s*w-A20</hi> 
+    </example>
+    <example>
+    	<hi>insert[t,x=0.7,fix](zA,Z1)-f-A20</hi> 
+	<al>sA=f smsw</al>
+	<tr>his eldest son</tr>
+    </example>
+</logdet>
+
+<log>
+<group>A20:[sep=0.2]N1</group>
+<al>smsw-hAyt</al>
+<tr>elder of the portal</tr>
+</log>
+</sign>
+
+<sign id="A21">
+<logdet>
+<al>sr</al>
+<tr>official (noun)</tr>
+    <example>
+        <hi>s-r-A21</hi>
+        <hi>A21</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>dignitary</describe>
+    <example>
+	<hi>Sn-n:nw*W-t*A21-A1:Z1*Z1*Z1</hi>
+	<al>Snwt</al>
+	<tr>courtiers</tr>
+    </example>
+    <example>
+	<hi>s*U23-m*[fit](r:.)-[sep=0.4]A21</hi>
+	<al>smr</al>
+	<tr>courtier</tr>
+    </example>
+</det>
+
+<useas name="A11">
+    <example>
+	<hi>x:n-nm-m*s-A21</hi>
+	<al>xnms</al>
+	<tr>friend</tr>
+    </example>
+</useas>
+
+<useas name="A22">
+    <example>
+	<hi>D33:n-ti*A21</hi>
+	<al>Xntj</al>
+	<tr>statue</tr>
+    </example>
+</useas>
+</sign>
+
+<sign id="A22">
+<det>
+<describe>statue</describe>
+    <example>
+        <hi>D33:n-ti*A22</hi>
+        <al>Xntj</al>
+        <tr>statue</tr>
+    </example>
+    <example>
+	<hi>insert[s](insert[te](.*w*.,t),t)-A22</hi>
+	<al>twt</al>
+	<tr>statue</tr> 
+    </example>
+</det>
+
+<p>
+The exact shape varies depending on the nature of the statue.
+</p>
+</sign>
+
+<sign id="A23">
+<det>
+<al>jty</al>
+<tr>sovereign</tr>
+    <example>
+        <hi>i*ti-i*i-A23</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="A24">
+<logdet>
+<al>nxt</al>
+<tr>strong</tr>
+    <example>
+        <hi>n:xt:x*[sep=0.3](.:t)-A24</hi>
+        <hi>A24</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>strike, force, effort</describe>
+    <example>
+        <hi>H*w-A24</hi>
+        <al>Hwj</al>
+        <tr>strike</tr>
+    </example>
+    <example>
+        <hi>n:N42-m-A24</hi>
+        <al>nHm</al>
+        <tr>take away</tr>
+    </example>
+    <example>
+        <hi>H-a-DA*A-A24</hi>
+        <al>HaDA</al>
+        <tr>rob</tr>
+    </example>
+    <example>
+        <hi>sbA-A-A24</hi>
+        <al>sbA</al>
+        <tr>teach</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A25">
+<logdet>
+<al root="Hw">Hwj</al>
+<tr>strike</tr>
+    <example>
+        <hi>H*A25-A24</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="A26">
+<det>
+<describe>call</describe>
+    <example>
+        <hi>n:i*s-A26</hi>
+        <al>njs</al>
+        <tr>summon</tr>
+    </example>
+    <example>
+        <hi>Dw-w-i-A26</hi>
+        <al>Dwj</al>
+        <tr>call</tr>
+    </example>
+</det>
+
+<log>
+<group>F21*A26</group>
+<al>sDm-aS</al>
+<tr>servant</tr>
+</log>
+
+<det>
+<al>j</al>
+<tr>O (vocative interjection)</tr>
+    <example>
+        <hi>i*A26</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="A27">
+<phondet>
+<al>jn</al>
+    <example>
+        <hi>i*A27:n</hi>
+        <al>jn</al>
+        <tr>by</tr>
+    </example>
+</phondet>
+</sign>
+
+<sign id="A28">
+<logdet>
+<al root="qA">qAj</al>
+<tr>high</tr>
+    <example>
+        <hi>q*A-A28</hi>
+        <hi>A28</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>joy</describe>
+    <example>
+        <hi>H-a-A28-A2</hi>
+        <al>Haj</al>
+        <tr>rejoice</tr>
+    </example>
+    <example>
+        <hi>s*wA-S-A28</hi>
+        <al>swAS</al>
+        <tr>praise</tr>
+    </example>
+</det>
+
+<det>
+<describe>mourn</describe>
+    <example>
+        <hi>H*A-A28</hi>
+        <al>HAj</al>
+        <tr>mourn</tr>
+    </example>
+</det>
+
+<det>
+<al>jAs</al>
+<tr>bald</tr>
+    <example>
+        <hi>i*A-s*A28</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="A29">
+<det>
+<describe>upside down</describe>
+    <example>
+        <hi>s-x:d-A29</hi>
+        <al>sxd</al>
+        <tr>upside down</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A30">
+<det>
+<describe>praise, awe, supplicate</describe>
+    <example>
+    	<hi>i*A-w*A30</hi>
+	<al>jAw</al>
+	<tr>praise</tr>
+    </example>
+    <example>
+    	<hi>N14-A30</hi>
+	<al>dwA</al>
+	<tr>praise</tr>
+    </example>
+    <example>
+        <hi>s*wA-S-A30</hi>
+        <al>swAS</al>
+        <tr>praise</tr>
+    </example>
+    <example>
+        <hi>t*wA-A-A30</hi>
+        <al>twA</al>
+        <tr>claim</tr>
+    </example>
+    <example>
+        <hi>t-wr:r-A30</hi>
+        <al>twr</al>
+        <tr>show respect</tr>
+    </example>
+</det>
+
+<p>
+Cf. <signref name="A4" />.
+</p>
+</sign>
+
+<sign id="A31">
+<det>
+<describe>turn away</describe>
+    <example>
+    	<hi>a:n-insert[s](.*w,nw)-A31</hi>
+	<al>anw</al>
+	<tr>averted (face)</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A32">
+<det>
+<describe>dance</describe>
+    <example>
+    	<hi>x*[fit]b-A32</hi>
+	<al>xbj</al>
+	<tr>dance</tr>
+    </example>
+</det>
+
+<det>
+<describe>joy</describe>
+    <example>
+    	<hi>h-i*i-h:n-insert[s](.*w,nw)-A32</hi>
+	<al>hy-hnw</al>
+	<tr>jubilate</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="A32a">
+<useas name="A32" />
+</sign>
+
+<sign id="A33">
+<logdet>
+<al root="mnj">mnjw</al>
+<tr>herdsman</tr>
+    <example>
+	<hi>A33</hi>
+	<hi>mn:n-i*w-A33</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>wander</describe>
+    <example>
+	<hi>r:w-A33</hi>
+	<al>rwj</al>
+	<tr>wander</tr> 
+    </example>
+    <example>
+	<hi>S-U1-A33</hi>
+	<al>SmA</al>
+	<tr>stranger</tr> 
+    </example>
+</det>
+</sign>
+
+<sign id="A34">
+<det>
+<al root="xws">xwsj</al>
+<tr>pound</tr> 
+<tr>build</tr> 
+    <example>
+	<hi>x-[fit]w-s*A34</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="A35">
+<logdet>
+<al>qd</al>
+<tr>build</tr>
+    <example>
+	<hi>qd-d:nw-A34</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="A36">
+<logdet>
+<al root="aft">aftj</al>
+<tr>brewer</tr>
+    <example>
+	<hi>A36-t:Z4-A24</hi>
+	<hi>a:[sep=0.5]f:t-A36</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="A37">
+<useas name="A36" />
+</sign>
+
+<sign id="A38" period="12">
+<log>
+<al>^qjs</al>
+<tr>Qus</tr>
+    <example>
+	<hi>A38</hi>
+    </example>
+</log>
+</sign>
+
+<sign id="A39">
+<useas name="A38" />
+</sign>
+
+<sign id="A40">
+<det>
+<describe>god</describe>
+    <example>
+	<hi>p:t-H-A40</hi>
+	<al>^ptH</al>
+	<tr>Ptah</tr> 
+    </example>
+    <example>
+	<hi>mn:n-T*w-A40</hi>
+	<al>^mnTw</al>
+	<tr>Month</tr> 
+    </example>
+</det>
+
+<log>
+<al>=j</al>
+<tr>I (god or king)</tr>
+</log>
+
+<det>
+<describe>first person singular (god or king)</describe>
+    <example>
+	<hi>w-A40</hi>
+	<al>wj</al>
+	<tr>me</tr> 
+    </example>
+    <example>
+	<hi>nw:k-A40</hi>
+	<al>jnk</al>
+	<tr>I</tr> 
+    </example>
+</det>
+
+<p>
+Replacing earlier <signref name="G7" />.
+</p>
+</sign>
+
+<sign id="A40a">
+<useas name="A40" />
+</sign>
+
+<sign id="A41" period="18">
+<det>
+<describe>king</describe>
+    <example>
+	<hi>sw-t:n-A41</hi>
+	<al>nsw</al>
+	<tr>king</tr> 
+    </example>
+    <example>
+	<hi>Hm*Z1-A41</hi>
+	<al>Hm</al>
+	<tr>majesty</tr> 
+    </example>
+    <example>
+	<hi>nb-A41</hi>
+	<al>nb</al>
+	<tr>lord</tr> 
+    </example>
+</det>
+
+<log>
+<al>=j</al>
+<tr>I (king)</tr>
+</log>
+
+<det>
+<describe>first person singular (king)</describe>
+    <example>
+	<hi>w-A41</hi>
+	<al>wj</al>
+	<tr>me</tr> 
+    </example>
+    <example>
+	<hi>nw:k-A41</hi>
+	<al>jnk</al>
+	<tr>I</tr> 
+    </example>
+</det>
+</sign>
+
+<sign id="A42" period="18">
+<useas name="A41" />
+</sign>
+
+<sign id="A42a">
+<useas name="A41" />
+</sign>
+
+<sign id="A43">
+<logdet>
+<al root="ns">nsw</al>
+<tr>king (of Upper Egypt)</tr>
+    <example>
+	<hi>sw-t:n-A43</hi>
+	<hi>A43</hi>
+    </example>
+</logdet>
+
+<det>
+<al>^wsjr</al>
+<tr>Osiris</tr> 
+    <example>
+	<hi>st:ir-A43</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="A43a">
+<useas name="A43" />
+</sign>
+
+<sign id="A44">
+<useas name="A43" />
+</sign>
+
+<sign id="A45">
+<logdet>
+<al>bjtj</al>
+<tr>king of Lower Egypt</tr>
+    <example>
+	<hi>L2:t-A45</hi>
+	<hi>A45</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="A45a">
+<useas name="A45" />
+</sign>
+
+<sign id="A46">
+<useas name="A45" />
+</sign>
+
+<sign id="A47">
+<log>
+<al root="mnj">mnjw</al>
+<tr>herdsman</tr>
+    <example>
+	<hi>A47-w-A1</hi>
+    </example>
+</log>
+
+<logdet>
+<al>sAw</al>
+<tr>guard</tr>
+<tr>protect</tr> 
+    <example>
+	<hi>z:zA-A-A47-A24</hi>
+	<hi>A47-A-D40</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="A48">
+<logdet>
+<al root="jr">jrj</al>
+<tr>relating to</tr>
+<tr>belonging to</tr> 
+    <example>
+	<hi>i*r-A48</hi>
+	<hi>A48</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="A49">
+<det>
+<describe>foreigner</describe>
+    <example>
+	<hi>T14*m-w-A49*Z3</hi>
+	<al>aAmw</al>
+	<tr>Asiatics</tr> 
+    </example>
+    <example>
+	<hi>iwn*iwn*iwn-Aa32*A-A49-A49-A49</hi>
+	<al>jwntjw-^stj</al>
+	<tr>Nubian nomads</tr> 
+    </example>
+</det>
+</sign>
+
+<sign id="A50">
+<det useid="revered">
+<describe>revered person</describe>
+    <example>
+	<hi>s-n:b-w-A50</hi>
+	<al>^snbw</al>
+	<tr>Sonbu</tr> 
+    </example>
+    <example>
+	<hi>s*Ab-m:r-A50*Z3</hi>
+	<al>smrw</al>
+	<tr>courtiers</tr> 
+    </example>
+</det>
+
+<log>
+<al>=j</al>
+<tr>I (revered person)</tr>
+</log>
+
+<det>
+<describe>first person singular (revered person)</describe>
+    <example>
+	<hi>w-A50</hi>
+	<al>wj</al>
+	<tr>me</tr> 
+    </example>
+    <example>
+	<hi>nw:k-A50</hi>
+	<al>jnk</al>
+	<tr>I</tr> 
+    </example>
+</det>
+
+<logdet useid="noble">
+<al>Sps</al>
+<tr>noble</tr>
+</logdet>
+</sign>
+
+<sign id="A51">
+<useas name="A50" useref="revered">
+    <example>
+	<hi>imi-.:Z2a-[sep=0.5]w-HAt:t-A51*Z3</hi>
+	<al>jmjw-HAt</al>
+	<tr>ancestors</tr> 
+    </example>
+</useas>
+<useas name="A50" useref="noble" period="18-">
+    <example>
+	<hi>A51*s</hi>
+	<hi>S:p-s*A51</hi>
+	<al>Sps</al>
+	<tr>noble</tr>
+    </example>
+</useas>
+</sign>
+
+<sign id="A52" period="18">
+<useas name="A50" useref="revered" period="18">
+    <example>
+	<hi>pA-pt-A52</hi>
+	<al>^pA-Hrj</al>
+	<tr>Paheri</tr> 
+    </example>
+    <example>
+	<hi>z:a-H-E31-A52</hi>
+	<al>saH</al>
+	<tr>blessed (deceased)</tr> 
+    </example>
+</useas>
+<useas name="A50" useref="noble" period="18">
+    <example>
+	<hi>S:p:z-A52</hi>
+	<al>Sps</al>
+	<tr>noble</tr>
+    </example>
+</useas>
+</sign>
+
+<sign id="A53">
+<logdet>
+<al>twt</al>
+<tr>statue</tr>
+    <example>
+	<hi>insert[s](insert[te](.*w*.,t),t)-A53</hi>
+	<hi>A53</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>mummy</describe>
+    <example>
+	<hi>w*i-A53</hi>
+	<al>wj</al>
+	<tr>mummy-case</tr> 
+    </example>
+</det>
+
+<det>
+<describe>likeness, form</describe>
+    <example>
+	<hi>q*i-A53-mDAt[rotate=270]</hi>
+	<al>qj</al>
+	<tr>form</tr> 
+    </example>
+    <example>
+	<hi>xpr:r-w-A53-mDAt:Z2</hi>
+	<al>xprw</al>
+	<tr>form</tr> 
+    </example>
+</det>
+</sign>
+
+<sign id="A54">
+<det>
+<describe>death</describe>
+    <example>
+	<hi>mn:n-i-A54</hi>
+	<al>mnj</al>
+	<tr>death</tr> 
+    </example>
+    <example>
+	<hi>nb-anx-n:x-A54</hi>
+	<al>nb-anx</al>
+	<tr>sarcophagus</tr> 
+    </example>
+</det>
+</sign>
+
+<sign id="A55">
+<logdet>
+<al>sDr</al>
+<tr>lie</tr>
+    <example>
+	<hi>s-Dr:r-A55</hi>
+	<hi>A55</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>death</describe>
+    <example>
+	<hi>x:p*(.:t)-A55</hi>
+	<al>xpyt</al>
+	<tr>death</tr> 
+    </example>
+    <example>
+	<hi>XA:t-A55</hi>
+	<al>XAt</al>
+	<tr>corpse</tr> 
+    </example>
+</det>
+</sign>
+
+<sign id="A56" period="OK">
+<det>
+<al>bAk</al>
+<tr>servant</tr>
+</det>
+</sign>
+
+<sign id="A57">
+<log>
+<al>Htp-Dj-nsw</al>
+<tr>a boon that the king grants</tr>
+</log>
+</sign>
+
+<sign id="A58">
+<logdet>
+<al>SAd</al>
+<tr>dig</tr>
+</logdet>
+</sign>
+
+<sign id="A59">
+<det>
+<al>sHr</al>
+<tr>drive away</tr>
+    <example>
+        <hi>s-Hr:r-A59</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="A60">
+<det>
+<al root="sT">sTj</al>
+<tr>sow</tr>
+    <example>
+        <hi>s*t-A60</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="A61">
+<det>
+<describe>turn back, turn away</describe>
+</det>
+</sign>
+
+<sign id="A62">
+<log>
+<al>wr</al>
+<tr>Asiatic prince</tr>
+</log>
+</sign>
+
+<sign id="A63">
+<det>
+<describe>be seated (of king)</describe>
+</det>
+</sign>
+
+<sign id="A64">
+<det>
+<describe>offering</describe>
+</det>
+</sign>
+
+<sign id="A65">
+<log>
+<al>jrj-nTr</al>
+<tr>who belongs to the god</tr>
+</log>
+</sign>
+
+<sign id="A66">
+<logdet>
+<al root="jH">jHwj</al>
+<tr>sistrum player</tr>
+</logdet>
+</sign>
+
+<sign id="A67">
+<logdet>
+<al>nmw</al>
+<tr>dwarf</tr>
+</logdet>
+</sign>
+
+<sign id="A68">
+<det>
+<describe>kill</describe>
+</det>
+</sign>
+
+<sign id="A69">
+<log>
+<al>nxt</al>
+<tr>strong</tr>
+    <example>
+        <hi cite="GITB 801-748-550">t:f:n-A69</hi>
+        <al>^tA=f-nxt</al>
+        <tr>Tefnakht</tr>
+    </example>
+</log>
+</sign>
+
+<sign id="A70">
+<useas name="C11" useref="HH" />
+</sign>
+
+<sign id="B1">
+<det>
+<describe>female</describe>
+    <example>
+        <hi>z:t-B1</hi>
+        <al>st</al>
+        <tr>woman</tr>
+    </example>
+    <example>
+        <hi>N42:t-B1</hi>
+        <al>Hmt</al>
+        <tr>woman</tr>
+        <tr>wife</tr>
+    </example>
+    <example>
+        <hi>nTr-t:r:t-B1</hi>
+        <al>nTrt</al>
+        <tr>goddess</tr>
+    </example>
+    <example>
+        <hi>insert[te](zA,t)-B1</hi>
+        <al>sAt</al>
+        <tr>daughter</tr>
+    </example>
+    <example>
+        <hi>XA-A-r:t-D3-B1</hi>
+        <al>XArt</al>
+        <tr>widow</tr>
+    </example>
+    <example>
+        <hi>Hm*t-B1</hi>
+        <al>Hmt</al>
+        <tr>(female) slave</tr>
+    </example>
+    <example>
+        <hi>M27-i*i-t-B1</hi>
+        <al>Smayt</al>
+        <tr>(female) singer</tr>
+    </example>
+    <example>
+        <hi>nfr-r:t-B1</hi>
+        <al>^nfrt</al>
+        <tr>Nofret</tr>
+    </example>
+</det>
+
+<logdet period="19-">
+<al>=j</al>
+<tr>I (female)</tr>
+</logdet>
+</sign>
+
+<sign id="B2">
+<det>
+<describe>pregnant</describe>
+    <example>
+        <hi>E9-w-wr:r-B2</hi>
+        <al>jwr</al>
+        <tr>conceive</tr>
+    </example>
+    <example>
+        <hi>b*kA-B2</hi>
+        <al>bkA</al>
+        <tr>pregnant</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="B3">
+<logdet>
+<al root="ms">msj</al>
+<tr>give birth</tr>
+    <example>
+        <hi>ms*s-B3</hi>
+        <hi>B3</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="B4">
+<useas name="B3" />
+<useas texttype="hieratic" name="A3" />
+</sign>
+
+<sign id="B5">
+<det>
+<describe>nurse</describe>
+    <example>
+        <hi>mn:n-a-B5</hi>
+        <al>mna</al>
+        <tr>nurse (verb)</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="B5a">
+<useas name="B4">
+    <example>
+        <hi cite="GITB 804-013-500">x:n-m-B5a*t</hi>
+        <al>^xnmt</al>
+        <tr>Khnemt</tr>
+    </example>
+</useas>
+</sign>
+
+<sign id="B6">
+<det>
+<describe>rear</describe>
+    <example>
+        <hi>r:n:n-B6</hi>
+        <al>rnn</al>
+        <tr>rear</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="B7">
+<det>
+<describe>in names of queens</describe>
+</det>
+</sign>
+
+<sign id="B8">
+<det>
+<describe>in women's names</describe>
+</det>
+</sign>
+
+<sign id="B9">
+<logdet>
+<al root="jH">jHyt</al>
+<tr>(female) sistrum player</tr>
+</logdet>
+</sign>
+
+<sign id="C1">
+<logdet>
+<al>^ra</al>
+<tr>Re</tr>
+    <example>
+        <hi>r:a-C1</hi>
+        <hi>C1</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="C2">
+<useas name="C1">
+    <example>
+        <hi>r:a-C2</hi>
+        <hi>C2</hi>
+	<al>^ra</al>
+	<tr>Re</tr>
+    </example>
+</useas>
+</sign>
+
+<sign id="C2a">
+<useas name="C1" />
+</sign>
+
+<sign id="C2b">
+<useas name="C1" />
+</sign>
+
+<sign id="C2c">
+<useas name="C1" />
+</sign>
+
+<sign id="C3">
+<logdet>
+<al root="DHwt">^DHwtj</al>
+<tr>Thoth</tr>
+    <example>
+        <hi>G26-C3</hi>
+        <hi>C3</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="C4">
+<logdet>
+<al>^Xnmw</al>
+<tr>Khnum</tr>
+    <example>
+        <hi>W9*w-C4</hi>
+        <hi>C4</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="C5">
+<useas name="C4" />
+</sign>
+
+<sign id="C6">
+<logdet>
+<al root="jnp">^jnpw</al>
+<tr>Anubis</tr>
+    <example>
+        <hi>i-n:p-w-C6</hi>
+        <hi>C6</hi>
+    </example>
+</logdet>
+
+<det>
+<al>^wpj-wAwt</al>
+<tr>Upwawet</tr>
+    <example>
+        <hi>F13-N31-t:Z2-C6</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="C7">
+<logdet>
+<al>^stx</al>
+<tr>Seth</tr>
+    <example>
+        <hi>sw-w-t:Z4-C7</hi>
+        <hi>C7</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="C8">
+<logdet>
+<al>^mnw</al>
+<tr>Min</tr>
+    <example>
+        <hi>R22:R12-C8</hi>
+        <hi>C8</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="C9">
+<logdet>
+<al>^Hwt-^Hr</al>
+<tr>Hathor</tr>
+    <example>
+        <hi>O10-C9</hi>
+        <hi>C9</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="C10">
+<logdet>
+<al root="mAa">^mAat</al>
+<tr>Maat</tr>
+    <example>
+        <hi>U5:a-t-C10</hi>
+        <hi>C10</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="C10a" period="19">
+<useas name="C10" />
+</sign>
+
+<sign id="C11">
+<logdet>
+<al root="HH">^HHw</al>
+<tr>Heh</tr>
+</logdet>
+
+<log useid="HH" numeral="1000000">
+<al>HH</al>
+<tr>million</tr>
+<tr>many</tr>
+</log>
+</sign>
+
+<sign id="C12">
+<logdet>
+<al>^jmn</al>
+<tr>Amun</tr>
+</logdet>
+</sign>
+
+<sign id="C13">
+<useas name="C12" />
+</sign>
+
+<sign id="C14">
+<logdet>
+<al>^jmn-Hr-xpS=f</al>
+<tr>Amun-her-khepeshef</tr>
+</logdet>
+</sign>
+
+<sign id="C15">
+<useas name="C14" />
+</sign>
+
+<sign id="C16">
+<logdet>
+<al>^jtm</al>
+<tr>Atum</tr>
+</logdet>
+</sign>
+
+<sign id="C17">
+<logdet>
+<al>^mnTw</al>
+<tr>Month</tr> 
+</logdet>
+</sign>
+
+<sign id="C18">
+<logdet>
+<al>^tA-tnn</al>
+<tr>Tatenen</tr> 
+</logdet>
+</sign>
+
+<sign id="C19">
+<logdet>
+<al>^ptH</al>
+<tr>Ptah</tr> 
+</logdet>
+</sign>
+
+<sign id="C20">
+<useas name="C19" />
+</sign>
+
+<sign id="C21">
+<logdet>
+<al>^bs</al>
+<tr>Bes</tr> 
+    <example>
+	<hi cite="GITB 801-751-278">b*C21</hi>
+	<al>^bs</al>
+	<tr>Bes</tr> 
+    </example>
+</logdet>
+</sign>
+
+<sign id="C22">
+<logdet>
+<al>^xnsw</al>
+<tr>Khons</tr>
+</logdet>
+</sign>
+
+<sign id="C23">
+<logdet>
+<al>^bAstt</al>
+<tr>Bastet</tr> 
+</logdet>
+</sign>
+
+<sign id="C24">
+<logdet>
+<al>^njt</al>
+<tr>Neith</tr> 
+    <example>
+	<hi cite="GITB 801-753-130">nfr*C24</hi>
+	<al>^nfrt-^nt</al>
+	<tr>Nofretneith</tr> 
+    </example>
+</logdet>
+</sign>
+
+<sign id="D1">
+<log>
+<al>tp</al>
+<tr>head</tr>
+    <example>
+	<hi>D1:Z1</hi>
+	<al>tp</al>
+	<tr>head</tr> 
+    </example>
+    <example>
+	<hi>D1:p*Z4</hi>
+	<al>tpj</al>
+	<tr>first</tr> 
+    </example>
+</log>
+
+<det>
+<describe>head</describe>
+    <example>
+        <hi>HA-A-tp</hi>
+        <al>HA</al>
+        <tr>back of the head</tr>
+        <tr>behind</tr>
+    </example>
+    <example>
+        <hi>m-a:k-HA*tp</hi>
+        <al>mkHA</al>
+        <tr>neglect</tr>
+    </example>
+    <example>
+        <hi>d:h-n:t-tp</hi>
+        <al>dhnt</al>
+        <tr>forehead</tr>
+    </example>
+    <example>
+        <hi>d:h-n:tp</hi>
+        <al>dhn</al>
+        <tr>promote</tr>
+    </example>
+</det>
+
+<logdet>
+<al>DADA</al>
+<tr>head</tr>
+    <example>
+        <hi>DA*A-DA*A-tp:Z1</hi>
+        <hi>tp:Z1</hi>
+    </example>
+</logdet>
+
+<det>
+<al>gwA</al>
+<tr>pull tight</tr>
+    <example>
+        <hi>g-wA-A-tp:D40</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="D2">
+<log>
+<al>Hr</al>
+<tr>face</tr>
+<tr>upon</tr>
+    <example>
+        <hi>Hr:Z1</hi>
+    </example>
+</log>
+
+<phon>
+<al>Hr</al>
+    <example>
+	<hi>H-Hr:r-Aa19-A24</hi>
+	<al>Hr</al>
+	<tr>prepare</tr>
+    </example>
+    <example>
+	<hi>d:Hr-r:G37a</hi>
+	<al>dHr</al>
+	<tr>bitter</tr>
+    </example>
+</phon>
+</sign>
+
+<sign id="D3">
+<det>
+<describe>hair</describe>
+    <example>
+	<hi>Sn:n-Z4-[sep=0.5]D3</hi>
+	<al>Snj</al>
+	<tr>hair</tr>
+    </example>
+    <example>
+	<hi>s*km-m*[fit]D3</hi>
+	<al>skm</al>
+	<tr>grey-haired</tr>
+    </example>
+</det>
+
+<det>
+<describe>skin</describe>
+    <example>
+	<hi>i-E34a:n-D3</hi>
+	<al>jwn</al>
+	<tr>complexion</tr>
+    </example>
+    <example>
+	<hi>i-in:n-nm*m-[fit]D3</hi>
+	<al>jnm</al>
+	<tr>skin</tr>
+    </example>
+</det>
+
+<det>
+<describe>mourn</describe>
+    <example>
+	<hi>i*A-k*[fit]b-D3</hi>
+	<al>jAkb</al>
+	<tr>mourn</tr>
+    </example>
+</det>
+
+<det>
+<describe>empty, bald, forlorn</describe>
+    <example>
+	<hi>K4*A-r:t-D3*B1</hi>
+	<al>XArt</al>
+	<tr>widow</tr>
+    </example>
+    <example>
+	<hi>w-S:D3</hi>
+	<al>wS</al>
+	<tr>fall out (of hair)</tr>
+    </example>
+</det>
+
+<log>
+<group>G28-D3</group>
+<al>gm wS(.w)</al>
+<tr>found defective (of text)</tr>
+</log>
+</sign>
+
+<sign id="D4">
+<log>
+<al root="jr">jrt</al>
+<tr>eye</tr>
+    <example>
+	<hi>D4:X1*Z1</hi>
+    </example>
+</log>
+
+<log>
+<group>U1:D4</group>
+<group>D4:D4</group>
+<al root="mA">mAA</al>
+<tr>see</tr>
+    <example>
+	<hi>U2:D4-A*A</hi>
+    </example>
+</log>
+
+<phon>
+<al>jr</al>
+    <example>
+	<hi>D4</hi>
+	<al>jrj</al>
+	<tr>make</tr>
+    </example>
+    <example>
+	<hi>i-ir:t*t-W20</hi>
+	<al>jrTt</al>
+	<tr>milk</tr>
+    </example>
+</phon>
+
+<phon>
+<group>U1:D4</group>
+<al>mA</al>
+    <example>
+	<hi>U2:D4-A*w-F27:Z2</hi>
+	<al>mAjw</al>
+	<tr>lions</tr>
+    </example>
+</phon>
+
+<det period="-18" useid="see">
+<describe>eye, see</describe>
+    <example>
+	<hi>d:g-D4</hi>
+	<al>dgj</al>
+	<tr>look</tr>
+    </example>
+    <example>
+	<hi>S:p-D4</hi>
+	<al>Sp</al>
+	<tr>blind</tr>
+    </example>
+    <example>
+	<hi>rs*D4</hi>
+	<al>rs</al>
+	<tr>wakeful</tr>
+    </example>
+</det>
+
+<logdet useid="weep">
+<al root="rm">rmj</al>
+<tr>weep</tr>
+    <example>
+	<hi>r:m-D4</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="D5">
+<useas name="D4" useref="see" period="18-">
+    <example>
+	<hi>d:g-D5</hi>
+	<al>dgj</al>
+	<tr>look</tr>
+    </example>
+    <example>
+	<hi>S:p-D5</hi>
+	<al>Sp</al>
+	<tr>blind</tr>
+    </example>
+    <example>
+	<hi>rs*D5</hi>
+	<al>rs</al>
+	<tr>wakeful</tr>
+    </example>
+</useas>
+</sign>
+
+<sign id="D6">
+<useas name="D4" useref="see" period="18-"/>
+</sign>
+
+<sign id="D7">
+<det>
+<describe>adorn</describe>
+    <example>
+	<hi>ms*s-D-t*[fit]mwt-D7:Z2b</hi>
+	<al>msdmt</al>
+	<tr>black eye-paint</tr>
+    </example>
+    <example>
+	<hi>a:n-D7</hi>
+	<al>an</al>
+	<tr>beautiful</tr>
+    </example>
+</det>
+
+<phondet>
+<al>an</al>
+    <example>
+	<hi>a:n-nw*[fit]w-D7</hi>
+	<al>^anw</al>
+	<tr>Ainu</tr>
+    </example>
+</phondet>
+
+<det>
+<describe>eye, see</describe>
+    <example>
+	<hi>p:t-rnp*D7</hi>
+	<al>ptr</al>
+	<tr>behold</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="D8">
+<det>
+<al>^anw</al>
+<tr>Ainu</tr>
+    <example>
+	<hi>a:nw-D8</hi>
+    </example>
+</det>
+
+<phondet>
+<al>an</al>
+    <example>
+	<hi>a:n-D8</hi>
+	<al>an</al>
+	<tr>beautiful</tr>
+    </example>
+</phondet>
+<p>
+Cf. <signref name="D7" />.
+</p>
+</sign>
+
+<sign id="D8a">
+<useas name="D8" />
+</sign>
+
+<sign id="D9">
+<useas name="D4" useref="weep" period="18-">
+    <example>
+	<hi>D21:m-D9</hi>
+	<hi>D9</hi>
+    </example>
+</useas>
+</sign>
+
+<sign id="D10">
+<logdet>
+<al>wDAt</al>
+<tr>the uninjured eye of Horus</tr>
+    <example>
+	<hi>w*DA-A*[fit]t-D10</hi>
+	<hi>D10</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="D11">
+<log>
+<al>1/2</al>
+<tr>1/2 heqat</tr>
+</log>
+</sign>
+
+<sign id="D12">
+<det>
+<al>DfD</al>
+<tr>pupil of eye</tr>
+    <example>
+	<hi>insert[bs](D,f)-insert[b](D,D12)</hi>
+    </example>
+</det>
+
+<log>
+<al>1/4</al>
+<tr>1/4 heqat</tr>
+</log>
+</sign>
+
+<sign id="D13">
+<log>
+<al>1/8</al>
+<tr>1/8 heqat</tr>
+</log>
+
+<det>
+<al>jnH</al>
+<tr>eyebrows</tr>
+    <example>
+	<hi>i-in:n-H-D13:D13</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="D14">
+<log>
+<al>1/16</al>
+<tr>1/16 heqat</tr>
+</log>
+</sign>
+
+<sign id="D15">
+<log>
+<al>1/32</al>
+<tr>1/32 heqat</tr>
+</log>
+</sign>
+
+<sign id="D16">
+<log>
+<al>1/64</al>
+<tr>1/64 heqat</tr>
+</log>
+</sign>
+
+<sign id="D17">
+<logdet>
+<al>tjt</al>
+<tr>image</tr>
+    <example>
+	<hi>t*i-t:D17</hi>
+	<hi>insert[t,sep=0.6](D17,t[scale=0.8])</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="D18">
+<logdet>
+<al>msDr</al>
+<tr>ear</tr>
+    <example>
+	<hi>ms*s-Dr:D21-D18</hi>
+    </example>
+    <example>
+	<hi>D18*[sep=0.2]D18</hi>
+	<al>msDrwj</al>
+	<tr>both ears</tr>
+    </example>
+</logdet>
+</sign>
+
+<sign id="D19">
+<logdet>
+<al>fnD</al>
+<tr>nose</tr>
+    <example>
+	<hi>f:nD-D19</hi>
+	<hi>f:n:d-D19</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>nose, smell, face</describe>
+    <example>
+	<hi>S:D21:t-D19</hi>
+	<al>Srt</al>
+	<tr>nose</tr>
+    </example>
+    <example>
+	<hi>s*sn:n-D19</hi>
+	<al>sn</al>
+	<tr>smell</tr>
+    </example>
+    <example>
+	<hi>xnt-n:t-D19</hi>
+	<al>xnt</al>
+	<tr>face</tr>
+    </example>
+</det>
+
+<det>
+<describe>joy</describe>
+    <example>
+	<hi>D21:S-D19</hi>
+	<al>rSw</al>
+	<tr>rejoice</tr>
+    </example>
+    <example>
+	<hi>xnt-n:t:S-D19</hi>
+	<al>xntS</al>
+	<tr>take pleasure</tr>
+    </example>
+</det>
+
+<det>
+<describe>soft, kind</describe>
+    <example>
+	<hi>s-f:n-D19</hi>
+	<al>sfn</al>
+	<tr>mild</tr>
+    </example>
+</det>
+
+<det>
+<al>btn</al>
+<tr>disobedient</tr>
+    <example>
+	<hi>b-T:n-D19</hi>
+    </example>
+</det>
+
+<logdet>
+<al>xnt</al>
+<tr>in front of</tr>
+    <example>
+	<hi>xnt-n:t*Z4-D19</hi>
+	<hi>D19:t</hi>
+    </example>
+</logdet>
+
+<phon>
+<al>xnt</al>
+</phon>
+
+<useas name="Aa32">
+    <example>
+	<hi>D19-t:Z4-N33:Z2</hi>
+	<al>stj</al>
+	<tr>spruce ochre</tr>
+    </example>
+</useas>
+
+<useas name="U31">
+    <example>
+	<hi>x:n-i-D19:D40</hi>
+	<al>xnr</al>
+	<tr>confine</tr>
+    </example>
+</useas>
+</sign>
+
+<sign id="D20">
+<useas name="D19" />
+</sign>
+
+<sign id="D21">
+<log>
+<al>rA</al>
+<tr>mouth</tr>
+    <example>
+	<hi>D21:Z1</hi>
+    </example>
+</log>
+
+<phon>
+<al>r</al>
+</phon>
+
+<phon type="group">
+<group>D21:Z1</group>
+<al>r</al>
+    <example>
+    	<hi>i*R7[scale=0.7]-[sep=0.5]bA-D21:Z1-E6</hi>
+    	<al>jbr</al>
+    	<tr>stallion</tr>
+    </example>
+</phon>
+</sign>
+
+<sign id="D22">
+<log>
+<al>2/3</al>
+<tr>two-thirds</tr>
+</log>
+</sign>
+
+<sign id="D23">
+<log>
+<al>3/4</al>
+<tr>three-quarters</tr>
+</log>
+</sign>
+
+<sign id="D24">
+<logdet>
+<al root="sp">spt</al>
+<tr>lip</tr>
+<tr>border</tr>
+    <example>
+	<hi>D24:t*Z1</hi>
+	<hi>s*(p:t)-D24</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="D25">
+<logdet>
+<al>sptj</al>
+<tr>both lips</tr>
+    <example>
+	<hi>s*[fit](p:t*Z4)-[sep=0.3]D25</hi>
+	<hi>D25:t*Z4</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="D26">
+<det>
+<describe>expel (through mouth)</describe>
+    <example>
+	<hi>p:z-g-D26</hi>
+	<al>psg</al>
+	<tr>spit</tr>
+    </example>
+    <example>
+	<hi>b-S:D26</hi>
+	<al>bSj</al>
+	<tr>vomit</tr>
+    </example>
+    <example>
+	<hi>q*[sep=0.2]A-a:D26</hi>
+	<hi>q:a-D26</hi>
+	<al>qAa</al>
+	<tr>spew out</tr>
+    </example>
+    <example>
+	<hi>z:n:f-D26:Z2</hi>
+	<al>snf</al>
+	<tr>blood</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="D27">
+<logdet>
+<al>mnD</al>
+<tr>breast</tr>
+    <example>
+	<hi>mn:n-insert[b](D,D27)</hi>
+	<hi>mn:n-d:D27*F51</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>suckle, rear</describe>
+    <example>
+	<hi>z:n-q:D27</hi>
+	<al>snq</al>
+	<tr>suckle</tr>
+    </example>
+    <example>
+	<hi>mn:n-a:Z4*D27</hi>
+	<al>mnaj</al>
+	<tr>tutor</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="D27a">
+<useas name="D27" />
+</sign>
+
+<sign id="D28">
+<log>
+<al>kA</al>
+<tr>spirit</tr>
+    <example>
+	<hi>kA:Z1</hi>
+    </example>
+</log>
+
+<phon>
+<al>kA</al>
+    <example>
+	<hi>kA:t-A9</hi>
+	<al>kAt</al>
+	<tr>work</tr>
+    </example>
+    <example>
+	<hi>H*kA-A-A2</hi>
+	<al>HkA</al>
+	<tr>magic</tr>
+    </example>
+</phon>
+
+<phon type="group">
+<group>D28:Z1</group>
+<al>k</al>
+</phon>
+</sign>
+
+<sign id="D29">
+<log>
+<al>kA</al>
+<tr>spirit</tr>
+</log>
+</sign>
+
+<sign id="D30">
+<det>
+<al>^nHb-kAw</al>
+<tr>Nehebkau</tr>
+    <example>
+	<hi>nH*H-b*Z9-kA:Z2-D30</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="D31">
+<log>
+<al>Hm-kA</al>
+<tr>ka-priest</tr>
+</log>
+</sign>
+
+<sign id="D31a">
+<useas name="D31" />
+</sign>
+
+<sign id="D32">
+<det>
+<describe>envelop</describe>
+    <example>
+	<hi>i-in:n-q-D32</hi>
+	<al>jnq</al>
+	<tr>envelop</tr>
+    </example>
+    <example>
+	<hi>H-p:t-D32</hi>
+	<al>Hpt</al>
+	<tr>embrace</tr>
+    </example>
+    <example>
+	<hi>p:g-A-D32</hi>
+	<al>pgA</al>
+	<tr>unfold</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="D33">
+<log>
+<al root="Xn">Xnj</al>
+<tr>row</tr>
+    <example>
+	<hi>D33:n-P1</hi>
+    </example>
+</log>
+
+<phon>
+<al>Xn</al>
+    <example>
+	<hi>D33-n:n-nw*[sep=0.3]w-E20-D40:Z2</hi>
+	<al>Xnnw</al>
+	<tr>turmoil</tr>
+    </example>
+</phon>
+</sign>
+
+<sign id="D34">
+<log>
+<al>aHA</al>
+<tr>fight</tr>
+    <example>
+	<hi>D34-A-A24</hi>
+    </example>
+</log>
+</sign>
+
+<sign id="D34a" period="OK">
+<useas name="D34" />
+</sign>
+
+<sign id="D35">
+<log>
+<al>n</al>
+<tr>not</tr>
+</log>
+
+<log>
+<group>D35:N35</group>
+<al>nn</al>
+<tr>not</tr>
+</log>
+
+<det>
+<describe>negation</describe>
+    <example>
+        <hi>i*m-D35</hi>
+        <al>jmj</al>
+        <tr>should not</tr>
+    </example>
+    <example>
+        <hi>x*m-[sep=0.2]D35</hi>
+        <al>xm</al>
+        <tr>not know</tr>
+    </example>
+</det>
+
+<log>
+<al root="jwt">jwtj</al>
+<tr>which not</tr>
+    <example>
+        <hi>D35:t*Z4-G37</hi>
+        <hi>D35-[sep=0.3]insert[te](w*.,t)</hi>
+        <hi>i*w-D35-ti*i</hi>
+    </example>
+</log>
+
+<phon>
+<al>n</al>
+    <example>
+        <hi>n</hi>
+        <al>n</al>
+        <tr>to</tr>
+    </example>
+    <example>
+        <hi>D35:n-Sm-m-[sep=0.2]F51</hi>
+        <al>nnSm</al>
+        <tr>spleen</tr>
+    </example>
+</phon>
+
+<phondet>
+<al>xm</al>
+    <example>
+        <hi>x:z-m-D35:pr</hi>
+        <al>xm</al>
+        <tr>shrine</tr>
+    </example>
+</phondet>
+
+<phondet>
+<al>mx</al>
+    <example>
+        <hi>s*m-[sep=0.5]x:D35</hi>
+        <al>smx</al>
+        <tr>forget</tr>
+    </example>
+</phondet>
+</sign>
+
+<sign id="D36">
+<log>
+<al>a</al>
+<tr>arm</tr>
+    <example>
+        <hi>a:Z1</hi>
+    </example>
+</log>
+
+<phon>
+<al>a</al>
+</phon>
+
+<useas name="D37" />
+<useas name="D38" />
+<useas name="D39" />
+<useas name="D40" />
+<useas name="D41" />
+<useas name="D42" />
+<useas name="D43" />
+<useas name="D44" />
+</sign>
+
+<sign id="D37">
+<log>
+<al>jmj</al>
+<tr>give!</tr>
+    <example>
+        <hi>i-D37</hi>
+        <hi>D37</hi>
+    </example>
+</log>
+
+<log>
+<al root="D">Dj</al>
+<tr>give</tr>
+    <example>
+        <hi>D37</hi>
+    </example>
+</log>
+
+<log>
+<group>D21:D37</group>
+<al root="rD">rDj</al>
+<tr>give</tr>
+    <example>
+        <hi>D21:D37</hi>
+    </example>
+</log>
+
+<phon>
+<al>D</al>
+    <example>
+        <hi>D37:D37-[sep=1.0]w-niwt</hi>
+        <al>Ddw</al>
+        <tr>Busiris</tr>
+    </example>
+</phon>
+
+<phon>
+<al>mj</al>
+<al>m</al>
+    <example>
+        <hi>k-[sep=0.3]m-D37-B1</hi>
+        <al>^kmj</al>
+        <tr>Kemi</tr>
+    </example>
+    <example>
+        <hi>m-D37:k</hi>
+        <al>mk</al>
+        <tr>behold</tr>
+    </example>
+</phon>
+</sign>
+
+<sign id="D38">
+<det period="MK,18">
+<al>jmj</al>
+<tr>give!</tr>
+    <example>
+        <hi>i*m-Aa15:D38</hi>
+    </example>
+</det>
+
+<phon>
+<al>m</al>
+<al>mj</al>
+    <example>
+        <hi>m-D38:k-D40</hi>
+        <al>mkj</al>
+        <tr>protect</tr>
+    </example>
+    <example>
+        <hi>i-t:D38-A40</hi>
+        <al>^jtm</al>
+        <tr>Atum</tr>
+    </example>
+</phon>
+</sign>
+
+<sign id="D39">
+<logdet>        
+<al>Hnk</al>
+<tr>offer</tr>    
+    <example>
+        <hi>H-M2:n-k:D39</hi>
+        <hi>D39</hi>
+    </example>
+</logdet>
+
+<det>
+<describe>offer, present</describe>
+    <example>
+        <hi>d:r-p:D39</hi>
+        <al>drp</al>
+        <tr>offer</tr>
+    </example>
+</det>
+
+<useas name="D37" period="9-12">
+    <example>
+        <hi>D21:D39</hi>
+        <al>rDj</al>
+        <tr>who causes</tr>
+    </example>
+    <example>
+        <hi>ra*m-D39:k-t</hi>
+        <al>^mkt-^ra</al>
+        <tr>Meketre</tr>
+    </example>
+</useas>
+
+<useas name="D38" period="9-12">
+</useas>
+
+<useas name="D36" period="9-12">
+    <example>
+        <hi>m-D39</hi>
+        <al>m-a</al>
+        <tr>by the hand of</tr>
+    </example>
+</useas>
+</sign>
+
+<sign id="D40">
+<useas name="A24" period="MK">
+    <example>
+        <hi>n:xt:x*t-D40</hi>
+        <hi>D40</hi>
+        <al>nxt</al>
+        <tr>strong</tr>
+    </example>
+    <example>
+        <hi>i*(t:H)-D40</hi>
+        <al>jtH</al>
+        <tr>drag</tr>
+    </example>
+</useas>
+
+<logdet>
+<al root="xA">xAj</al>
+<tr>examine</tr>    
+    <example>
+        <hi>xA*A-D40</hi>
+        <hi>D40</hi>
+    </example>
+</logdet>
+
+<useas name="D37" period="11"/>
+</sign>
+
+<sign id="D41">
+<det>
+<describe>arm and movement of arms</describe>
+    <example>
+        <hi>g*b-bA*A-D41</hi>
+        <al>gbA</al>
+        <tr>arm</tr>
+    </example>
+    <example>        
+        <hi>D21:mn:n-D41</hi>
+        <hi>D21:n-D41</hi>        
+        <hi>D41:F51*Z1</hi>
+        <al>rmn</al>
+        <tr>arm</tr>
+    </example>
+    <example>
+        <hi>iAb*[fit]b-Z4:D41</hi>
+        <al>jAbj</al>
+        <tr>left</tr>
+    </example>
+    <example>
+        <hi>X*[fit]m-s*D41</hi>
+        <al>Xms</al>
+        <tr>bend</tr>
+    </example>
+     <example>
+        <hi>D21:q-D41</hi>
+        <al>rqj</al>
+        <tr>resist</tr>
+    </example>
+    <example>
+        <hi>H*Hz*s-D41</hi>
+        <al>Hsj</al>
+        <tr>sing</tr>
+    </example>
+</det>
+
+<det>
+<describe>cease</describe>
+    <example>
+        <hi>g:r-H*D41</hi>
+        <al>grH</al>
+        <tr>finish</tr>
+    </example>
+    <example>
+        <hi>n:i-[sep=0.2]D41</hi>
+        <al>nj</al>
+        <tr>reject</tr>
+    </example>
+</det>
+
+<phonphondet>
+<al>nj</al>
+    <example>
+        <hi>D41:W-G34</hi>
+        <al>njw</al>
+        <tr>ostrich</tr>
+    </example>
+    <example>
+        <hi>D41:Z1*W10</hi>
+        <hi>n:[sep=0.3]i*w-D41-W22</hi>
+        <al>njw</al>
+        <tr>bowl</tr>
+    </example>
+</phonphondet>
+</sign>
+
+<sign id="D42">
+<logdet>
+<al>mH</al>
+<tr>cubit</tr>
+    <example>
+        <hi>mH:[sep=0.1]D42</hi>
+        <hi>D42</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="D43">
+<log>
+<al>xwj</al>
+<tr>protect</tr>
+    <example>
+        <hi>x:[sep=0.4]D43-[sep=0.4]w*mDAt[rotate=270]</hi>
+    </example>
+</log>
+
+<phon>
+<al>xw</al>
+    <example>
+        <hi>x:[sep=0.6]D43-w*[sep=0.4]w-G37a:Z2</hi>
+        <al>xww</al>
+        <tr>evil</tr>
+    </example>
+    <example>
+        <hi>s-x:[sep=0.4]D43-d:mDAt</hi>
+        <al>sxwd</al>
+        <tr>enrich</tr>
+    </example>
+</phon>
+</sign>
+
+<sign id="D44">
+<logdet>
+<al>xrp</al>
+<tr>administer</tr>
+    <example>
+        <hi>x:r-p:[sep=0.4]D44</hi>
+        <hi>D44</hi>
+    </example>
+</logdet>
+
+<useas name="D37" period="11"/>
+</sign>
+
+<sign id="D45">
+<logdet>
+<al>Dsr</al>
+<tr>sacred</tr>
+    <example>
+        <hi>D45:r-mDAt[rotate=270]</hi>
+        <hi>D45</hi>
+        <hi>insert[b,sep=0.5](D,s)-D45:r</hi>
+    </example>
+</logdet>
+</sign>
+
+<sign id="D46" period="OK,12">
+<log>
+<al root="Dr">Drt</al>
+<tr>hand</tr>
+    <example>
+        <hi>d:t*Z1</hi>
+    </example>
+</log>
+
+<phon>
+<al>d</al>
+    <example>
+        <hi>w-d:D40</hi>
+        <al>wdj</al>
+        <tr>put</tr>
+    </example>
+</phon>
+</sign>
+
+<sign id="D46a" period="OK,12">
+<log>
+<al root="jd">jdt</al>
+<tr>fragrance</tr>
+    <example>
+        <hi>D46a:t</hi>
+        <hi>D46a:t-N4</hi>
+    </example>
+</log>
+</sign>
+
+<sign id="D47">
+<det>
+<describe>hand</describe>
+    <example>
+        <hi>Dr:r-t:D47</hi>
+        <al>Drt</al>
+        <tr>hand</tr>
+    </example>    
+    <example>
+        <hi>DA-t:D47</hi>
+        <al>DAt</al>
+        <tr>hand</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="D48">
+<log>
+<al>Ssp</al>
+<tr>palm</tr>
+</log>
+</sign>
+
+<sign id="D48a">
+<logdet>
+<al root="Hn">Hnt</al>
+<tr>basin</tr>
+</logdet>
+</sign>
+
+<sign id="D49">
+<det>
+<describe>grasp</describe>
+</det>
+</sign>
+
+<sign id="D50">
+<logdet>
+<al>Dba</al>
+<tr>finger</tr>
+</logdet>
+
+<log numeral="10000">
+<al>Dba</al>
+<tr>10000</tr>
+</log>
+
+<phon>
+<al>Dba</al>
+</phon>
+
+<det dual="true" useid="accurate">
+<group>D50*D50</group>
+<describe>accurate</describe>
+</det>
+</sign>
+
+<sign id="D50a">
+<useas number="2" name="D50"/>
+</sign>
+
+<sign id="D50b">
+<useas number="3" name="D50"/>
+</sign>
+
+<sign id="D50c">
+<useas number="4" name="D50"/>
+</sign>
+
+<sign id="D50d">
+<useas number="5" name="D50"/>
+</sign>
+
+<sign id="D50e">
+<useas number="6" name="D50"/>
+</sign>
+
+<sign id="D50f">
+<useas number="7" name="D50"/>
+</sign>
+
+<sign id="D50g">
+<useas number="8" name="D50"/>
+</sign>
+
+<sign id="D50h">
+<useas number="9" name="D50"/>
+</sign>
+
+<sign id="D50i">
+<useas number="5" name="D50"/>
+</sign>
+
+<sign id="D51">
+<logdet>
+<al root="an">ant</al>
+<tr>nail</tr>
+</logdet>
+
+<det>
+<describe>actions involving fingers</describe>
+</det>
+
+<phondet>
+<al>dqr</al>
+</phondet>
+
+<log>
+<group>D51:N33a</group>
+<al>dqr</al>
+<tr>fruit</tr>
+</log>
+
+<log>
+<group>D51:N33a</group>
+<al>qAw</al>
+<tr>grains</tr>
+</log>
+</sign>
+
+<sign id="D52">
+<det>
+<describe>male, penis</describe>
+</det>
+
+<log>
+<group>D52:E1</group>
+<al>kA</al>
+<tr>bull</tr>
+</log>
+
+<phon>
+<al>mt</al>
+</phon>
+</sign>
+
+<sign id="D52a">
+<phon>
+<al>smt</al>
+</phon>
+</sign>
+
+<sign id="D53">
+<det>
+<describe>penis and associated actions</describe>
+</det>
+
+<det period="MK">
+<describe>male</describe>
+</det>
+
+<logdet>
+<al>bAH</al>
+<tr certain="false">glans</tr>
+    <example>
+        <hi>G17-D53:Z1</hi>
+        <hi>G17*b-bA*A-H-D53:Y1</hi>
+        <al>m-bAH</al>
+        <tr>in the presence of</tr>
+    </example>
+</logdet>
+</sign>
+
+<sign id="D54">
+<log>
+<al>jw</al>
+<tr>come</tr>
+</log>
+
+<det>
+<describe>movement</describe>
+</det>
+
+<log>
+<al root="nmt">nmtt</al>
+<tr>step</tr>
+    <example>
+	<hi>D54-X1:Z1</hi>
+    </example>
+</log>
+</sign>
+
+<sign id="D54a" texttype="hieratic">
+<useas name="D54" />
+</sign>
+
+<sign id="D55">
+<det>
+<describe>backwards</describe>
+</det>
+</sign>
+
+<sign id="D56">
+<logdet>
+<al>rd</al>
+<tr>foot</tr>
+</logdet>
+
+<det>
+<describe>foot</describe>
+</det>
+
+<phonphondet>
+<al>pds</al>
+</phonphondet>
+
+<phonphondet>
+<al>war</al>
+</phonphondet>
+
+<phonphondet>
+<al>sbq</al>
+</phonphondet>
+
+<phon>
+<al>gH</al>
+</phon>
+
+<phondet>
+<al>gHs</al>
+</phondet>
+
+<det>
+<group>D56*D54</group>
+<describe>movement</describe>
+</det>
+</sign>
+
+<sign id="D57">
+<det>
+<describe>mutilate</describe>
+</det>
+
+<phonphondet>
+<al>jAT</al>
+</phonphondet>
+
+<phonphondet>
+<al>sjAT</al>
+</phonphondet>
+</sign>
+
+<sign id="D58">
+<log>
+<al>bw</al>
+<tr>place</tr>
+</log>
+
+<phon>
+<al>b</al>
+</phon>
+</sign>
+
+<sign id="D59">
+<phon>
+<al>ab</al>
+</phon>
+</sign>
+
+<sign id="D60">
+<useas name="A6" period="ME"/>
+</sign>
+
+<sign id="D61">
+<logdet>
+<al>sAH</al>
+<tr>toe</tr>
+</logdet>
+
+<phonphondet>
+<al>sAH</al>
+</phonphondet>
+</sign>
+
+<sign id="D62">
+<useas name="D61" />
+</sign>
+
+<sign id="D63">
+<useas name="D61" />
+</sign>
+
+<sign id="D64">
+<det>
+<al>kp</al>
+<tr>severed hands</tr>
+</det>
+</sign>
+
+<sign id="D65">
+<logdet>
+<al>Hnkt</al>
+<tr>lock of hair</tr>
+</logdet>
+
+<log>
+<al>Srj</al>
+<tr>boy</tr>
+</log>
+
+<log>
+<al>Srjt</al>
+<tr>girl</tr>
+</log>
+</sign>
+
+<sign id="D66">
+<det>
+<describe>writing</describe>
+    <example>
+        <hi>w-d:n-D66</hi>
+        <al>wdn</al>
+        <tr>record royal titulary</tr>
+    </example>
+    <example>
+        <hi>s-F46a:D66</hi>
+        <al>spXr</al>
+        <tr>write</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="D67">
+<log>
+<al>1</al>
+<tr>1 heqat</tr>
+</log>
+</sign>
+
+<sign id="D67a">
+<useas number="2" name="D67"/>
+</sign>
+
+<sign id="D67b">
+<useas number="3" name="D67"/>
+</sign>
+
+<sign id="D67c">
+<useas number="4" name="D67"/>
+</sign>
+
+<sign id="D67d">
+<useas number="5" name="D67"/>
+</sign>
+
+<sign id="D67e">
+<useas number="6" name="D67"/>
+</sign>
+
+<sign id="D67f">
+<useas number="7" name="D67"/>
+</sign>
+
+<sign id="D67g">
+<useas number="8" name="D67"/>
+</sign>
+
+<sign id="D67h">
+<useas number="9" name="D67"/>
+</sign>
+
+<sign id="E1">
+<log>
+<al>kA</al>
+<tr>bull</tr>
+</log>
+
+<log>
+<al>jH</al>
+<tr>cattle</tr>
+</log>
+
+<det>
+<describe>cattle</describe>
+</det>
+</sign>
+
+<sign id="E2">
+<log>
+<al>kA</al>
+<tr>bull</tr>
+</log>
+
+<det>
+<al>smA</al>
+<tr>fighting bull</tr>
+</det>
+</sign>
+
+<sign id="E3">
+<logdet>
+<al>bHs</al>
+<tr>calf</tr>
+</logdet>
+
+<det>
+<al>wnDw</al>
+<tr>short-horned cattle</tr>
+</det>
+</sign>
+
+<sign id="E4">
+<logdet>
+<al>HsAt</al>
+<tr>sacred hesat-cow</tr>
+</logdet>
+</sign>
+
+<sign id="E5">
+<det>
+<describe>solicitous</describe>
+</det>
+</sign>
+
+<sign id="E6">
+<logdet>
+<al>ssmt</al>
+<tr>horse</tr>
+</logdet>
+
+<det>
+<describe>horse</describe>
+</det>
+</sign>
+
+<sign id="E7">
+<logdet>
+<al>aA</al>
+<tr>ass</tr>
+</logdet>
+</sign>
+
+<sign id="E8">
+<logdet>
+<al>jb</al>
+<tr>kid</tr>
+</logdet>
+
+<phonphondet>
+<al>jb</al>
+</phonphondet>
+
+<det>
+<describe>small cattle</describe>
+</det>
+</sign>
+
+<sign id="E8a" period="19-">
+<useas name="E8" />
+</sign>
+
+<sign id="E9">
+<phon>
+<al>jw</al>
+</phon>
+
+<phon type="group">
+<group>E9[scale=0.8]*[fit]G43</group>
+<al>j</al>
+</phon>
+</sign>
+
+<sign id="E9a">
+<det>
+<al>smA</al>
+<tr>sacrificial animal</tr>
+</det>
+</sign>
+
+<sign id="E10">
+<logdet>
+<al>bA</al>
+<tr>ram</tr>
+</logdet>
+
+<logdet>
+<group>.:W9*[fit]E10</group>
+<al>^Xnmw</al>
+<tr>Khnum</tr>
+</logdet>
+
+<det>
+<describe>ram, sheep</describe>
+</det>
+</sign>
+
+<sign id="E11">
+<useas name="E10" />
+</sign>
+
+<sign id="E12">
+<logdet>
+<al root="rr">rrj</al>
+<tr>pig</tr>
+</logdet>
+
+<logdet>
+<al>SAj</al>
+<tr>pig</tr>
+</logdet>
+</sign>
+
+<sign id="E13">
+<logdet>
+<al>mjw</al>
+<tr>cat (m.)</tr>
+</logdet>
+
+<logdet>
+<al root="my">myt</al>
+<tr>cat (f.)</tr>
+</logdet>
+</sign>
+
+<sign id="E14">
+<logdet>
+<al>jw</al>
+<tr>dog</tr>
+</logdet>
+
+<logdet>
+<al>Tsm</al>
+<tr>dog</tr>
+</logdet>
+</sign>
+
+<sign id="E15">
+<logdet>
+<al root="jnp">^jnpw</al>
+<tr>Anubis</tr>
+</logdet>
+
+<log>
+<al>Hrj-sStA</al>
+<tr>master of secrets</tr>
+</log>
+</sign>
+
+<sign id="E16">
+<useas name="E15" />
+</sign>
+
+<sign id="E16a">
+<useas name="E15" />
+</sign>
+
+<sign id="E17">
+<logdet>
+<al>sAb</al>
+<tr>jackal</tr>
+<tr>dignitary</tr>
+</logdet>
+</sign>
+
+<sign id="E17a">
+<logdet>
+<al>sTA</al>
+<tr>drag</tr>
+</logdet>
+
+<phonphondet>
+<al>sTA</al>
+</phonphondet>
+</sign>
+
+<sign id="E18">
+<logdet>
+<al>^wpj-wAwt</al>
+<tr>Wepwawet</tr>
+</logdet>
+</sign>
+
+<sign id="E19">
+<useas name="E18" />
+</sign>
+
+<sign id="E20">
+<log>
+<al>^stx</al>
+<tr>Seth</tr>
+</log>
+
+<det>
+<describe>turmoil</describe>
+</det>
+
+<useas name="E7" period="MK" texttype="hieratic" />
+<useas name="E27" period="MK" texttype="hieratic" />
+</sign>
+
+<sign id="E20a">
+<log>
+<group>G6a-[sep=0.2]E20a</group>
+<al>nbwj</al>
+<tr>the two lords</tr>
+</log>
+</sign>
+
+<sign id="E21">
+<det>
+<describe>turmoil</describe>
+</det>
+</sign>
+
+<sign id="E22">
+<logdet>
+<al root="mA">mAj</al>
+<tr>lion</tr>
+</logdet>
+</sign>
+
+<sign id="E23">
+<logdet>
+<al>rw</al>
+<tr>lion</tr>
+</logdet>
+
+<phon>
+<al>rw</al>
+</phon>
+
+<phon type="group">
+<group>E23:Z1</group>
+<group>E23</group>
+<al>r</al>
+</phon>
+
+<useas name="U13" />
+</sign>
+
+<sign id="E24">
+<logdet>
+<al>Aby</al>
+<tr>panther</tr>
+</logdet>
+</sign>
+
+<sign id="E25">
+<logdet>
+<al>db</al>
+<tr>hippopotamus</tr>
+</logdet>
+
+<logdet>
+<al>xAb</al>
+<tr>hippopotamus</tr>
+</logdet>
+</sign>
+
+<sign id="E26">
+<logdet>
+<al>Abw</al>
+<tr>elephant</tr>
+</logdet>
+</sign>
+
+<sign id="E27">
+<logdet>
+<al>mmj</al>
+<tr>giraffe</tr>
+</logdet>
+
+<det>
+<describe>foretell</describe>
+</det>
+</sign>
+
+<sign id="E28">
+<logdet>
+<al>mA-HD</al>
+<tr>oryx</tr>
+</logdet>
+</sign>
+
+<sign id="E28a">
+<useas name="NU16" />
+</sign>
+
+<sign id="E29">
+<logdet>
+<al>gHs</al>
+<tr>gazelle</tr>
+</logdet>
+</sign>
+
+<sign id="E30">
+<logdet>
+<al>njAw</al>
+<tr>ibex</tr>
+</logdet>
+</sign>
+
+<sign id="E31">
+<logdet>
+<al>saH</al>
+<tr>rank</tr>
+<tr>dignity</tr>
+</logdet>
+</sign>
+
+<sign id="E32">
+<logdet>
+<al>jan</al>
+<tr>baboon</tr>
+</logdet>
+
+<det>
+<describe>monkey</describe>
+</det>
+
+<det>
+<describe>furious</describe>
+</det>
+</sign>
+
+<sign id="E33">
+<logdet>
+<al>gjf</al>
+<tr>vervet monkey</tr>
+</logdet>
+</sign>
+
+<sign id="E34">
+<phon>
+<al>wn</al>
+</phon>
+</sign>
+
+<sign id="E34a">
+<useas name="E34"/>
+</sign>
+
+<sign id="E36">
+<log>
+<al root="DHwt">^DHwtj</al>
+<tr>Thoth</tr>
+    <example>
+	<hi>E36*i</hi>
+    </example>
+</log>
+
+<log>
+<al>Dd</al>
+<tr>say</tr>
+</log>
+
+<log>
+<al>nfr</al>
+<tr>beautiful</tr>
+</log>
+
+<useas name="E37"/>
+</sign>
+
+<sign id="E37">
+<det>
+<al>Sbt</al>
+<tr>water-clock</tr>
+</det>
+</sign>
+
+<sign id="E38">
+<useas name="E1"/>
+</sign>
+
+<sign id="F1">
+<useas name="E1"/>
+</sign>
+
+<sign id="F1a">
+<det>
+<describe>nose, smell, face</describe>
+</det>
+
+<det>
+<describe>joy</describe>
+</det>
+</sign>
+
+<sign id="F2">
+<det>
+<al>Dnd</al>
+<tr>rage</tr>
+    <example>
+	<hi>insert[bs](D,n:d)-F2</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="F3">
+<phonphondet>
+<al>At</al>
+</phonphondet>
+</sign>
+
+<sign id="F4">
+<log>
+<al root="HA">HAt</al>
+<tr>front</tr>
+</log>
+
+<log>
+<group>F4:D36</group>
+<al>HAtj-a</al>
+<tr>prince</tr>
+</log>
+</sign>
+
+<sign id="F5">
+<phonphondet>
+<al>SsA</al>
+</phonphondet>
+
+<phondet>
+<al>sSA</al>
+</phondet>
+</sign>
+
+<sign id="F6">
+<useas name="F5" />
+</sign>
+
+<sign id="F7">
+<logdet>
+<al root="Sf">Sft</al>
+<tr>ram</tr>
+</logdet>
+
+<logdet>
+<al root="Sf">Sfyt</al>
+<tr>worth</tr>
+</logdet>
+
+<phondet>
+<al>Sft</al>
+    <example>
+        <hi>S:f-S:f-t*F7</hi>
+        <al>SfSft</al>
+        <tr>dignity</tr>
+    </example>
+</phondet>
+</sign>
+
+<sign id="F8">
+<useas name="F7" />
+</sign>
+
+<sign id="F9">
+<logdet dual="true">
+<group>F9*F9</group>
+<al>pHtj</al>
+<tr>strength</tr>
+</logdet>
+
+<phondet>
+<al certain="false">At</al>
+</phondet>
+</sign>
+
+<sign id="F10">
+<det>
+<describe>neck, throat</describe>
+</det>
+</sign>
+
+<sign id="F11">
+<useas name="F10" />
+</sign>
+
+<sign id="F12">
+<logdet>
+<al root="wsr">wsrt</al>
+<tr>neck</tr>
+</logdet>
+
+<phon>
+<al>wsr</al>
+</phon>
+</sign>
+
+<sign id="F13">
+<log>
+<al root="wp">wpt</al>
+<tr>brow</tr>
+<tr>top</tr>
+    <example>
+	<hi>F13:X1*Z1</hi>
+    </example>
+</log>
+
+<phonphondet>
+<al>wp</al>
+</phonphondet>
+
+<phon>
+<al>jp</al>
+</phon>
+</sign>
+
+<sign id="F13a">
+<useas name="F13" />
+</sign>
+
+<sign id="F14">
+<log>
+<al>wpt-rnpt</al>
+<tr>New-Year's Day</tr>
+</log>
+</sign>
+
+<sign id="F15">
+<useas name="F14" />
+</sign>
+
+<sign id="F16">
+<logdet>
+<al>dp</al>
+<tr>horn</tr>
+</logdet>
+
+<det>
+<describe>horn</describe>
+</det>
+
+<logdet>
+<al>ab</al>
+<tr>horn</tr>
+</logdet>
+
+<phonphondet>
+<al>ab</al>
+</phonphondet>
+</sign>
+
+<sign id="F17">
+<logdet>
+<al root="ab">abw</al>
+<tr>purification</tr>
+</logdet>
+</sign>
+
+<sign id="F18">
+<logdet>
+<al>jbH</al>
+<tr>tooth</tr>
+</logdet>
+
+<det>
+<describe>tooth</describe>
+</det>
+
+<phonphondet>
+<al>bH</al>
+</phonphondet>
+
+<phondet>
+<al>Hw</al>
+</phondet>
+
+<phon type="group">
+<group>F18:Y1</group>
+<al>H</al>
+</phon>
+
+<phonphondet>
+<al>bjA</al>
+</phonphondet>
+
+<phondet>
+<al>bj</al>
+</phondet>
+</sign>
+
+<sign id="F19">
+<logdet>
+<al>artj</al>
+<tr>jaw</tr>
+</logdet>
+</sign>
+
+<sign id="F20">
+<log>
+<al>ns</al>
+<tr>tongue</tr>
+</log>
+
+<phon>
+<al>ns</al>
+</phon>
+
+<det>
+<describe>tongue</describe>
+</det>
+
+<log>
+<al>jmj-rA</al>
+<tr>overseer</tr>
+</log>
+</sign>
+
+<sign id="F21">
+<logdet>
+<al>msDr</al>
+<tr>ear</tr>
+</logdet>
+
+<log>
+<group>S34*S34-F21:[fit]F21</group>
+<al>anxwj</al>
+<tr>both ears</tr>
+</log>
+
+<logdet>
+<al>sDm</al>
+<tr>hear</tr>
+</logdet>
+
+<det>
+<describe>hearing</describe>
+</det>
+
+<phonphondet>
+<al>jdn</al>
+</phonphondet>
+
+<logdet>
+<group>F21:Z1</group>
+<al>DrD</al>
+<tr>leaf</tr>
+</logdet>
+
+<phon>
+<al>sdm</al>
+</phon>
+</sign>
+
+<sign id="F21a" texttype="hieratic">
+<useas name="F21" />
+</sign>
+
+<sign id="F22">
+<log>
+<al root="pH">pHwj</al>
+<tr>end</tr>
+    <example>
+        <hi>F22-[fit]insert[te](w,Z4)</hi>
+    </example>
+</log>
+
+<phonphondet>
+<al>pH</al>
+</phonphondet>
+
+<det>
+<describe>end, bottom</describe>
+</det>
+
+<phonphondet>
+<al>kfA</al>
+</phonphondet>
+</sign>
+
+<sign id="F23">
+<logdet>
+<al>xpS</al>
+<tr>foreleg</tr>
+</logdet>
+
+<det>
+<al>^msxtjw</al>
+<tr>Great Bear</tr>
+    <example>
+	<hi>ms*s-x-G4-w-F23:sbA-A40</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="F24">
+<useas name="F23" />
+</sign>
+
+<sign id="F25">
+<log>
+<al root="wHm">wHmt</al>
+<tr>hoof</tr>
+</log>
+
+<phon>
+<al>wHm</al>
+</phon>
+</sign>
+
+<sign id="F26">
+<log>
+<al root="Xn">Xnt</al>
+<tr>skin</tr>
+</log>
+
+<phon>
+<al>Xn</al>
+</phon>
+</sign>
+
+<sign id="F27">
+<det>
+<describe>skin, mammal</describe>
+</det>
+</sign>
+
+<sign id="F28">
+<log>
+<al>sAb</al>
+<tr>dappled</tr>
+</log>
+
+<log>
+<group>F28*H6</group>
+<al>sAb Swt</al>
+<tr>dappled of feathers</tr>
+</log>
+
+<useas name="U23" />
+</sign>
+
+<sign id="F29">
+<logdet>
+<al root="st">stj</al>
+<tr>pierce</tr>
+</logdet>
+
+<phon>
+<al>st</al>
+</phon>
+</sign>
+
+<sign id="F30">
+<log>
+<al root="Sd">Sdw</al>
+<tr>water-skin</tr>
+</log>
+
+<phon>
+<al>Sd</al>
+</phon>
+</sign>
+
+<sign id="F31">
+<log>
+<al root="ms">mst</al>
+<tr>apron of skins</tr>
+</log>
+
+<phon>
+<al>ms</al>
+</phon>
+</sign>
+
+<sign id="F31a">
+<useas name="F31" />
+</sign>
+
+<sign id="F32">
+<log>
+<al root="X">Xt</al>
+<tr>belly</tr>
+</log>
+
+<phon>
+<al>X</al>
+</phon>
+</sign>
+
+<sign id="F33">
+<logdet>
+<al>sd</al>
+<tr>tail</tr>
+</logdet>
+
+<phonphondet>
+<al>sd</al>
+</phonphondet>
+</sign>
+
+<sign id="F34">
+<logdet>
+<al>jb</al>
+<tr>heart</tr>
+</logdet>
+
+<det>
+<describe>heart</describe>
+</det>
+</sign>
+
+<sign id="F35">
+<phon>
+<al>nfr</al>
+</phon>
+</sign>
+
+<sign id="F36">
+<log>
+<al>smA</al>
+<tr>lung</tr>
+</log>
+
+<phonphondet>
+<al>smA</al>
+</phonphondet>
+</sign>
+
+<sign id="F37">
+<log>
+<al root="jA">jAt</al>
+<tr>back</tr>
+</log>
+
+<det useid="back" >
+<al>psD</al>
+<tr>back</tr>
+</det>
+
+<phondet>
+<al>sm</al>
+</phondet>
+</sign>
+
+<sign id="F37a" texttype="hieratic">
+<useas name="F37" />
+</sign>
+
+<sign id="F38">
+<useas name="F37" useref="back" />
+</sign>
+
+<sign id="F38a">
+<useas name="F37" />
+</sign>
+
+<sign id="F39">
+<logdet>
+<al>jmAx</al>
+<tr>spinal cord</tr>
+</logdet>
+
+<logdet>
+<al>jmAx</al>
+<tr>revered</tr>
+</logdet>
+
+<useas name="F37" useref="back" />
+</sign>
+
+<sign id="F40">
+<phon>
+<al>Aw</al>
+</phon>
+</sign>
+
+<sign id="F41">
+<useas name="F37" useref="back" />
+
+<det>
+<al>Sat</al>
+<tr>injury</tr>
+</det>
+</sign>
+
+<sign id="F42">
+<logdet>
+<al>spr</al>
+<tr>rib</tr>
+</logdet>
+
+<phon>
+<al>spr</al>
+</phon>
+</sign>
+
+<sign id="F43">
+<det>
+<al root="spH">spHt</al>
+<tr>ribs of beef</tr>
+    <example>
+	<hi>s*p*H-t:F43</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="F44">
+<det>
+<describe>bone and meat</describe>
+</det>
+
+<phonphondet>
+<al>jwa</al>
+</phonphondet>
+
+<phonphondet>
+<al>jsw</al>
+</phonphondet>
+</sign>
+
+<sign id="F45">
+<logdet>
+<al root="jd">jdt</al>
+<tr certain="false">uterus</tr>
+</logdet>
+</sign>
+
+<sign id="F45a">
+<useas name="F45" />
+</sign>
+
+<sign id="F46">
+<log>
+<al>qAb</al>
+<tr>intestine</tr>
+</log>
+
+<phonphondet>
+<al>qAb</al>
+</phonphondet>
+
+<logdet>
+<al>pXr</al>
+<tr>turn</tr>
+</logdet>
+
+<phon>
+<al>pXr</al>
+</phon>
+
+<logdet>
+<al>dbn</al>
+<tr>go round</tr>
+</logdet>
+
+<phon>
+<al>dbn</al>
+</phon>
+
+<det>
+<al>wDb</al>
+<tr>turn</tr>
+</det>
+</sign>
+
+<sign id="F46a">
+<useas name="F46" />
+</sign>
+
+<sign id="F47">
+<useas name="F46" />
+</sign>
+
+<sign id="F47a">
+<useas name="F46" />
+</sign>
+
+<sign id="F48">
+<useas name="F46" />
+</sign>
+
+<sign id="F49">
+<useas name="F46" />
+</sign>
+
+<sign id="F50">
+<log>
+<al>spXr</al>
+<tr>copy</tr>
+</log>
+</sign>
+
+<sign id="F51">
+<det>
+<describe>parts of the body</describe>
+</det>
+
+<log>
+<group>F51:[fit]F51:[fit]F51</group>
+<al>Haw</al>
+<tr>body</tr>
+</log>
+
+<log>
+<al>kns</al>
+<tr>vagina</tr>
+</log>
+</sign>
+
+<sign id="F51a">
+<useas number="3" name="F51"/>
+</sign>
+
+<sign id="F51b">
+<useas number="3" name="F51"/>
+</sign>
+
+<sign id="F51c">
+<phonphondet>
+<al>As</al>
+</phonphondet>
+
+<phon>
+<al>ws</al>
+</phon>
+</sign>
+
+<sign id="F52">
+<logdet>
+<al>Hs</al>
+<tr>excrement</tr>
+</logdet>
+</sign>
+
+<sign id="F53">
+<log>
+<al>mdw</al>
+<tr>(divine) staff</tr>
+</log>
+</sign>
+
+<sign id="G1">
+<log>
+<al>A</al>
+<tr>vulture</tr>
+</log>
+
+<phon>
+<al>A</al>
+</phon>
+</sign>
+
+<sign id="G2">
+<phon>
+<al>AA</al>
+</phon>
+</sign>
+
+<sign id="G3">
+<phon>
+<al>mA</al>
+</phon>
+</sign>
+
+<sign id="G4">
+<phon>
+<al>tjw</al>
+</phon>
+</sign>
+
+<sign id="G5">
+<log>
+<al>^Hr</al>
+<tr>Horus</tr>
+</log>
+</sign>
+
+<sign id="G6">
+<det>
+<al>bjk</al>
+<tr>falcon</tr>
+    <example>
+	<hi>b*i-k-G6</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="G6a">
+<log>
+<group>G6a-[sep=0.2]E20a</group>
+<al>nbwj</al>
+<tr>the two lords</tr>
+</log>
+</sign>
+
+<sign id="G7">
+<det period="OK">
+<al>^Hr</al>
+<tr>Horus</tr>
+</det>
+
+<det>
+<describe>god, king</describe>
+</det>
+
+<log>
+<al>=j</al>
+<tr>I (king)</tr>
+</log>
+
+<det>
+<describe>first person singular (king)</describe>
+    <example>
+	<hi>w-G7</hi>
+	<al>wj</al>
+	<tr>me</tr> 
+    </example>
+</det>
+</sign>
+
+<sign id="G7a">
+<log>
+<al>^nmtj</al>
+<tr>Nemti</tr>
+</log>
+</sign>
+
+<sign id="G7b">
+<useas name="G7a" />
+</sign>
+
+<sign id="G8">
+<log>
+<al>^Hr-nbw</al>
+<tr>Gold Horus</tr>
+</log>
+</sign>
+
+<sign id="G9">
+<log>
+<al>^ra-^Hr-Axtj</al>
+<tr>Re-Harakhti</tr>
+</log>
+</sign>
+
+<sign id="G10">
+<logdet>
+<al>^skr</al>
+<tr>Sokar</tr>
+</logdet>
+
+<det>
+<al>Hnw</al>
+<tr>Sokar-bark</tr>
+</det>
+</sign>
+
+<sign id="G11">
+<det useid="image">
+<al>aSm</al>
+<tr>divine image</tr> 
+    <example>
+	<hi>a:S-m-G11</hi>
+    </example>
+</det>
+
+<det>
+<al root="Snb">Snbt</al>
+<tr>breast</tr> 
+    <example>
+	<hi>Sn:n-b-t:G11</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="G11a">
+<useas name="G11" useref="image" />
+</sign>
+
+<sign id="G12">
+<useas name="G11" useref="image" />
+</sign>
+
+<sign id="G13">
+<log>
+<al>^Hr</al>
+<tr>Horus </tr>
+    <example>
+	<hi>G13-O47:O49</hi>
+	<al>^Hr-nxnj</al>
+	<tr>Horus of Hieraconpolis</tr>
+    </example>
+</log>
+
+<det>
+<al>^spdw</al>
+<tr>Sopdu</tr>
+    <example>
+        <hi>M44*w-G13</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="G14">
+<logdet>
+<al root="nr">nrt</al>
+<tr>vulture</tr>
+</logdet>
+
+<phondet>
+<al>nr</al>
+</phondet>
+
+<phon>
+<al>mwt</al>
+</phon>
+
+<phon>
+<al>mt</al>
+</phon>
+</sign>
+
+<sign id="G15">
+<log>
+<al>^mwt</al>
+<tr>Mut</tr>
+</log>
+</sign>
+
+<sign id="G16">
+<log>
+<al>nbtj</al>
+<tr>Two Ladies</tr>
+</log>
+</sign>
+
+<sign id="G17">
+<phon>
+<al>m</al>
+</phon>
+</sign>
+
+<sign id="G18">
+<phon>
+<al>mm</al>
+</phon>
+
+<log period="18">
+<al>jm</al>
+<tr>therein</tr>
+</log>
+</sign>
+
+<sign id="G19">
+<phon>
+<al>m</al>
+</phon>
+
+<phon>
+<al>mj</al>
+</phon>
+</sign>
+
+<sign id="G20">
+<useas name="G19" />
+</sign>
+
+<sign id="G20a">
+<phon>
+<al>mr</al>
+</phon>
+</sign>
+
+<sign id="G21">
+<log>
+<al>nH</al>
+<tr>guinea-fowl</tr>
+</log>
+
+<phon>
+<al>nH</al>
+</phon>
+</sign>
+
+<sign id="G22">
+<phon>
+<al>Db</al>
+</phon>
+</sign>
+
+<sign id="G23">
+<logdet>
+<al>rxyt</al>
+<tr>common folk</tr>
+</logdet>
+</sign>
+
+<sign id="G24">
+<useas name="G23" />
+</sign>
+
+<sign id="G25">
+<log>
+<al>Ax</al>
+<tr>spirit</tr>
+</log>
+
+<phon>
+<al>Ax</al>
+</phon>
+</sign>
+
+<sign id="G26">
+<logdet>
+<al>hb</al>
+<tr>ibis</tr>
+</logdet>
+
+<logdet>
+<al root="DHwt">^DHwtj</al>
+<tr>Thoth</tr>
+</logdet>
+</sign>
+
+<sign id="G26a">
+<useas name="G26" />
+</sign>
+
+<sign id="G27">
+<logdet>
+<al>dSr</al>
+<tr>flamingo</tr>
+</logdet>
+
+<phonphondet>
+<al>dSr</al>
+</phonphondet>
+</sign>
+
+<sign id="G28">
+<phon>
+<al>gm</al>
+</phon>
+</sign>
+
+<sign id="G29">
+<log>
+<al>bA</al>
+<tr>soul</tr>
+</log>
+
+<phon>
+<al>bA</al>
+</phon>
+
+<phon type="group">
+<group>insert[te](G29,Z1)</group> 
+<group>insert[bs](.*G29,R7)</group>
+<group>D58*G29</group>
+<al>b</al>
+</phon>
+</sign>
+
+<sign id="G30">
+<log>
+<al>bAw</al>
+<tr>might</tr>
+</log>
+</sign>
+
+<sign id="G31">
+<logdet>
+<al>bnw</al>
+<tr>phoenix</tr>
+</logdet>
+
+<logdet>
+<al>Sntj</al>
+<tr>heron</tr>
+</logdet>
+</sign>
+
+<sign id="G32">
+<logdet>
+<al>baH</al>
+<tr>inundated</tr>
+</logdet>
+</sign>
+
+<sign id="G33">
+<logdet>
+<al>sdA</al>
+<tr>egret</tr>
+</logdet>
+
+<phondet>
+<al>sdA</al>
+</phondet>
+</sign>
+
+<sign id="G34">
+<logdet>
+<al>njw</al>
+<tr>ostrich</tr>
+</logdet>
+</sign>
+
+<sign id="G35">
+<phon>
+<al>aq</al>
+</phon>
+</sign>
+
+<sign id="G36">
+<phon>
+<al>wr</al>
+</phon>
+
+<logdet>
+<al root="mn">mnt</al>
+<tr>swallow</tr>
+</logdet>
+</sign>
+
+<sign id="G36a">
+<useas name="G36" />
+</sign>
+
+<sign id="G37">
+<logdet>
+<al>nDs</al>
+<tr>small</tr>
+</logdet>
+
+<det>
+<describe>small, bad, defective</describe>
+</det>
+</sign>
+
+<sign id="G37a">
+<useas name="G37" />
+</sign>
+
+<sign id="G38">
+<logdet>
+<al>gb</al>
+<tr>white-fronted goose</tr>
+</logdet>
+
+<det>
+<describe>goose</describe>
+</det>
+
+<phon>
+<al>gb</al>
+</phon>
+
+<phondet>
+<al>wfA</al>
+</phondet>
+
+<phondet>
+<al>wsf</al>
+</phondet>
+
+<phondet>
+<al>wdf</al>
+</phondet>
+
+<phondet>
+<al>Htm</al>
+</phondet>
+
+<det texttype="hieratic">
+<describe>(any) bird, flying insect</describe>
+</det>
+</sign>
+
+<sign id="G39">
+<logdet>
+<al root="s">st</al>
+<tr>pintail</tr>
+</logdet>
+
+<phon>
+<al>sA</al>
+</phon>
+</sign>
+
+<sign id="G40">
+<log>
+<al>pA</al>
+<tr>fly</tr>
+</log>
+
+<phon>
+<al>pA</al>
+</phon>
+
+<phon type="group">
+<group>G40</group>
+<al>p</al>
+</phon>
+
+<useas name="G41" period="12"/>
+</sign>
+
+<sign id="G41">
+<det>
+<al>xnj</al>
+<tr>alight</tr>
+</det>
+
+<phondet>
+<al>xn</al>
+</phondet>
+
+<phon>
+<al>qmj</al>
+</phon>
+
+<phondet>
+<al>qmj</al>
+</phondet>
+
+<phondet>
+<al>sHw</al>
+</phondet>
+
+<phondet>
+<group>T14*[sep=0.2]G41</group>
+<al>qmA</al>
+</phondet>
+
+<phondet>
+<group>T14*[sep=0.2]G41</group>
+<al>Tn</al>
+</phondet>
+
+<useas name="G40" texttype="hieratic"/>
+
+<phon type="group" texttype="hieratic">
+<group>G41-G1</group>
+<al>p</al>
+</phon>
+
+<det texttype="hieratic">
+<describe>(any) bird, flying insect</describe>
+</det>
+</sign>
+
+<sign id="G42">
+<logdet>
+<al>wSA</al>
+<tr>fatten</tr>
+</logdet>
+
+<det>
+<al>DfA</al>
+<tr>provisions</tr>
+</det>
+</sign>
+
+<sign id="G43">
+<phon>
+<al>w</al>
+</phon>
+</sign>
+
+<sign id="G43a">
+<phon>
+<al>tw</al>
+</phon>
+
+<phon>
+<al>wt</al>
+</phon>
+</sign>
+
+<sign id="G44">
+<phon>
+<al>ww</al>
+</phon>
+</sign>
+
+<sign id="G45">
+<phon>
+<al>wa</al>
+</phon>
+</sign>
+
+<sign id="G45a">
+<phon>
+<al>Dj{w}</al>
+</phon>
+
+<phon>
+<al>mj{w}</al>
+</phon>
+</sign>
+
+<sign id="G46">
+<phon>
+<al>mAw</al>
+</phon>
+</sign>
+
+<sign id="G47">
+<log>
+<al>TA</al>
+<tr>nestling</tr>
+</log>
+
+<phon>
+<al>TA</al>
+</phon>
+
+<phon type="group">
+<group>insert[te](G47,Z1)</group>
+<al>T</al>
+</phon>
+</sign>
+
+<sign id="G48">
+<logdet>
+<al>sS</al>
+<tr>nest</tr>
+</logdet>
+</sign>
+
+<sign id="G49">
+<logdet>
+<al>sS</al>
+<tr>nest</tr>
+</logdet>
+</sign>
+
+<sign id="G50">
+<log>
+<al root="rxt">rxtj</al>
+<tr>washerman</tr>
+</log>
+</sign>
+
+<sign id="G51">
+<det>
+<al>HAm</al>
+<tr>catch fish</tr>
+    <example>
+        <hi>HA-A-m-G51-A24</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="G52">
+<det>
+<al>snm</al>
+<tr>feed</tr>
+    <example>
+        <hi>s-n:nm*m-G52</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="G53">
+<log>
+<al>bA</al>
+<tr>soul</tr>
+</log>
+</sign>
+
+<sign id="G54">
+<det>
+<al>wSn</al>
+<tr>wring neck (of bird)</tr>
+    <example>
+        <hi>w-S:n-G54</hi>
+    </example>
+</det>
+
+<phonphondet>
+<al>snD</al>
+</phonphondet>
+</sign>
+
+<sign id="H1">
+<log>
+<al root="Apd">Apdw</al>
+<tr>fowl</tr>
+</log>
+
+<det>
+<al>wSn</al>
+<tr>wring neck (of bird)</tr>
+    <example>
+        <hi>w-S:n-H1:a</hi>
+    </example>
+</det>
+
+<useas name="H2" texttype="hieratic" />
+</sign>
+
+<sign id="H2">
+<phondet>
+<al>mAa</al>
+</phondet>
+
+<phonphondet>
+<al>wSm</al>
+</phonphondet>
+
+<useas name="H3" period="12-" />
+</sign>
+
+<sign id="H3">
+<phonphondet>
+<al>pAq</al>
+</phonphondet>
+</sign>
+
+<sign id="H4">
+<phondet>
+<al>nr</al>
+</phondet>
+
+<phon period="18-">
+<al>rm</al>
+</phon>
+</sign>
+
+<sign id="H5">
+<det>
+<describe>wing, fly</describe>
+</det>
+</sign>
+
+<sign id="H6">
+<logdet>
+<al root="Sw">Swt</al>
+<tr>feather</tr>
+</logdet>
+
+<phon useid="Sw">
+<al>Sw</al>
+</phon>
+
+<logdet>
+<al>mAat</al>
+<tr>truth</tr>
+</logdet>
+</sign>
+
+<sign id="H6a" texttype="hieratic">
+<useas name="H6" useref="Sw" />
+</sign>
+
+<sign id="H7">
+<phon>
+<al>SA</al>
+</phon>
+</sign>
+
+<sign id="H8">
+<det>
+<al>swHt</al>
+<tr>egg</tr>
+</det>
+
+<log>
+<al>sA</al>
+<tr>son</tr>
+</log>
+
+<det>
+<al>pat</al>
+<tr>patricians</tr>
+</det>
+
+<useas name="F51c" />
+</sign>
+
+<sign id="I1">
+<logdet>
+<al>HntAsw</al>
+<tr>lizard</tr>
+</logdet>
+
+<logdet>
+<al>aSA</al>
+<tr>gecko</tr>
+</logdet>
+
+<phon>
+<al>aSA</al>
+</phon>
+</sign>
+
+<sign id="I2">
+<logdet>
+<al>Stw</al>
+<tr>turtle</tr>
+</logdet>
+</sign>
+
+<sign id="I3">
+<logdet>
+<al>msH</al>
+<tr>crocodile</tr>
+</logdet>
+
+<logdet>
+<al>xntj</al>
+<tr>crocodile</tr>
+</logdet>
+
+<det>
+<describe>greedy</describe>
+</det>
+
+<det>
+<describe>agression</describe>
+</det>
+
+<log>
+<group>I3:I3</group>
+<al>jty</al>
+<tr>sovereign</tr>
+    <example>
+	<hi>I3:I3-G7</hi>
+    </example>
+</log>
+</sign>
+
+<sign id="I4">
+<logdet>
+<al>^sbk</al>
+<tr>Sobek</tr>
+</logdet>
+</sign>
+
+<sign id="I5">
+<logdet>
+<al>sAq</al>
+<tr>gather</tr>
+</logdet>
+</sign>
+
+<sign id="I5a">
+<useas name="I4" />
+</sign>
+
+<sign id="I6">
+<phon>
+<al>km</al>
+</phon>
+</sign>
+
+<sign id="I7">
+<det>
+<describe>frog</describe>
+    <example>
+        <hi>H*(q:t)-I7</hi>
+        <al>^Hqt</al>
+        <tr>Heket</tr>
+    </example>
+</det>
+
+<log period="18-">
+<al>wHm-anx</al>
+<tr>repeating life</tr>
+</log>
+</sign>
+
+<sign id="I8">
+<log>
+<al>Hfnr</al>
+<tr>tadpole</tr>
+</log>
+
+<log numeral="100000">
+<al>Hfn</al>
+<tr>100000</tr>
+</log>
+</sign>
+
+<sign id="I9">
+<phon>
+<al>f</al>
+</phon>
+
+<det>
+<al>jt</al>
+<tr>father</tr>
+    <example>
+    	<hi>i*(t:f)-A1</hi>
+    	<hi>t:f-A1</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="I9a">
+<log>
+<al root="pr">prj</al>
+<tr>go out</tr>
+</log>
+</sign>
+
+<sign id="I10">
+<log>
+<al root="D">Dt</al>
+<tr>cobra</tr>
+</log>
+
+<phon>
+<al>D</al>
+</phon>
+</sign>
+
+<sign id="I10a">
+<logdet>
+<al>^wADyt</al>
+<tr>Wadjit (tenth nome of Upper Egypt)</tr>
+</logdet>
+</sign>
+
+<sign id="I11">
+<phon>
+<al>DD</al>
+</phon>
+</sign>
+
+<sign id="I11a">
+<log>
+<al>Dt</al>
+<tr>eternity</tr>
+</log>
+</sign>
+
+<sign id="I12">
+<det>
+<al>jart</al>
+<tr>uraeus</tr>
+</det>
+
+<det>
+<describe>goddess</describe>
+</det>
+</sign>
+
+<sign id="I13">
+<det>
+<describe>goddess</describe>
+</det>
+</sign>
+
+<sign id="I14">
+<det>
+<describe>snake</describe>
+    <example>
+    	<hi>H-f:[sep=0.2]A-w-I14</hi>
+	<al>HfAw</al> 
+	<tr>serpent</tr>
+    </example>
+    <example>
+    	<hi>insert[bs](D,d)-f:t-I14</hi>
+	<al>Ddft</al>
+	<tr>snake</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="I15">
+<useas name="I14" />
+</sign>
+
+<sign id="K1">
+<logdet>
+<al root="jn">jnt</al>
+<tr>tilapia</tr>
+</logdet>
+
+<phon>
+<al>jn</al>
+</phon>
+</sign>
+
+<sign id="K2">
+<phondet>
+<al>bw</al>
+</phondet>
+</sign>
+
+<sign id="K3">
+<logdet>
+<al>aDw</al>
+<tr>mullet</tr>
+</logdet>
+
+<phon>
+<al>aD</al>
+</phon>
+</sign>
+
+<sign id="K4">
+<log>
+<al root="XA">XAt</al>
+<tr>elephant-snout fish</tr>
+</log>
+
+<phon>
+<al>XA</al>
+</phon>
+</sign>
+
+<sign id="K5">
+<phondet>
+<al>bs</al>
+</phondet>
+
+<det>
+<describe>fish</describe>
+</det>
+</sign>
+
+<sign id="K6">
+<logdet>
+<al root="nSm">nSmt</al>
+<tr>fish scale</tr>
+</logdet>
+</sign>
+
+<sign id="K7">
+<det>
+<al>Spt</al>
+<tr>discontented</tr>
+    <example>
+    	<hi>S:p*t-K7</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="K8">
+<logdet>
+<al>nar</al>
+<tr>catfish</tr>
+</logdet>
+</sign>
+
+<sign id="L1">
+<logdet>
+<al>xprr</al>
+<tr>dung beetle</tr>
+</logdet>
+
+<phon>
+<al>xpr</al>
+</phon>
+</sign>
+
+<sign id="L2">
+<log>
+<al>bjt</al>
+<tr>bee</tr>
+</log>
+
+<phon>
+<al>bjt</al>
+</phon>
+</sign>
+
+<sign id="L2a">
+<log>
+<al>nsw-bjtj</al>
+<tr>king of Upper and Lower Egypt</tr>
+</log>
+</sign>
+
+<sign id="L3">
+<logdet>
+<al>aff</al>
+<tr>fly (noun)</tr>
+</logdet>
+</sign>
+
+<sign id="L4">
+<logdet>
+<al>snHm</al>
+<tr>locust</tr>
+</logdet>
+</sign>
+
+<sign id="L5">
+<logdet>
+<al>spA</al>
+<tr>centipede</tr>
+</logdet>
+</sign>
+
+<sign id="L6">
+<phon>
+<al>xA</al>
+</phon>
+</sign>
+
+<sign id="L6a">
+<useas name="L6"/>
+</sign>
+
+<sign id="L7">
+<log>
+<al>^srqt</al>
+<tr>Selkis</tr>
+</log>
+</sign>
+
+<sign id="L8">
+<phon>
+<al certain="false">n</al>
+    <example>
+    	<hi cite="GITB 801-221-400">anx-L8*x</hi>
+	<al>anx</al>
+	<tr>Ankh</tr>
+    </example>
+</phon>
+</sign>
+
+<sign id="M1">
+<det>
+<describe>tree</describe>
+</det>
+
+<phon>
+<al>jAm</al>
+<al>jmA</al>
+<al>jm</al>
+</phon>
+</sign>
+
+<sign id="M1a">
+<det>
+<describe>tree</describe>
+</det>
+</sign>
+
+<sign id="M1b">
+<log>
+<al>^nDft</al>
+<tr>Nedjfit</tr>
+</log>
+</sign>
+
+<sign id="M2">
+<det>
+<describe>plant, flower</describe>
+</det>
+
+<phon>
+<al>Hn</al>
+</phon>
+
+<phondet>
+<al>js</al>
+</phondet>
+
+<log>
+<al>=j</al>
+<tr>I</tr>
+</log>
+
+<det>
+<al>s</al>
+<tr>man</tr>
+    <example>
+    	<hi>z:M2*Z1</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="M3">
+<log>
+<al>xt</al>
+<tr>wood</tr>
+</log>
+
+<phon>
+<al>xt</al>
+</phon>
+
+<det>
+<describe>wood</describe>
+</det>
+
+<phondet useid="Da">
+<al>Da</al>
+</phondet>
+</sign>
+
+<sign id="M3a">
+<log>
+<al>m-xt</al>
+<tr>after</tr>
+</log>
+</sign>
+
+<sign id="M4">
+<det>
+<al root="rnp">rnpj</al>
+<tr>young</tr>
+</det>
+
+<logdet>
+<al>rnp</al>
+<tr>year</tr>
+</logdet>
+
+<log>
+<al>HAt-sp</al>
+<tr>regnal year</tr>
+</log>
+
+<log>
+<al>snf</al>
+<tr>last year</tr>
+</log>
+
+<useas name="M5" />
+<useas name="M6" />
+<useas name="M7" />
+</sign>
+
+<sign id="M5">
+<logdet period="ME">
+<al>tr</al>
+<tr>season</tr>
+</logdet>
+
+<phondet>
+<al>tr</al>
+</phondet>
+
+<phondet>
+<al>rj</al>
+</phondet>
+</sign>
+
+<sign id="M6">
+<logdet period="ME">
+<al>tr</al>
+<tr>season</tr>
+</logdet>
+
+<phondet>
+<al>tr</al>
+<al>tj</al>
+</phondet>
+
+<phondet>
+<al>rj</al>
+</phondet>
+</sign>
+
+<sign id="M7">
+<logdet period="ME">
+<al root="rnp">rnpj</al>
+<tr>young</tr>
+</logdet>
+</sign>
+
+<sign id="M8">
+<logdet>
+<al>SA</al>
+<tr>land</tr>
+<tr>pool</tr>
+</logdet>
+
+<phon>
+<al>SA</al>
+</phon>
+
+<phon type="group">
+<group>M8</group>
+<group>M8-G1</group>
+<al>S</al>
+</phon>
+
+<logdet>
+<al>Axt</al>
+<tr>Season of Inundation</tr>
+</logdet>
+</sign>
+
+<sign id="M9">
+<logdet>
+<al>SSn</al>
+<tr>lotus</tr>
+</logdet>
+</sign>
+
+<sign id="M10">
+<logdet>
+<al root="nHb">nHbt</al>
+<tr>lotus bud</tr>
+</logdet>
+</sign>
+
+<sign id="M10a">
+<useas name="M10" />
+</sign>
+
+<sign id="M11">
+<logdet>
+<al>wdn</al>
+<tr>offer</tr>
+</logdet>
+</sign>
+
+<sign id="M12">
+<phon>
+<al>xA</al>
+</phon>
+
+<log numeral="1000">
+<al>xA</al>
+<tr>1000</tr>
+</log>
+
+<phon type="group">
+<group>M12</group>
+<group>M12*G1</group>
+<al>x</al>
+</phon>
+</sign>
+
+<sign id="M12a">
+<useas number="2" name="M12"/>
+</sign>
+
+<sign id="M12b">
+<useas number="3" name="M12"/>
+</sign>
+
+<sign id="M12c">
+<useas number="4" name="M12"/>
+</sign>
+
+<sign id="M12d">
+<useas number="5" name="M12"/>
+</sign>
+
+<sign id="M12e">
+<useas number="6" name="M12"/>
+</sign>
+
+<sign id="M12f">
+<useas number="7" name="M12"/>
+</sign>
+
+<sign id="M12g">
+<useas number="8" name="M12"/>
+</sign>
+
+<sign id="M12h">
+<useas number="9" name="M12"/>
+</sign>
+
+<sign id="M13">
+<logdet>
+<al>wAD</al>
+<tr>papyrus</tr>
+</logdet>
+
+<phonphondet>
+<al>wAD</al>
+</phonphondet>
+
+<useas period="MK" name="V24"/>
+</sign>
+
+<sign id="M14">
+<phon>
+<al>wAD</al>
+</phon>
+
+<useas name="V24"/>
+</sign>
+
+<sign id="M15">
+<det>
+<describe>papyrus, watery regions</describe>
+</det>
+
+<phondet>
+<al>wAx</al>
+</phondet>
+
+<log>
+<group>M15-L2-X1:O49</group>
+<al>^Ax-bjt</al>
+<tr>Chemmis</tr>
+</log>
+
+<logdet>
+<al>mHw</al>
+<tr>Lower Egypt</tr>
+</logdet>
+</sign>
+
+<sign id="M15a">
+<log>
+<al>^Ax-bjt</al>
+<tr>Chemmis</tr>
+</log>
+</sign>
+
+<sign id="M16">
+<phon>
+<al>HA</al>
+</phon>
+
+<phon type="group">
+<group>M16</group>
+<group>M16-G1</group>
+<al>H</al>
+</phon>
+
+<logdet>
+<al>mHw</al>
+<tr>Lower Egypt</tr>
+</logdet>
+</sign>
+
+<sign id="M16a">
+<log>
+<al>^tA-mHw</al>
+<tr>Lower Egypt</tr>
+</log>
+</sign>
+
+<sign id="M17">
+<log>
+<al>j</al>
+<tr>reed</tr>
+</log>
+
+<phon>
+<al>j</al>
+</phon>
+
+<phon>
+<group>M17*[fix,sep=0.2]M17</group>
+<al>y</al>
+</phon>
+
+<phon type="group">
+<group>M17*[fix,sep=0.2]M17</group>
+<describe>Hebrew Yod</describe>
+</phon>
+
+<phon type="group">
+<group>M17-A2</group>
+<describe>Hebrew Alef</describe>
+</phon>
+</sign>
+
+<sign id="M17a">
+<useas number="2" name="M17" />
+</sign>
+
+<sign id="M18">
+<log>
+<al>jj</al>
+<tr>come</tr>
+</log>
+</sign>
+
+<sign id="M19">
+<logdet>
+<al root="aAb">aAbt</al>
+<tr>offering</tr>
+</logdet>
+</sign>
+
+<sign id="M20">
+<log>
+<al root="sx">sxt</al>
+<tr>marshland</tr>
+</log>
+
+<useas name="M21" useref="sm" />
+</sign>
+
+<sign id="M21">
+<logdet>
+<al>sm</al>
+<tr>plant</tr>
+</logdet>
+
+<phon useid="sm">
+<al>sm</al>
+</phon>
+</sign>
+
+<sign id="M22">
+<phon>
+<al>nxb</al>
+</phon>
+
+<phon>
+<group>M22*[sep=0.5]M22</group>
+<al>nn</al>
+</phon>
+</sign>
+
+<sign id="M22a">
+<useas number="2" name="M22" />
+</sign>
+
+<sign id="M23">
+<log>
+<al root="sw">swt</al>
+<tr>sedge</tr>
+</log>
+
+<phon>
+<al>sw</al>
+</phon>
+
+<phon type="group">
+<group>M23*G43</group>
+<al>s</al>
+</phon>
+
+<log>
+<group>M23-X1:N35</group>
+<group>M23*X1</group>
+<group>M23</group>
+<al>nsw</al>
+<tr>king of Upper Egypt</tr>
+</log>
+
+<log>
+<group>M23:X1-L2:X1</group>
+<al>nsw-bjtj</al>
+<tr>king of Upper and Lower Egypt</tr>
+</log>
+</sign>
+
+<sign id="M24">
+<log>
+<al>rs</al>
+<tr>south</tr>
+</log>
+</sign>
+
+<sign id="M24a">
+<log>
+<group>M24a-M13</group>
+<al>tAwj</al>
+<tr>the two lands</tr>
+</log>
+</sign>
+
+<sign id="M25">
+<useas name="M24" />
+<useas name="M26" />
+</sign>
+
+<sign id="M26">
+<log>
+<al root="Sma">^Smaw</al>
+<tr>Upper Egypt</tr>
+</log>
+
+<phonphondet>
+<al>Sma</al>
+</phonphondet>
+</sign>
+
+<sign id="M27">
+<log>
+<al root="Sma">^Smaw</al>
+<tr>Upper Egypt</tr>
+</log>
+
+<phon>
+<al>Sma</al>
+</phon>
+</sign>
+
+<sign id="M28">
+<log>
+<al>mDw Sma</al>
+<tr>the tens of Upper Egypt</tr>
+</log>
+</sign>
+
+<sign id="M28a">
+<log>
+<al root="tA-Sma">tA-^Smaw</al>
+<tr>Upper Egypt</tr>
+</log>
+</sign>
+
+<sign id="M29">
+<phon>
+<al>nDm</al>
+</phon>
+</sign>
+
+<sign id="M30">
+<logdet>
+<al>bnr</al>
+<tr>sweet</tr>
+</logdet>
+</sign>
+
+<sign id="M31" period="18">
+<det>
+<al>rd</al>
+<tr>grow</tr>
+    <example>
+    	<hi>r:d-M31</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="M31a">
+<useas name="M31" />
+</sign>
+
+<sign id="M32" period="12">
+<useas name="M31" />
+</sign>
+
+<sign id="M33">
+<logdet>
+<al>jt</al>
+<tr>barley</tr>
+</logdet>
+
+<det>
+<describe>grain</describe>
+</det>
+</sign>
+
+<sign id="M33a">
+<useas name="M33"/>
+</sign>
+
+<sign id="M33b">
+<useas name="M33"/>
+</sign>
+
+<sign id="M34">
+<logdet>
+<al root="bd">bdt</al>
+<tr>emmer</tr>
+</logdet>
+</sign>
+
+<sign id="M35">
+<det>
+<describe>heap</describe>
+</det>
+</sign>
+
+<sign id="M36">
+<phon useid="Dr">
+<al>Dr</al>
+</phon>
+
+<det>
+<describe>bundle together</describe>
+</det>
+</sign>
+
+<sign id="M37">
+<useas name="M36" useref="Dr" />
+</sign>
+
+<sign id="M38" period="OK">
+<det>
+<describe>flax</describe>
+</det>
+
+<det>
+<describe>bundle together</describe>
+</det>
+</sign>
+
+<sign id="M39">
+<det>
+<describe>vegetable offering</describe>
+</det>
+</sign>
+
+<sign id="M40">
+<logdet>
+<al root="js">jsw</al>
+<tr>reeds</tr>
+</logdet>
+
+<phon>
+<al>js</al>
+</phon>
+</sign>
+
+<sign id="M40a">
+<useas name="M40" />
+</sign>
+
+<sign id="M41" period="18">
+<det>
+<describe>wood</describe>
+</det>
+</sign>
+
+<sign id="M42">
+<phon>
+<al>wn</al>
+</phon>
+
+<log>
+<al>wnm</al>
+<tr>eat</tr>
+</log>
+</sign>
+
+<sign id="M43">
+<det>
+<describe>vine, fruit</describe>
+</det>
+</sign>
+
+<sign id="M44">
+<logdet>
+<al>spd</al>
+<tr>sharp</tr>
+</logdet>
+
+<det>
+<describe>sharp</describe>
+</det>
+</sign>
+
+<sign id="N1">
+<logdet>
+<al root="p">pt</al>
+<tr>sky</tr>
+</logdet>
+
+<det>
+<describe>sky, high</describe>
+</det>
+
+<log>
+<group>W25:N1</group>
+<al>^jnj-Hrt</al>
+<tr>Onuris</tr>
+</log>
+
+<phon>
+<al>Hr</al>
+<al>Hrj</al>
+<al>Hrw</al>
+</phon>
+
+<det>
+<describe>gate</describe>
+</det>
+</sign>
+
+<sign id="N2" period="18">
+<logdet>
+<al>grH</al>
+<tr>night</tr>
+</logdet>
+
+<det>
+<describe>night</describe>
+</det>
+</sign>
+
+<sign id="N3" period="OK">
+<useas name="N2" />
+</sign>
+
+<sign id="N4" period="18">
+<logdet>
+<al root="jAd">jAdt</al>
+<tr>dew</tr>
+</logdet>
+
+<det>
+<describe>precipitation</describe>
+</det>
+</sign>
+
+<sign id="N5">
+<logdet>
+<al>ra</al>
+<tr>sun</tr>
+</logdet>
+
+<logdet>
+<al>hrw</al>
+<tr>day</tr>
+</logdet>
+
+<logdet>
+<al>sw</al>
+<tr>day</tr>
+</logdet>
+
+<det>
+<describe>sun, time</describe>
+</det>
+</sign>
+
+<sign id="N6" period="18">
+<logdet>
+<al>ra</al>
+<tr>sun</tr>
+</logdet>
+</sign>
+
+<sign id="N7">
+<log>
+<al>Xrt-hrw</al>
+<tr>day-time</tr>
+</log>
+</sign>
+
+<sign id="N8">
+<logdet>
+<al root="Ax">Axw</al>
+<tr>sunshine</tr>
+</logdet>
+
+<det>
+<describe>shine</describe>
+</det>
+
+<logdet>
+<al>wbn</al>
+<tr>rise</tr>
+</logdet>
+
+<phon>
+<al>wbn</al>
+</phon>
+
+<log>
+<al>Hnmmt</al>
+<tr>sun-folk of Heliopolis</tr>
+</log>
+</sign>
+
+<sign id="N9" period="18">
+<logdet>
+<al>psDntjw</al>
+<tr>New-moon festival</tr>
+</logdet>
+
+<phon>
+<al>psD</al>
+</phon>
+</sign>
+
+<sign id="N10" period="18">
+<useas name="N9" />
+</sign>
+
+<sign id="N11">
+<logdet>
+<al>jaH</al>
+<tr>moon</tr>
+</logdet>
+
+<phonphondet>
+<al>waH</al>
+</phonphondet>
+
+<log>
+<group>N11:[fit]N14</group>
+<al>Abd</al>
+<tr>month</tr>
+</log>
+
+<log>
+<al>Abd</al>
+<tr>month</tr>
+</log>
+
+<log>
+<al>sSp</al>
+<tr>palm</tr>
+</log>
+
+<useas name="F42" />
+</sign>
+
+<sign id="N12" period="18">
+<logdet>
+<al>jaH</al>
+<tr>moon</tr>
+</logdet>
+</sign>
+
+<sign id="N13">
+<log>
+<al certain="false">smdt</al>
+<tr>half-month festival</tr>
+</log>
+</sign>
+
+<sign id="N14">
+<logdet>
+<al>sbA</al>
+<tr>star</tr>
+</logdet>
+
+<phon>
+<al>sbA</al>
+</phon>
+
+<det>
+<describe>star, time</describe>
+</det>
+
+<phonphondet>
+<al>dwA</al>
+</phonphondet>
+
+<logdet>
+<al root="wnw">wnwt</al>
+<tr>hour</tr>
+</logdet>
+</sign>
+
+<sign id="N15">
+<logdet>
+<al root="dwA">dwAt</al>
+<tr>netherworld</tr>
+</logdet>
+</sign>
+
+<sign id="N16">
+<log>
+<al>tA</al>
+<tr>earth</tr>
+<tr>land</tr>
+</log>
+
+<phon>
+<al>tA</al>
+</phon>
+
+<phon type="group">
+<group>N16:N21*Z1</group>
+<al>t</al>
+</phon>
+
+<det>
+<describe>land, eternity</describe>
+</det>
+</sign>
+
+<sign id="N17">
+<useas name="N16" />
+</sign>
+
+<sign id="N18">
+<log>
+<al>jw</al>
+<tr>island</tr>
+</log>
+
+<phon type="group">
+<group>N18:N21*Z1</group>
+<al>j</al>
+</phon>
+
+<det>
+<describe>desert, foreign land</describe>
+</det>
+
+<log>
+<group>insert[te](G9*.,N18:[fix,sep=0.5]N18)</group>
+<al>^Hr-Axtj</al>
+<tr>Harakhti</tr>
+</log>
+</sign>
+
+<sign id="N18a">
+<log>
+<al>^jmn</al>
+<tr>Amun</tr>
+</log>
+
+<phon>
+<al>n</al>
+</phon>
+</sign>
+
+<sign id="N18b">
+<phon>
+<al>Sns</al>
+</phon>
+</sign>
+
+<sign id="N19">
+<useas number="2" name="N18" />
+</sign>
+
+<sign id="N20">
+<logdet>
+<al>wDb</al>
+<tr>sandbank</tr>
+</logdet>
+
+<phon>
+<al>wDb</al>
+</phon>
+</sign>
+
+<sign id="N21">
+<logdet>
+<al>jdb</al>
+<tr>land</tr>
+</logdet>
+
+<det>
+<describe>land</describe>
+</det>
+
+<useas period="18" name="N23" />
+</sign>
+
+<sign id="N22" period="OK">
+<useas name="N20" />
+
+<det>
+<describe>land</describe>
+</det>
+</sign>
+
+<sign id="N23" period="11-18">
+<det>
+<describe>irrigated land</describe>
+</det>
+
+<det period="11-12">
+<group>N5:N23</group>
+<describe>time</describe>
+</det>
+</sign>
+
+<sign id="N24">
+<logdet useid="district">
+<al root="spA">spAt</al>
+<tr>district</tr>
+</logdet>
+
+<det>
+<describe>province</describe>
+</det>
+
+<det>
+<describe>garden</describe>
+</det>
+</sign>
+
+<sign id="N25">
+<logdet>
+<al root="xAs">xAst</al>
+<tr>foreign land</tr>
+</logdet>
+
+<det>
+<describe>desert, foreign land</describe>
+</det>
+
+<log>
+<group>N25:R12</group>
+<al>^HA</al>
+<tr>Ha</tr>
+</log>
+</sign>
+
+<sign id="N25a">
+<useas name="N25" />
+</sign>
+
+<sign id="N26">
+<log>
+<al>Dw</al>
+<tr>mountain</tr>
+</log>
+
+<phon>
+<al>Dw</al>
+</phon>
+</sign>
+
+<sign id="N27">
+<log>
+<al root="Ax">Axt</al>
+<tr>horizon</tr>
+</log>
+</sign>
+
+<sign id="N28">
+<log>
+<al>xa</al>
+<tr>hill</tr>
+</log>
+
+<phon>
+<al>xa</al>
+</phon>
+</sign>
+
+<sign id="N29">
+<logdet>
+<al root="qA">qAA</al>
+<tr>hill</tr>
+</logdet>
+
+<phon>
+<al>q</al>
+</phon>
+</sign>
+
+<sign id="N30">
+<logdet>
+<al root="jA">jAt</al>
+<tr>mound</tr>
+</logdet>
+</sign>
+
+<sign id="N31">
+<logdet>
+<al root="wA">wAt</al>
+<tr>road</tr>
+</logdet>
+
+<det>
+<describe>road, travel, position</describe>
+</det>
+
+<log>
+<group>W25*N31</group>
+<al>^jnj-Hrt</al>
+<tr>Onuris</tr>
+</log>
+
+<log>
+<al>Hrw</al>
+<tr>besides</tr>
+</log>
+
+<log>
+<al>wA</al>
+<tr>fall</tr>
+</log>
+
+<log>
+<al>^Hr</al>
+<tr>Horus</tr>
+</log>
+</sign>
+
+<sign id="N32">
+<phondet>
+<al>sjn</al>
+</phondet>
+
+<useas period="OK" name="F52" />
+</sign>
+
+<sign id="N33">
+<det>
+<describe>sand, metal, mineral, medicin</describe>
+</det>
+
+<useas name="A14" />
+
+<useas number="3" name="Z1">
+<group>N33*N33*N33</group>
+</useas>
+</sign>
+
+<sign id="N33a">
+<useas number="3" name="N33" />
+</sign>
+
+<sign id="N34">
+<log>
+<al certain="false">Hmtj</al>
+<tr>copper</tr>
+</log>
+
+<det>
+<describe>copper, bronze</describe>
+</det>
+</sign>
+
+<sign id="N34a">
+<useas name="N34" />
+</sign>
+
+<sign id="N35">
+<log>
+<al>nt</al>
+<tr>water</tr>
+</log>
+
+<phon>
+<al>n</al>
+</phon>
+
+<phon type="group">
+<group>N35:G1</group>
+<group>N35:U19:[fit]W24</group>
+<group>N35:Z2</group>
+<al>n</al>
+</phon>
+
+<phon type="group" period="19">
+<group>N35:Z2-E23:Z1</group>
+<group>N35:Z2-D21:Z1</group>
+<al>l</al>
+</phon>
+
+<useas name="N17" />
+
+<log>
+<group>N35:N35:N35</group>
+<al>mw</al>
+<tr>water</tr>
+</log>
+
+<phon>
+<group>N35:N35:N35</group>
+<al>mw</al>
+</phon>
+
+<phon type="group">
+<group>N35:N35:N35</group>
+<al>m</al>
+</phon>
+
+<det plural="true">
+<group>N35:N35:N35</group>
+<describe>water, liquid and associated actions</describe>
+</det>
+
+<det plural="true">
+<group>N35a-N36:N23</group>
+<group>N35a-N36</group>
+<describe>river, lake, sea</describe>
+</det>
+</sign>
+
+<sign id="N35a">
+<useas number="3" name="N35" />
+</sign>
+
+<sign id="N36">
+<logdet>
+<al>mr</al>
+<tr>canal</tr>
+</logdet>
+
+<phonphondet>
+<al>mr</al>
+</phonphondet>
+
+<phon>
+<al>mj</al>
+</phon>
+
+<det>
+<describe>river, lake, sea</describe>
+</det>
+</sign>
+
+<sign id="N37">
+<log>
+<al>S</al>
+<tr>pool</tr>
+</log>
+
+<phon>
+<al>S</al>
+</phon>
+
+<useas texttype="hieroglyphic" name="N36" />
+</sign>
+
+<sign id="N37a">
+<useas name="N37" />
+</sign>
+
+<sign id="N38">
+<useas name="N37" />
+</sign>
+
+<sign id="N39">
+<useas name="N37" />
+</sign>
+
+<sign id="N40">
+<log>
+<al>Sm</al>
+<tr>go</tr>
+    <example>
+	<hi>N40*G17-D54</hi>
+    </example>
+</log>
+</sign>
+
+<sign id="N41">
+<det>
+<describe>well, pool, marsh</describe>
+</det>
+
+<phon>
+<al>Hm</al>
+</phon>
+
+<logdet>
+<al root="jd">jdt</al>
+<tr certain="false">uterus</tr>
+</logdet>
+
+<phon useid="bjA">
+<al>bjA</al>
+</phon>
+
+<logdet plural="true">
+<group>N41*N41:[size=inf]N41</group>
+<al root="pH">pHww</al>
+<tr>ends</tr>
+</logdet>
+</sign>
+
+<sign id="N42">
+<useas name="N41" />
+</sign>
+
+<sign id="NL1">
+<log>
+<al>^jnbw-HD</al>
+<tr>Inbuhedi (first nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL2">
+<log>
+<al>^xpS</al>
+<tr>Khepesh (second nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL3">
+<log>
+<al>^jmntt</al>
+<tr>Imenti (third nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL4">
+<log>
+<al>^nrt-rst</al>
+<tr>southern Neret (fourth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL5">
+<log>
+<al>^nrt-mHtt</al>
+<tr>northern Neret (fifth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL5a">
+<useas name="NL5" />
+</sign>
+
+<sign id="NL6">
+<log>
+<al>^xAsww</al>
+<tr>Khasu (sixth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL7">
+<log>
+<al>^Hwj-jmntj</al>
+<tr>Hui-imenti (seventh nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL8">
+<log>
+<al>^Hwj-jAbtj</al>
+<tr>Hui-jabtj (eighth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL9">
+<log>
+<al>^anDtj</al>
+<tr>Anedjiti (ninth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL10">
+<log>
+<al>^km-wr</al>
+<tr>Kem-wer (tenth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL11">
+<log>
+<al>^Hsbw</al>
+<tr>Hesbu (eleventh nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL12">
+<log>
+<al>^Tb-nTr</al>
+<tr>Tjeb-netjer (twelfth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL13">
+<log>
+<al>^HqA-anDw</al>
+<tr>Heqa-ondju (thirteenth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL14">
+<log>
+<al>^xntj-jAbtj</al>
+<tr>Khenti-abt (fourteenth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL15">
+<log>
+<al>^DHwtj</al>
+<tr>Djehuti (fifteenth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL16">
+<log>
+<al>^HAt-mHjt</al>
+<tr>Hat-mehit (sixteenth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL17">
+<log>
+<al>^smA-bHdt</al>
+<tr>Sema-Behdet (seventeenth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL17a">
+<useas name="NL17" />
+</sign>
+
+<sign id="NL18">
+<log>
+<al>^jmt-xnt</al>
+<tr>southern Imet (eighteenth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL19">
+<log>
+<al>^jmt-pH</al>
+<tr>northern Imet (nineteenth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NL20">
+<log>
+<al>^spd</al>
+<tr>Sopdu (twentieth nome of Lower Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU1">
+<log>
+<al>^tA-stj</al>
+<tr>Taseti (first nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU2">
+<log>
+<al>^wTs-^Hr</al>
+<tr>Wetjes-Hor (second nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU3">
+<log>
+<al>^nxn</al>
+<tr>Nekhen (third nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU4">
+<log>
+<al>^wAst</al>
+<tr>Waset (fourth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU5">
+<log>
+<al>^nTrwj</al>
+<tr>Netjerui (fifth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU6">
+<log>
+<al>^jqr</al>
+<tr>Iqer (sixth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU7">
+<log>
+<al>^bAt</al>
+<tr>Bat (seventh nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU8">
+<log>
+<al>^tA-wr</al>
+<tr>Tawer (eighth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU9">
+<log>
+<al>^mnw</al>
+<tr>Menu (ninth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU10">
+<log>
+<al>^wADyt</al>
+<tr>Wadjit (tenth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU10a">
+<useas name="NU10" />
+</sign>
+
+<sign id="NU11">
+<log>
+<al>^SA</al>
+<tr>Sha (eleventh nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU11a">
+<useas name="NU11" />
+</sign>
+
+<sign id="NU12">
+<log>
+<al>^Atft</al>
+<tr>Atfet (twelfth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU13">
+<log>
+<al>^nDft-xntt</al>
+<tr>southern Nedjfit (thirteenth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU14">
+<log>
+<al>^nDft-pHt</al>
+<tr>northern Nedjfit (fourteenth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU15">
+<log>
+<al>^wnt</al>
+<tr>Unet (fifteenth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU16">
+<log>
+<al>^mA-HD</al>
+<tr>Ma-hedi (sixteenth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU17">
+<log>
+<al>^jnpwt</al>
+<tr>Input (seventeenth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU18">
+<log>
+<al>^nmtj</al>
+<tr>Nemti (eighteenth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU18a">
+<useas name="NU18" />
+</sign>
+
+<sign id="NU19">
+<log>
+<al>^wAbwj</al>
+<tr>Wabui (nineteenth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU20">
+<log>
+<al>^nart-xntt</al>
+<tr>southern Noret (twentieth nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU21">
+<log>
+<al>^nart-pHt</al>
+<tr>northern Noret (twenty-first nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU22">
+<log>
+<al>^mdnjt</al>
+<tr>Medenit (twenty-second nome of Upper Egypt)</tr>
+</log>
+</sign>
+
+<sign id="NU22a">
+<useas name="NU22" />
+</sign>
+
+<sign id="O1">
+<log>
+<al>pr</al>
+<tr>house</tr>
+</log>
+
+<phon>
+<al>pr</al>
+</phon>
+
+<det>
+<describe>building, seat, place</describe>
+</det>
+</sign>
+
+<sign id="O1a">
+<log>
+<al>pr-anx</al>
+<tr>temple scriptorium</tr>
+</log>
+</sign>
+
+<sign id="O2">
+<log>
+<al>pr-HD</al>
+<tr>treasury</tr>
+</log>
+</sign>
+
+<sign id="O3">
+<log>
+<al>prt-r-xrw</al>
+<tr>invocation offerings</tr>
+</log>
+</sign>
+
+<sign id="O4">
+<log>
+<al>h</al>
+<tr>grounds</tr>
+</log>
+
+<phon>
+<al>h</al>
+</phon>
+</sign>
+
+<sign id="O5">
+<det>
+<al root="mrr">mrrt</al>
+<tr>street</tr>
+    <example>
+    	<hi>mr-r:r-t:O5-pr</hi>
+    </example>
+</det>
+
+<phonphondet>
+<al>mr</al>
+</phonphondet>
+
+<phonphondet>
+<al>nm</al>
+</phonphondet>
+</sign>
+
+<sign id="O5a">
+<useas name="O5" />
+</sign>
+
+<sign id="O6">
+<log>
+<al root="Hw">Hwt</al>
+<tr>(large) building</tr>
+</log>
+
+<log>
+<al root="Ht">Htt</al>
+<tr>quary</tr>
+</log>
+</sign>
+
+<sign id="O6a">
+<typ>
+<describe>opening of <al>Hwt</al> enclosure</describe>
+</typ>
+</sign>
+
+<sign id="O6b">
+<typ>
+<describe>opening of <al>Hwt</al> enclosure</describe>
+</typ>
+</sign>
+
+<sign id="O6c">
+<typ>
+<describe>opening of <al>Hwt</al> enclosure</describe>
+</typ>
+</sign>
+
+<sign id="O6d">
+<typ>
+<describe>closing of <al>Hwt</al> enclosure</describe>
+</typ>
+</sign>
+
+<sign id="O6e">
+<typ>
+<describe>closing of <al>Hwt</al> enclosure</describe>
+</typ>
+</sign>
+
+<sign id="O6f">
+<typ>
+<describe>closing of <al>Hwt</al> enclosure</describe>
+</typ>
+</sign>
+
+<sign id="O7" period="18">
+<useas name="O6" />
+</sign>
+
+<sign id="O8">
+<log>
+<al>Hwt-aAt</al>
+<tr>large building</tr>
+</log>
+</sign>
+
+<sign id="O9">
+<log>
+<al>^nbt-Hwt</al>
+<tr>Nephthys</tr>
+</log>
+</sign>
+
+<sign id="O10">
+<log>
+<al>^Hwt-^Hr</al>
+<tr>Hathor</tr>
+</log>
+</sign>
+
+<sign id="O10a">
+<log>
+<al root="Hw-anx">Hwt-anx</al>
+<tr>royal living quarters</tr>
+</log>
+</sign>
+
+<sign id="O10b">
+<log>
+<al>Hwt-bjtj</al>
+<tr>house of the king of Lower Egypt</tr>
+</log>
+</sign>
+
+<sign id="O10c" period="25-">
+<log>
+<al certain="false">Hwt-Hr</al>
+<tr>Hut-her</tr>
+    <example>
+    	<hi cite="Wellcome museum W.1331"><!-- 
+	W9*w-[sep=0.2]H8:Z1-mi-U19:n:n-
+	-->O10c-Aa1:[fit]D40:.<!-- 
+	-ir:t:n-insert[te](D17,X1):n-Q1:t*.--></hi>
+	<al><!-- 
+	^Xnmw sA mj nn 
+	-->Hwt-Hr-nxt<!-- 
+	jr{t}.n ^dnjt-n-^Ast --></al>
+	<tr><!-- Khnum, son of a man with the same titles 
+	-->Hut-her-nekhet<!--
+	begotten by Denit-en-aset --></tr>
+    </example>
+</log>
+<p>
+Or perhaps <al>Hr</al>.
+</p>
+</sign>
+
+<sign id="O11">
+<log>
+<al>aH</al>
+<tr>palace</tr>
+</log>
+</sign>
+
+<sign id="O12">
+<useas name="O11" />
+</sign>
+
+<sign id="O13">
+<logdet>
+<al root="sbx">sbxt</al>
+<tr>gateway</tr>
+</logdet>
+</sign>
+
+<sign id="O14">
+<useas name="O13" />
+</sign>
+
+<sign id="O15">
+<log>
+<al root="wsx">wsxt</al>
+<tr>hall</tr>
+</log>
+</sign>
+
+<sign id="O16">
+<logdet>
+<al>tA</al>
+<tr>door (in temple)</tr>
+</logdet>
+
+<log>
+<al>tAytj</al>
+<tr>he of the door (title)</tr>
+</log>
+
+<useas name="S22" useref="larboard" />
+</sign>
+
+<sign id="O17" period="OK">
+<useas name="O16" />
+</sign>
+
+<sign id="O18">
+<logdet>
+<al>kAr</al>
+<tr>chapel</tr>
+</logdet>
+</sign>
+
+<sign id="O19">
+<det>
+<describe>shrine</describe>
+</det>
+</sign>
+
+<sign id="O19a">
+<useas name="O19" />
+</sign>
+
+<sign id="O20">
+<det>
+<describe>sanctuary</describe>
+</det>
+</sign>
+
+<sign id="O20a">
+<useas name="O20" />
+</sign>
+
+<sign id="O21">
+<logdet>
+<al>sH</al>
+<tr>booth</tr>
+</logdet>
+</sign>
+
+<sign id="O22">
+<logdet>
+<al>sH</al>
+<tr>booth</tr>
+</logdet>
+
+<phondet>
+<al>sH</al>
+</phondet>
+
+<phon>
+<al>HAb</al>
+</phon>
+</sign>
+
+<sign id="O23">
+<logdet>
+<al>Hd-sd</al>
+<tr>Sed festival</tr>
+</logdet>
+</sign>
+
+<sign id="O24">
+<logdet>
+<al>mr</al>
+<tr>pyramid</tr>
+</logdet>
+
+<det>
+<describe>pyramid</describe>
+</det>
+</sign>
+
+<sign id="O24a">
+<det>
+<describe>in names of sun-obelisks</describe>
+</det>
+</sign>
+
+<sign id="O25">
+<logdet>
+<al>txn</al>
+<tr>obelisk</tr>
+</logdet>
+</sign>
+
+<sign id="O25a">
+<useas name="O24a" />
+</sign>
+
+<sign id="O26">
+<logdet>
+<al>wD</al>
+<tr>stela</tr>
+</logdet>
+
+<det>
+<describe>stela</describe>
+</det>
+</sign>
+
+<sign id="O27">
+<det>
+<describe>hall of columns</describe>
+</det>
+
+<phonphondet>
+<al>xA</al>
+</phonphondet>
+</sign>
+
+<sign id="O28">
+<log>
+<al>jwn</al>
+<tr>column</tr>
+</log>
+
+<phon>
+<al>jwn</al>
+</phon>
+</sign>
+
+<sign id="O29">
+<log>
+<al>aA</al>
+<tr>column</tr>
+</log>
+
+<phon>
+<al>aA</al>
+</phon>
+
+<phon type="group">
+<group>O29:D36</group>
+<group>O29</group>
+<al>a</al>
+</phon>
+</sign>
+
+<sign id="O29a">
+<useas name="O29" />
+</sign>
+
+<sign id="O30">
+<logdet>
+<al root="sxn">sxnt</al>
+<tr>support</tr>
+</logdet>
+
+<logdet plural="true">
+<group>O30*[sep=0.0]O30*[sep=0.0]O30*[sep=0.0]O30</group>
+<al>sxnwt</al>
+<tr>the four support (of the sky)</tr>
+</logdet>
+</sign>
+
+<sign id="O30a">
+<useas number="4" name="O30" />
+</sign>
+
+<sign id="O31">
+<logdet>
+<al>aA</al>
+<tr>door</tr>
+</logdet>
+
+<phon>
+<al>aA</al>
+</phon>
+
+<det>
+<describe>open</describe>
+</det>
+</sign>
+
+<sign id="O32">
+<logdet>
+<al>sbA</al>
+<tr>door</tr>
+</logdet>
+
+<det>
+<describe>door, gateway</describe>
+</det>
+</sign>
+
+<sign id="O33">
+<logdet>
+<al>srx</al>
+<tr>banner</tr>
+</logdet>
+</sign>
+
+<sign id="O33a">
+<typ>
+<describe>closing of <al>srx</al> enclosure</describe>
+</typ>
+</sign>
+
+<sign id="O34">
+<log>
+<al>s</al>
+<tr>bolt</tr>
+</log>
+
+<phon useid="s">
+<al>s</al>
+</phon>
+
+<useas name="R22" useref="Ausim" />
+</sign>
+
+<sign id="O35">
+<log>
+<al root="sb">sbj</al>
+<tr>go</tr>
+</log>
+
+<log>
+<al root="sb">sbj</al>
+<tr>perish</tr>
+    <example>
+	<hi>O35-D54</hi>
+    </example>
+</log>
+
+<log>
+<al>ms</al>
+<tr>bring</tr>
+    <example>
+	<hi>G17-O35-D54</hi>
+    </example>
+</log>
+
+<log>
+<al>js</al>
+<tr>go!</tr>
+    <example>
+	<hi>M17-O35</hi>
+    </example>
+</log>
+
+<log>
+<al>sj</al>
+<tr>who?</tr>
+    <example>
+	<hi>O35-M17*M17</hi>
+	<hi>O35-S29</hi>
+    </example>
+</log>
+</sign>
+
+<sign id="O36">
+<logdet>
+<al>jnb</al>
+<tr>wall</tr>
+</logdet>
+
+<det>
+<describe>wall</describe>
+</det>
+</sign>
+
+<sign id="O36a">
+<typ>
+<describe>opening of fortified wall cartouche</describe>
+</typ>
+</sign>
+
+<sign id="O36b">
+<typ>
+<describe>closing of fortified wall cartouche</describe>
+</typ>
+</sign>
+
+<sign id="O36c">
+<typ>
+<describe>opening of square fortified wall cartouche</describe>
+</typ>
+</sign>
+
+<sign id="O36d">
+<typ>
+<describe>closing of square fortified wall cartouche</describe>
+</typ>
+</sign>
+
+<sign id="O37">
+<det>
+<describe>overthrow, tilt</describe>
+</det>
+</sign>
+
+<sign id="O38">
+<logdet>
+<al root="qnb">qnbt</al>
+<tr>corner</tr>
+<tr>court of magistrates</tr>
+</logdet>
+
+<det>
+<describe>gate, street</describe>
+</det>
+
+<logdet>
+<al>tm</al>
+<tr>(part of a title)</tr>
+    <example>
+    	<hi>t:tm-O38[mirror]</hi>
+    	<al>Hrj n tm</al>
+	<tr>(a title)</tr>
+    </example>
+</logdet>
+</sign>
+
+<sign id="O39">
+<det>
+<describe>stone</describe>
+</det>
+</sign>
+
+<sign id="O40">
+<logdet>
+<al>rwd</al>
+<tr>stairway</tr>
+</logdet>
+
+<logdet>
+<al>xtjw</al>
+<tr>terrace</tr>
+</logdet>
+
+<det>
+<describe>stairway</describe>
+</det>
+</sign>
+
+<sign id="O41">
+<det>
+<describe>stairway, ascent</describe>
+</det>
+</sign>
+
+<sign id="O42">
+<phon>
+<al>Ssp</al>
+</phon>
+
+<phon>
+<al>sSp</al>
+</phon>
+</sign>
+
+<sign id="O43" period="OK">
+<useas name="O42" />
+</sign>
+
+<sign id="O44">
+<logdet>
+<al root="jAw">jAwt</al>
+<tr>rank</tr>
+</logdet>
+</sign>
+
+<sign id="O45">
+<logdet>
+<al root="jpA">jpAt</al>
+<tr>harem</tr>
+</logdet>
+</sign>
+
+<sign id="O46">
+<useas name="O45" />
+</sign>
+
+<sign id="O47" period="18">
+<log>
+<al>^nxn</al>
+<tr>Hieraconpolis</tr>
+</log>
+</sign>
+
+<sign id="O48">
+<useas name="O47" />
+</sign>
+
+<sign id="O49">
+<log>
+<al root="njw">njwt</al>
+<tr>city</tr>
+</log>
+
+<det>
+<describe>inhabited area</describe>
+</det>
+</sign>
+
+<sign id="O50">
+<logdet>
+<al root="sp">spt</al>
+<tr>threshing floor</tr>
+</logdet>
+
+<phon>
+<al>sp</al>
+</phon>
+
+<log>
+<group>O50:.*Z1*Z1*.</group>
+<group>O50:Z4</group>
+<al>sp sn</al>
+<tr>(two times)</tr>
+</log>
+
+<typ>
+<group>O50:.*Z1*Z1*.</group>
+<group>O50:Z4</group>
+<describe>repetition of the preceding sequence of consonants</describe>
+</typ>
+</sign>
+
+<sign id="O50a" texttype="hieratic">
+<useas name="O50" />
+</sign>
+
+<sign id="O50b" texttype="hieratic">
+<useas name="O50" />
+</sign>
+
+<sign id="O51">
+<logdet>
+<al root="Snw">Snwt</al>
+<tr>granary</tr>
+</logdet>
+</sign>
+
+<sign id="P1">
+<logdet>
+<al root="dp">dpt</al>
+<tr>ship</tr>
+</logdet>
+
+<logdet>
+<al>jmw</al>
+<tr>ship</tr>
+</logdet>
+
+<logdet>
+<al>aHa</al>
+<tr>ship</tr>
+</logdet>
+
+<logdet>
+<al>qAqAw</al>
+<tr>ship</tr>
+</logdet>
+
+<det>
+<describe>boat, ship, travel by water</describe>
+</det>
+</sign>
+
+<sign id="P1a">
+
+<det>
+<al>pna</al>
+<tr>overturn</tr>
+    <example>
+    	<hi>p:n:a-P1a</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="P2">
+<det>
+<al root="xnt">xntj</al>
+<tr>sail upstream</tr>
+    <example>
+        <hi>xnt-n:t-P2</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="P3">
+<logdet>
+<al>wjA</al>
+<tr>sacred bark</tr>
+</logdet>
+
+<det>
+<describe>divine boats, divine journeys</describe>
+</det>
+</sign>
+
+<sign id="P3a">
+<useas name="P3" />
+</sign>
+
+<sign id="P4">
+<log>
+<al>wHa</al>
+<tr>fisherman</tr>
+</log>
+</sign>
+
+<sign id="P5">
+<logdet>
+<al>TAw</al>
+<tr>breath</tr>
+</logdet>
+
+<det>
+<describe>wind, sail</describe>
+</det>
+
+<logdet>
+<al>nfw</al>
+<tr>skipper</tr>
+</logdet>
+</sign>
+
+<sign id="P6">
+<phon>
+<al>aHa</al>
+</phon>
+</sign>
+
+<sign id="P7">
+<useas name="P6" />
+</sign>
+
+<sign id="P8">
+<logdet>
+<al>wsr</al>
+<tr>oar</tr>
+</logdet>
+
+<logdet>
+<al root="Hp">Hpt</al>
+<tr>oar</tr>
+</logdet>
+
+<det>
+<describe>oar</describe>
+</det>
+
+<phon>
+<al>xrw</al>
+</phon>
+</sign>
+
+<sign id="P9">
+<log>
+<al>xrwj=fj</al>
+<tr>he says</tr>
+    <example>
+	<hi>P9-.:Z4</hi>
+    </example>
+</log>
+</sign>
+
+<sign id="P10">
+<logdet>
+<al root="Hm">Hmw</al>
+<tr>steering oar</tr>
+</logdet>
+</sign>
+
+<sign id="P11">
+<logdet>
+<al root="mnj">mnjt</al>
+<tr>mooring post</tr>
+</logdet>
+</sign>
+
+<sign id="Q1">
+<log>
+<al root="s">st</al>
+<tr>seat</tr>
+</log>
+
+<phon>
+<al>st</al>
+</phon>
+
+<phon>
+<al>ws</al>
+</phon>
+
+<phon>
+<al>As</al>
+</phon>
+
+<phon>
+<al>Htm</al>
+</phon>
+</sign>
+
+<sign id="Q2">
+<log>
+<al root="s">st</al>
+<tr>seat</tr>
+</log>
+
+<phon>
+<al>ws</al>
+</phon>
+</sign>
+
+<sign id="Q3">
+<log>
+<al>p</al>
+<tr>base</tr>
+</log>
+
+<phon>
+<al>p</al>
+</phon>
+</sign>
+
+<sign id="Q4">
+<logdet>
+<al>wrs</al>
+<tr>head-rest</tr>
+</logdet>
+</sign>
+
+<sign id="Q5">
+<det>
+<describe>box, chest</describe>
+</det>
+</sign>
+
+<sign id="Q6">
+<logdet>
+<al root="qrs">qrsw</al>
+<tr>coffin</tr>
+</logdet>
+
+<det>
+<describe>burial</describe>
+</det>
+</sign>
+
+<sign id="Q7">
+<det>
+<describe>fire, flame, cook</describe>
+</det>
+
+<logdet>
+<al>srf</al>
+<tr>temperature</tr>
+</logdet>
+
+<log>
+<group>Q7*Q7</group>
+<al>nsrsr</al>
+<tr>Fire-Island</tr>
+    <example>
+	<hi>N18:Z1*N21-Q7*Q7-O49</hi>
+	<al>jw nsrsr</al>
+	<tr>Fire-Island</tr>
+    </example>
+</log>
+</sign>
+
+<sign id="R1">
+<logdet>
+<al root="xAw">xAwt</al>
+<tr>table of offerings</tr>
+</logdet>
+</sign>
+
+<sign id="R2">
+<useas name="R1" />
+</sign>
+
+<sign id="R2a">
+<useas name="R1" />
+</sign>
+
+<sign id="R3">
+<logdet>
+<al>wdHw</al>
+<tr>table of offerings</tr>
+</logdet>
+</sign>
+
+<sign id="R3a">
+<useas name="R3" />
+</sign>
+
+<sign id="R3b">
+<useas name="R3" />
+</sign>
+
+<sign id="R4">
+<log>
+<al>Htp</al>
+<tr>altar</tr>
+</log>
+
+<phon>
+<al>Htp</al>
+</phon>
+</sign>
+
+<sign id="R5">
+<logdet>
+<al>kAp</al>
+<tr>fumigate</tr>
+</logdet>
+
+<phon>
+<al>kAp</al>
+<al>kp</al>
+</phon>
+</sign>
+
+<sign id="R6" period="OK">
+<useas name="R5" />
+</sign>
+
+<sign id="R7">
+<logdet>
+<al>snTr</al>
+<tr>incense</tr>
+</logdet>
+<useas name="W10a" />
+</sign>
+
+<sign id="R8">
+<log>
+<al>nTr</al>
+<tr>god</tr>
+</log>
+
+<det>
+<describe>god</describe>
+</det>
+</sign>
+
+<sign id="R9">
+<logdet>
+<al>bd</al>
+<tr>natron</tr>
+</logdet>
+</sign>
+
+<sign id="R10">
+<log>
+<al>Xrt-nTr</al>
+<tr>necropolis</tr>
+</log>
+</sign>
+
+<sign id="R10a">
+<useas name="R10" />
+</sign>
+
+<sign id="R11">
+<log>
+<al>Dd</al>
+<tr>djed-column</tr>
+</log>
+
+<phon>
+<al>Dd</al>
+</phon>
+</sign>
+
+<sign id="R12">
+<det>
+<al root="jA">jAt</al>
+<tr>standard</tr>
+    <example>
+        <hi>i*A-t:R12</hi>
+    </example>
+</det>
+
+<det>
+<describe>god</describe>
+</det>
+</sign>
+
+<sign id="R13" period="-12">
+<logdet>
+<al root="jmn">jmnt</al>
+<tr>west</tr>
+<tr>right</tr>
+</logdet>
+</sign>
+
+<sign id="R14" period="6-">
+<log>
+<al root="jmn">jmnt</al>
+<tr>west</tr>
+</log>
+
+<log>
+<al root="wnm">wnmj</al>
+<tr>right</tr>
+</log>
+</sign>
+
+<sign id="R15">
+<log>
+<al root="jAb">jAbt</al>
+<tr>east</tr>
+</log>
+
+<phon>
+<al>Ab</al>
+</phon>
+</sign>
+
+<sign id="R16">
+<logdet>
+<al>wx</al>
+<tr>ukh-fetish</tr>
+</logdet>
+</sign>
+
+<sign id="R16a">
+<logdet>
+<al>^nfr-tm</al>
+<tr>Nefertem</tr>
+</logdet>
+</sign>
+
+<sign id="R17" period="18">
+<useas name="NU8" />
+</sign>
+
+<sign id="R18">
+<useas name="NU8" />
+</sign>
+
+<sign id="R19">
+<log>
+<al>^wAst</al>
+<tr>Thebes</tr>
+</log>
+
+<useas name="S40" useref="jAtt" />
+</sign>
+
+<sign id="R20">
+<log>
+<al>^sSAt</al>
+<tr>Seshat</tr>
+</log>
+</sign>
+
+<sign id="R21" period="OK">
+<useas name="R20" />
+</sign>
+
+<sign id="R22">
+<log>
+<al>^mnw</al>
+<tr>Min</tr>
+</log>
+
+<log useid="Ausim">
+<al>^xm</al>
+<tr>Ausim</tr>
+</log>
+
+<phon>
+<al>xm</al>
+</phon>
+</sign>
+
+<sign id="R23" period="OK">
+<useas name="R22" />
+</sign>
+
+<sign id="R24">
+<log>
+<al>^njt</al>
+<tr>Neith</tr>
+</log>
+</sign>
+
+<sign id="R25" period="OK">
+<useas name="R24" />
+</sign>
+
+<sign id="R26">
+<log>
+<al>smA</al>
+<tr>unite</tr>
+</log>
+</sign>
+
+<sign id="R27">
+<log>
+<al>^njt</al>
+<tr>Neith</tr>
+</log>
+</sign>
+
+<sign id="R28">
+<logdet>
+<al>bAt</al>
+<tr>Bat (symbol of Hathor)</tr>
+</logdet>
+</sign>
+
+<sign id="R29">
+<log>
+<al root="jtr">jtrt</al>
+<tr>niche (for statues)</tr>
+</log>
+</sign>
+
+<sign id="S1">
+<logdet>
+<al>HDt</al>
+<tr>white crown</tr>
+</logdet>
+
+<det>
+<describe>white crown</describe>
+</det>
+</sign>
+
+<sign id="S2">
+<useas name="S1" />
+</sign>
+
+<sign id="S2a">
+<log>
+<al>Sma=s</al>
+<tr>crown of Upper Egypt</tr>
+</log>
+</sign>
+
+<sign id="S3">
+<logdet>
+<al>dSrt</al>
+<tr>red crown</tr>
+</logdet>
+
+<det>
+<describe>red crown</describe>
+</det>
+
+<phon period="18-">
+<al>n</al>
+</phon>
+</sign>
+
+<sign id="S4">
+<logdet>
+<al>nt</al>
+<tr>net-crown</tr>
+</logdet>
+
+<det>
+<describe>red crown</describe>
+</det>
+
+<phon>
+<al>n</al>
+</phon>
+</sign>
+
+<sign id="S5">
+<logdet>
+<al>sxmtj</al>
+<tr>double crown</tr>
+</logdet>
+</sign>
+
+<sign id="S6">
+<useas name="S5" />
+
+<det>
+<describe>double crown</describe>
+</det>
+</sign>
+
+<sign id="S6a">
+<log>
+<al>mHw=s</al>
+<tr>crown of Lower Egypt</tr>
+</log>
+</sign>
+
+<sign id="S7">
+<logdet>
+<al>xprS</al>
+<tr>blue crown</tr>
+</logdet>
+</sign>
+
+<sign id="S8">
+<logdet>
+<al>Atf</al>
+<tr>atef-crown</tr>
+</logdet>
+</sign>
+
+<sign id="S9">
+<logdet>
+<al>Swtj</al>
+<tr>double plumes</tr>
+</logdet>
+</sign>
+
+<sign id="S10">
+<logdet>
+<al>wAH</al>
+<tr>wreath</tr>
+</logdet>
+
+<phon>
+<al>mDH</al>
+</phon>
+
+<log>
+<al>mDH</al>
+<tr>carpenter</tr>
+</log>
+</sign>
+
+<sign id="S11">
+<logdet>
+<al>wsx</al>
+<tr>collar</tr>
+</logdet>
+
+<phonphondet>
+<al>wsx</al>
+</phonphondet>
+</sign>
+
+<sign id="S12">
+<log>
+<al root="nb">nbw</al>
+<tr>gold</tr>
+</log>
+
+<det>
+<describe>precious metal</describe>
+</det>
+</sign>
+
+<sign id="S13">
+<log>
+<al root="nb">nbj</al>
+<tr>gild</tr>
+</log>
+</sign>
+
+<sign id="S14">
+<log>
+<al>HD</al>
+<tr>silver</tr>
+</log>
+</sign>
+
+<sign id="S14a">
+<log>
+<al>Dam</al>
+<tr>electrum</tr>
+</log>
+</sign>
+
+<sign id="S14b">
+<useas name="S14a" />
+</sign>
+
+<sign id="S15" period="18">
+<logdet>
+<al root="THn">THnt</al>
+<tr>fayence</tr>
+</logdet>
+</sign>
+
+<sign id="S16" period="OK">
+<useas name="S15" />
+</sign>
+
+<sign id="S17" period="OK">
+<useas name="S15" />
+</sign>
+
+<sign id="S17a">
+<logdet>
+<al>^Ssmtt</al>
+<tr>Shesmetet</tr>
+</logdet>
+
+<phon>
+<al>Ssm</al>
+</phon>
+</sign>
+
+<sign id="S18">
+<logdet>
+<al root="mnj">mnjt</al>
+<tr>bead-necklace</tr>
+</logdet>
+</sign>
+
+<sign id="S19">
+<log>
+<al certain="false">xtmw</al>
+<tr>treasurer</tr>
+</log>
+</sign>
+
+<sign id="S20">
+<logdet>
+<al>xtm</al>
+<tr>seal</tr>
+</logdet>
+
+<det>
+<describe>seal</describe>
+</det>
+
+<logdet>
+<al>Snatj</al>
+<tr>shenoti</tr>
+</logdet>
+
+<useas name="S19" />
+<useas name="E31" />
+</sign>
+
+<sign id="S21">
+<det>
+<describe>ring</describe>
+</det>
+</sign>
+
+<sign id="S22">
+<phon>
+<al>sT</al>
+</phon>
+
+<logdet useid="larboard">
+<al>tA-wr</al>
+<tr>larboard</tr>
+</logdet>
+</sign>
+
+<sign id="S23">
+<logdet>
+<al>dmD</al>
+<tr>unite</tr>
+</logdet>
+
+<phon>
+<al>dmD</al>
+</phon>
+</sign>
+
+<sign id="S24">
+<logdet>
+<al root="Ts">Tst</al>
+<tr>knot</tr>
+</logdet>
+
+<logdet>
+<al>Ts</al>
+<tr>vertebra</tr>
+</logdet>
+
+<phon>
+<al>Ts</al>
+</phon>
+</sign>
+
+<sign id="S25">
+<det>
+<describe>apron</describe>
+</det>
+
+<logdet>
+<al>aAw</al>
+<tr>interpreter</tr>
+</logdet>
+</sign>
+
+<sign id="S26">
+<logdet>
+<al root="SnD">SnDwt</al>
+<tr>apron</tr>
+</logdet>
+</sign>
+
+<sign id="S26a">
+<logdet>
+<al>dAjw</al>
+<tr certain="false">apron</tr>
+</logdet>
+</sign>
+
+<sign id="S26b">
+<useas name="S26a" />
+</sign>
+
+<sign id="S27">
+<logdet>
+<al root="mnx">mnxt</al>
+<tr>clothing</tr>
+</logdet>
+</sign>
+
+<sign id="S28">
+<det>
+<describe>clothing</describe>
+</det>
+</sign>
+
+<sign id="S29">
+<phon>
+<al>s</al>
+</phon>
+
+<log>
+<group>S34*U28*S29</group>
+<al>a.w.s.</al>
+<tr>l.p.h.!</tr>
+</log>
+</sign>
+
+<sign id="S30">
+<phon>
+<al>sf</al>
+</phon>
+</sign>
+
+<sign id="S31">
+<phon>
+<al>smA</al>
+</phon>
+</sign>
+
+<sign id="S32">
+<logdet>
+<al root="sjA">sjAt</al>
+<tr>piece of cloth</tr>
+</logdet>
+
+<phon>
+<al>sjA</al>
+</phon>
+</sign>
+
+<sign id="S33">
+<logdet>
+<al root="Tb">Tbt</al>
+<tr>sandal</tr>
+</logdet>
+</sign>
+
+<sign id="S34">
+<log>
+<al>anx</al>
+<tr>sandal-strap</tr>
+</log>
+
+<log>
+<al>anx</al>
+<tr>life</tr>
+</log>
+
+<phon>
+<al>anx</al>
+</phon>
+
+<log>
+<group>S34*U28*S29</group>
+<al>a.w.s.</al>
+<tr>l.p.h.!</tr>
+</log>
+</sign>
+
+<sign id="S35">
+<logdet>
+<al root="Sw">Swt</al>
+<tr>shade</tr>
+</logdet>
+
+<logdet>
+<al root="sry">sryt</al>
+<tr>standard</tr>
+</logdet>
+</sign>
+
+<sign id="S35a">
+<useas name="S35" />
+</sign>
+
+<sign id="S36">
+<useas name="S35" />
+
+<log>
+<group>S36*(.:Q3)*S36</group>
+<al>^Hpwj</al>
+<tr>Hepui</tr>
+</log>
+</sign>
+
+<sign id="S37">
+<logdet>
+<al>xw</al>
+<tr>fan</tr>
+</logdet>
+</sign>
+
+<sign id="S38">
+<logdet>
+<al root="HqA">HqAt</al>
+<tr>sceptre</tr>
+</logdet>
+
+<phon>
+<al>HqA</al>
+</phon>
+
+<log>
+<group>S38*[fit]N29*S29</group>
+<al>Aqs</al>
+<tr>Akes</tr>
+</log>
+
+<useas name="S39" />
+</sign>
+
+<sign id="S39">
+<phon>
+<al>awt</al>
+</phon>
+</sign>
+
+<sign id="S40">
+<logdet>
+<al>wAs</al>
+<tr>uas-sceptre</tr>
+</logdet>
+
+<phonphondet>
+<al>wAs</al>
+</phonphondet>
+
+<phon>
+<al>wAb</al>
+</phon>
+
+<phon useid="jAtt">
+<al>jAtt</al>
+</phon>
+
+<useas texttype="hieroglyphic" name="S41" />
+</sign>
+
+<sign id="S41">
+<phon period="18">
+<al>Dam</al>
+</phon>
+</sign>
+
+<sign id="S42">
+<logdet>
+<al>abA</al>
+<tr>aba-sceptre</tr>
+</logdet>
+
+<phonphondet>
+<al>abA</al>
+</phonphondet>
+
+<log>
+<al>sxm</al>
+<tr>sistrum</tr>
+</log>
+
+<phon>
+<al>sxm</al>
+</phon>
+
+<logdet>
+<al>xrp</al>
+<tr>control</tr>
+</logdet>
+</sign>
+
+<sign id="S43">
+<log>
+<al>mdw</al>
+<tr>staff</tr>
+</log>
+
+<phon>
+<al>mdw</al>
+</phon>
+</sign>
+
+<sign id="S44">
+<logdet>
+<al>Ams</al>
+<tr>ames-sceptre</tr>
+</logdet>
+</sign>
+
+<sign id="S45">
+<logdet>
+<al>nxAxA</al>
+<tr>flagellum</tr>
+</logdet>
+</sign>
+
+<sign id="S46">
+<phon>
+<al>k</al>
+</phon>
+
+<logdet>
+<al>afnt</al>
+<tr>head-cloth</tr>
+</logdet>
+</sign>
+
+<sign id="T1">
+<phon>
+<al>mnw</al>
+</phon>
+</sign>
+
+<sign id="T2">
+<det>
+<al>sqr</al>
+<tr>smite</tr>
+    <example>
+        <hi>s-Aa7:T2</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="T3">
+<log>
+<al>HD</al>
+<tr>mace</tr>
+</log>
+
+<phon>
+<al>HD</al>
+</phon>
+</sign>
+
+<sign id="T3a">
+<phon>
+<al>HDw</al>
+</phon>
+</sign>
+
+<sign id="T4">
+<useas name="T3" />
+</sign>
+
+<sign id="T5">
+<useas name="T3" />
+</sign>
+
+<sign id="T6">
+<phon>
+<al>HDD</al>
+</phon>
+</sign>
+
+<sign id="T7" period="MK">
+<logdet>
+<al root="mjb">mjbt</al>
+<tr>axe</tr>
+</logdet>
+
+<logdet>
+<al>mDH</al>
+<tr>carpenter</tr>
+</logdet>
+</sign>
+
+<sign id="T7a">
+<logdet>
+<al>jqHw</al>
+<tr>axe</tr>
+</logdet>
+</sign>
+
+<sign id="T8">
+<phon>
+<al>tp</al>
+</phon>
+</sign>
+
+<sign id="T8a">
+<logdet>
+<al>bAgsw</al>
+<tr>dagger</tr>
+</logdet>
+</sign>
+
+<sign id="T9">
+<logdet>
+<al root="pD">pDt</al>
+<tr>bow</tr>
+</logdet>
+
+<phonphondet>
+<al>pD</al>
+</phonphondet>
+</sign>
+
+<sign id="T9a" period="OK">
+<useas name="T9" />
+</sign>
+
+<sign id="T10">
+<logdet>
+<al root="jwn">jwnt</al>
+<tr>bow</tr>
+</logdet>
+
+<useas name="T9" />
+</sign>
+
+<sign id="T11">
+<logdet>
+<al>Ssr</al>
+<tr>arrow</tr>
+</logdet>
+
+<phondet>
+<al>sXr</al>
+</phondet>
+
+<phondet>
+<al>sSr</al>
+</phondet>
+
+<phondet>
+<al>sjn</al>
+</phondet>
+
+<phonphondet>
+<al>swn</al>
+</phonphondet>
+</sign>
+
+<sign id="T11a">
+<det>
+<describe>Neith</describe>
+    <example>
+        <hi cite="GITB 802-065-700">R24[rotate=90]*T11a</hi>
+        <al>^njt</al>
+        <tr>Neith</tr>
+    </example>
+</det>
+</sign>
+
+<sign id="T12">
+<logdet>
+<al>rwD</al>
+<tr>bow-string</tr>
+</logdet>
+
+<phonphondet>
+<al>rwD</al>
+</phonphondet>
+
+<det>
+<al>Ar</al>
+<tr>restrain</tr>
+    <example>
+        <hi>A-r:T12</hi>
+    </example>
+</det>
+
+<phondet>
+<al>Ar</al>
+<al>Aj</al>
+</phondet>
+
+</sign>
+
+<sign id="T13">
+<phonphondet>
+<al>rs</al>
+</phonphondet>
+</sign>
+
+<sign id="T14">
+<logdet>
+<al root="amaA">amaAt</al>
+<tr>throw-stick</tr>
+</logdet>
+
+<logdet>
+<al>qmA</al>
+<tr>throw</tr>
+<tr>create</tr>
+</logdet>
+
+<phondet>
+<group>T14*[sep=0.2]G41</group>
+<al>Tn</al>
+</phondet>
+
+<log>
+<al>^THnw</al>
+<tr>Libia</tr>
+</log>
+
+<log>
+<al>aAm</al>
+<tr>Asian</tr>
+</log>
+
+<log>
+<al root="nHs">nHsj</al>
+<tr>Nubian</tr>
+</log>
+
+<det>
+<describe>foreign peoples and countries</describe>
+</det>
+
+<useas name="Aa26" />
+<useas name="M3" useref="Da" />
+<useas name="P11" />
+<useas name="T13" />
+<useas name="D50" useref="accurate" />
+</sign>
+
+<sign id="T15" period="OK">
+<useas name="T14" />
+</sign>
+
+<sign id="T16">
+<logdet>
+<al>xpS</al>
+<tr>scimitar</tr>
+</logdet>
+</sign>
+
+<sign id="T16a">
+<useas name="T16" />
+</sign>
+
+<sign id="T17">
+<logdet>
+<al root="wrry">wrryt</al>
+<tr>chariot</tr>
+</logdet>
+</sign>
+
+<sign id="T18">
+<logdet>
+<al>Sms</al>
+<tr>follow</tr>
+</logdet>
+</sign>
+
+<sign id="T19">
+<logdet>
+<al>qs</al>
+<tr>bone</tr>
+</logdet>
+
+<phonphondet>
+<al>qs</al>
+</phonphondet>
+
+<phonphondet>
+<al>qrs</al>
+</phonphondet>
+
+<phonphondet>
+<al>gn</al>
+</phonphondet>
+
+<phondet>
+<al>twr</al>
+</phondet>
+
+<det>
+<describe>bone, tubular</describe>
+</det>
+</sign>
+
+<sign id="T20" period="OK">
+<useas name="T19" />
+</sign>
+
+<sign id="T21">
+<logdet>
+<al>wa</al>
+<tr>one</tr>
+</logdet>
+</sign>
+
+<sign id="T22">
+<log>
+<al root="sn">snw</al>
+<tr>two</tr>
+</log>
+
+<phon>
+<al>sn</al>
+</phon>
+</sign>
+
+<sign id="T23" period="18">
+<useas name="T22" />
+</sign>
+
+<sign id="T24">
+<logdet>
+<al>aH</al>
+<tr>net (verb)</tr>
+</logdet>
+
+<phon>
+<al>aH</al>
+</phon>
+</sign>
+
+<sign id="T25">
+<logdet>
+<al>DbA</al>
+<tr>float (noun)</tr>
+</logdet>
+
+<phon>
+<al>DbA</al>
+</phon>
+</sign>
+
+<sign id="T26">
+<logdet>
+<al>sxt</al>
+<tr>trap</tr>
+</logdet>
+</sign>
+
+<sign id="T27" period="OK">
+<useas name="T26" />
+</sign>
+
+<sign id="T28">
+<log>
+<al>Xr</al>
+<tr>under</tr>
+</log>
+
+<phon>
+<al>Xr</al>
+</phon>
+</sign>
+
+<sign id="T29">
+<logdet>
+<al root="nm">nmt</al>
+<tr>place of slaughter</tr>
+</logdet>
+</sign>
+
+<sign id="T30">
+<det>
+<describe>knife, sharp</describe>
+</det>
+
+<logdet>
+<al root="dm">dmt</al>
+<tr>knife</tr>
+</logdet>
+</sign>
+
+<sign id="T31">
+<phon>
+<al>sSm</al>
+</phon>
+</sign>
+
+<sign id="T32">
+<useas name="T31" />
+</sign>
+
+<sign id="T32a">
+<useas name="T31" />
+</sign>
+
+<sign id="T33" period="OK">
+<log>
+<al>sSm</al>
+<tr>butcher</tr>
+</log>
+</sign>
+
+<sign id="T33a">
+<useas name="T33" />
+</sign>
+
+<sign id="T34">
+<logdet>
+<al>nm</al>
+<tr>knife</tr>
+</logdet>
+
+<phon>
+<al>nm</al>
+</phon>
+</sign>
+
+<sign id="T35">
+<useas name="T34" />
+</sign>
+
+<sign id="T36">
+<det>
+<al>jkm</al>
+<tr>shield</tr>
+</det>
+</sign>
+
+<sign id="U1">
+<log>
+<al>mA</al>
+<tr>sickle-shaped end of boat</tr>
+</log>
+
+<phon>
+<al>mA</al>
+</phon>
+
+<phon type="group">
+<group>U1-G1</group>
+<al>m</al>
+</phon>
+
+<det>
+<describe>reap</describe>
+</det>
+
+<det>
+<describe>crooked</describe>
+</det>
+</sign>
+
+<sign id="U2">
+<useas name="U1" />
+</sign>
+
+<sign id="U3">
+<log>
+<al root="mA">mAA</al>
+<tr>see</tr>
+</log>
+</sign>
+
+<sign id="U4">
+<log>
+<al root="mAa">mAat</al>
+<tr>truth</tr>
+</log>
+</sign>
+
+<sign id="U5">
+<useas name="U4" />
+</sign>
+
+<sign id="U6">
+<det>
+<describe>cultivate</describe>
+</det>
+
+<phon>
+<al>mr</al>
+</phon>
+
+<useas name="U8" useref="Hn" />
+</sign>
+
+<sign id="U6a">
+<useas name="U6" />
+</sign>
+
+<sign id="U6b">
+<useas name="U6" />
+</sign>
+
+<sign id="U7">
+<useas name="U6" />
+</sign>
+
+<sign id="U8">
+<logdet>
+<al>Hnn</al>
+<tr>hoe</tr>
+</logdet>
+
+<phon useid="Hn">
+<al>Hn</al>
+</phon>
+</sign>
+
+<sign id="U9">
+<det useid="grain">
+<describe>grain</describe>
+</det>
+
+<logdet>
+<al root="HqA">HqAt</al>
+<tr>heqat</tr>
+</logdet>
+</sign>
+
+<sign id="U10">
+<log>
+<al>jt</al>
+<tr>barley</tr>
+</log>
+
+<useas name="U9" useref="grain" period="18" />
+</sign>
+
+<sign id="U11">
+<log>
+<al root="HqA">HqAt</al>
+<tr>heqat</tr>
+</log>
+</sign>
+
+<sign id="U12">
+<useas name="U11" />
+</sign>
+
+<sign id="U13">
+<det>
+<describe>plough</describe>
+</det>
+
+<logdet>
+<al>hb</al>
+<tr>plough</tr>
+</logdet>
+
+<phon>
+<al>hb</al>
+</phon>
+
+<logdet>
+<al root="pr">prt</al>
+<tr>seed</tr>
+</logdet>
+
+<useas name="U14" period="5-" />
+</sign>
+
+<sign id="U14" period="OK">
+<phonphondet>
+<al>Sna</al>
+</phonphondet>
+</sign>
+
+<sign id="U15">
+<phon>
+<al>tm</al>
+</phon>
+</sign>
+
+<sign id="U16">
+<logdet>
+<al>wnS</al>
+<tr>sledge</tr>
+</logdet>
+
+<phonphondet>
+<al>bjA</al>
+</phonphondet>
+</sign>
+
+<sign id="U17">
+<logdet>
+<al>grg</al>
+<tr>establish</tr>
+</logdet>
+
+<phonphondet>
+<al>grg</al>
+</phonphondet>
+</sign>
+
+<sign id="U18" period="OK">
+<useas name="U17" />
+</sign>
+
+<sign id="U19">
+<log>
+<al>nwtj</al>
+<tr>the two adzes</tr>
+</log>
+
+<phon>
+<al>nw</al>
+</phon>
+
+<phon type="group">
+<group>N35:[sep=0.2]U19:[fit,sep=0.2]W24[scale=0.6]</group>
+<al>n</al>
+</phon>
+</sign>
+
+<sign id="U20">
+<useas name="U19" />
+</sign>
+
+<sign id="U21">
+<logdet>
+<al>stp</al>
+<tr>cut up</tr>
+</logdet>
+
+<phonphondet>
+<al>stp</al>
+</phonphondet>
+
+<phondet>
+<al>sTp</al>
+</phondet>
+</sign>
+
+<sign id="U22">
+<logdet>
+<al>mnx</al>
+<tr>carve</tr>
+</logdet>
+
+<phondet>
+<al>mnx</al>
+</phondet>
+</sign>
+
+<sign id="U23">
+<phon>
+<al>mr</al>
+</phon>
+
+<phon>
+<al>Ab</al>
+</phon>
+
+</sign>
+
+<sign id="U23a">
+<useas name="U23" />
+</sign>
+
+<sign id="U24" period="18">
+<logdet>
+<al root="Hm">Hmt</al>
+<tr>craft</tr>
+</logdet>
+</sign>
+
+<sign id="U25" period="OK">
+<useas name="U24" />
+</sign>
+
+<sign id="U26">
+<logdet>
+<al>wbA</al>
+<tr>open up</tr>
+</logdet>
+</sign>
+
+<sign id="U27">
+<useas name="U26" />
+</sign>
+
+<sign id="U28" period="18">
+<logdet>
+<al>DA</al>
+<tr>fire-drill</tr>
+</logdet>
+
+<phon>
+<al>DA</al>
+</phon>
+
+<log>
+<group>S34*U28*S29</group>
+<al>a.w.s.</al>
+<tr>l.p.h.!</tr>
+</log>
+
+<phon type="group">
+<group>U28*G1</group>
+<group>U28</group>
+<al>D</al>
+</phon>
+</sign>
+
+<sign id="U29" period="OK">
+<useas name="U28" />
+</sign>
+
+<sign id="U29a">
+<useas name="U28" />
+</sign>
+
+<sign id="U30">
+<log>
+<al>tA</al>
+<tr>kiln</tr>
+</log>
+
+<phon>
+<al>tA</al>
+</phon>
+</sign>
+
+<sign id="U31">
+<logdet>
+<al root="rtH">rtHtj</al>
+<tr>baker</tr>
+</logdet>
+
+<phondet>
+<al>rtH</al>
+</phondet>
+
+<phondet>
+<al>jtH</al>
+</phondet>
+
+<logdet>
+<al>xnr</al>
+<tr>restrain</tr>
+</logdet>
+
+<useas name="D19" />
+</sign>
+
+<sign id="U32">
+<logdet>
+<al>sHm</al>
+<tr>pound</tr>
+</logdet>
+
+<phonphondet>
+<al>smn</al>
+</phonphondet>
+
+<phon>
+<al>Hsmn</al>
+</phon>
+
+<det>
+<describe>pound, press down, heavy</describe>
+</det>
+
+<det>
+<al>HmAyt</al>
+<tr>salt</tr>
+</det>
+</sign>
+
+<sign id="U32a" texttype="hieratic">
+<useas name="U32" />
+</sign>
+
+<sign id="U33">
+<log>
+<al root="tj">tjt</al>
+<tr>pestle</tr>
+</log>
+
+<phon>
+<al>tj</al>
+</phon>
+
+<phon>
+<al>t</al>
+</phon>
+
+<phon type="group">
+<group>U33</group>
+<group>U33*M17</group>
+<group>U33-M17*M17</group>
+<al>t</al>
+</phon>
+</sign>
+
+<sign id="U34">
+<logdet>
+<al>xsf</al>
+<tr>spin</tr>
+</logdet>
+
+<phon>
+<al>xsf</al>
+</phon>
+</sign>
+
+<sign id="U35">
+<useas name="U34" />
+</sign>
+
+<sign id="U36">
+<log>
+<al>Hmww</al>
+<tr>fuller</tr>
+</log>
+
+<phon>
+<al>Hm</al>
+</phon>
+</sign>
+
+<sign id="U37">
+<logdet>
+<al>Xaq</al>
+<tr>shave</tr>
+</logdet>
+</sign>
+
+<sign id="U38">
+<logdet>
+<al root="mxA">mxAt</al>
+<tr>balance</tr>
+</logdet>
+</sign>
+
+<sign id="U39">
+<logdet>
+<al root="wTs">wTst</al>
+<tr>post (of balance)</tr>
+</logdet>
+
+<logdet>
+<al root="Ts">Tsj</al>
+<tr>raise</tr>
+</logdet>
+</sign>
+
+<sign id="U40" period="18">
+<useas name="U39" />
+<useas name="T13" />
+</sign>
+
+<sign id="U41">
+<logdet>
+<al>tx</al>
+<tr>plummet</tr>
+</logdet>
+</sign>
+
+<sign id="U42">
+<logdet>
+<al root="abw">abwt</al>
+<tr>pitchfork</tr>
+</logdet>
+
+<phon>
+<al>sDb</al>
+</phon>
+
+<phondet>
+<al>sDb</al>
+</phondet>
+</sign>
+
+<sign id="V1">
+<det>
+<describe>rope</describe>
+</det>
+
+<phonphondet>
+<al>Sn</al>
+</phonphondet>
+
+<log numeral="100">
+<al root="Sn">Snt</al>
+<tr>100</tr>
+</log>
+</sign>
+
+<sign id="V1a">
+<useas number="2" name="V1"/>
+</sign>
+
+<sign id="V1b">
+<useas number="3" name="V1"/>
+</sign>
+
+<sign id="V1c">
+<useas number="4" name="V1"/>
+</sign>
+
+<sign id="V1d">
+<useas number="5" name="V1"/>
+</sign>
+
+<sign id="V1e">
+<useas number="6" name="V1"/>
+</sign>
+
+<sign id="V1f">
+<useas number="7" name="V1"/>
+</sign>
+
+<sign id="V1g">
+<useas number="8" name="V1"/>
+</sign>
+
+<sign id="V1h">
+<useas number="9" name="V1"/>
+</sign>
+
+<sign id="V1i">
+<useas number="5" name="V1"/>
+</sign>
+
+<sign id="V2">
+<logdet>
+<al>sTA</al>
+<tr>drag</tr>
+</logdet>
+
+<phon>
+<al>sTA</al>
+</phon>
+
+<det>
+<al>As</al>
+<tr>hasten</tr>
+    <example>
+        <hi>A-s*(V2:D54)</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="V2a" texttype="hieratic">
+<useas name="V2" />
+</sign>
+
+<sign id="V3" period="18">
+<phon>
+<al>sTAw</al>
+</phon>
+</sign>
+
+<sign id="V4">
+<phon>
+<al>wA</al>
+</phon>
+</sign>
+
+<sign id="V5">
+<det>
+<al>snT</al>
+<tr>plan</tr>
+    <example>
+        <hi>s-n:T-V5</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="V6">
+<logdet>
+<al>Ss</al>
+<tr>rope</tr>
+</logdet>
+
+<phon>
+<al>Ss</al>
+</phon>
+
+<useas name="V33" />
+<useas name="S28" />
+</sign>
+
+<sign id="V7">
+<logdet>
+<al root="Sn">Snj</al>
+<tr>enclose</tr>
+</logdet>
+
+<phon>
+<al>Sn</al>
+</phon>
+</sign>
+
+<sign id="V7a">
+<useas name="V7" />
+</sign>
+
+<sign id="V7b" texttype="hieratic">
+<useas name="V7" />
+</sign>
+
+<sign id="V8" period="18">
+<useas name="V7" />
+</sign>
+
+<sign id="V9">
+<logdet>
+<al root="Sn">Snw</al>
+<tr>cartouche</tr>
+</logdet>
+</sign>
+
+<sign id="V10">
+<logdet>
+<al root="Sn">Snw</al>
+<tr>cartouche</tr>
+</logdet>
+
+<det>
+<describe>name</describe>
+</det>
+</sign>
+
+<sign id="V11">
+<det>
+<al>dnj</al>
+<tr>restrain</tr>
+    <example>
+        <hi>d:n-i*V11</hi>
+    </example>
+</det>
+
+<det texttype="hieratic">
+<al>pxA</al>
+<tr>split</tr>
+    <example>
+        <hi>p:x-xA-A-V11:mDAt</hi>
+    </example>
+</det>
+</sign>
+
+<sign id="V11a">
+<typ>
+<describe>hieratic opening of cartouche</describe>
+</typ>
+</sign>
+
+<sign id="V11b">
+<typ>
+<describe>hieratic closing of cartouche</describe>
+</typ>
+</sign>
+
+<sign id="V11c">
+<typ>
+<describe>hieratic closing of knotless cartouche</describe>
+</typ>
+</sign>
+
+<sign id="V12">
+<det>
+<describe>bind</describe>
+</det>
+
+<phonphondet>
+<al>fx</al>
+</phonphondet>
+
+<phonphondet>
+<al>arq</al>
+</phonphondet>
+
+<det>
+<describe>papyrus</describe>
+</det>
+</sign>
+
+<sign id="V12a">
+<useas name="V12" />
+</sign>
+
+<sign id="V12b">
+<useas name="V12" />
+</sign>
+
+<sign id="V13">
+<phon>
+<al>T</al>
+</phon>
+</sign>
+
+<sign id="V14">
+<phon>
+<al>T</al>
+</phon>
+</sign>
+
+<sign id="V15">
+<log>
+<al root="jT">jTj</al>
+<tr>seize</tr>
+</log>
+</sign>
+
+<sign id="V16">
+<log>
+<al>sA</al>
+<tr>hobble</tr>
+</log>
+
+<phon>
+<al>sA</al>
+</phon>
+</sign>
+
+<sign id="V17" period="18">
+<logdet>
+<al>sA</al>
+<tr>protection</tr>
+</logdet>
+</sign>
+
+<sign id="V18" period="OK">
+<useas name="V17" />
+</sign>
+
+<sign id="V19">
+<logdet>
+<al root="mD">mDt</al>
+<tr>stable</tr>
+</logdet>
+
+<phonphondet>
+<al>tmA</al>
+</phonphondet>
+
+<logdet>
+<al>XAr</al>
+<tr>sack</tr>
+</logdet>
+
+<det>
+<describe>palanquin, portable shrine</describe>
+</det>
+</sign>
+
+<sign id="V20">
+<phon>
+<al>mD</al>
+</phon>
+
+<log numeral="10">
+<al>mD</al>
+<tr>10</tr>
+</log>
+</sign>
+
+<sign id="V20a">
+<useas number="2" name="V20"/>
+</sign>
+
+<sign id="V20b">
+<useas number="3" name="V20"/>
+</sign>
+
+<sign id="V20c">
+<useas number="4" name="V20"/>
+</sign>
+
+<sign id="V20d">
+<useas number="5" name="V20"/>
+</sign>
+
+<sign id="V20e">
+<useas number="6" name="V20"/>
+</sign>
+
+<sign id="V20f">
+<useas number="7" name="V20"/>
+</sign>
+
+<sign id="V20g">
+<useas number="8" name="V20"/>
+</sign>
+
+<sign id="V20h">
+<useas number="9" name="V20"/>
+</sign>
+
+<sign id="V20i">
+<useas number="2" name="V20"/>
+</sign>
+
+<sign id="V20j">
+<useas number="3" name="V20"/>
+</sign>
+
+<sign id="V20k">
+<useas number="4" name="V20"/>
+</sign>
+
+<sign id="V20l">
+<useas number="5" name="V20"/>
+</sign>
+
+<sign id="V21" period="12-">
+<log>
+<al root="mD">mDt</al>
+<tr>stable</tr>
+</log>
+
+<phon>
+<al>mD</al>
+</phon>
+</sign>
+
+<sign id="V22" period="18">
+<phon>
+<al>mH</al>
+</phon>
+</sign>
+
+<sign id="V23" period="OK">
+<useas name="V22" />
+</sign>
+
+<sign id="V23a">
+<useas name="V22" />
+</sign>
+
+<sign id="V24">
+<phon>
+<al>wD</al>
+</phon>
+</sign>
+
+<sign id="V25" period="18">
+<useas name="V24" />
+</sign>
+
+<sign id="V26">
+<logdet>
+<al>aD</al>
+<tr>spool</tr>
+</logdet>
+
+<phonphondet useid="aD">
+<al>aD</al>
+</phonphondet>
+</sign>
+
+<sign id="V27" period="OK">
+<useas name="V26" />
+</sign>
+
+<sign id="V28">
+<phon>
+<al>H</al>
+</phon>
+</sign>
+
+<sign id="V28a">
+<phon>
+<al>Ha</al>
+</phon>
+</sign>
+
+<sign id="V29">
+<logdet>
+<al>sk</al>
+<tr>wipe</tr>
+</logdet>
+
+<phon>
+<al>sk</al>
+</phon>
+
+<phonphondet>
+<al>wAH</al>
+</phonphondet>
+
+<det>
+<al>xsr</al>
+<tr>ward off</tr>
+    <example>
+        <hi>x:z:r-V29-D40</hi>
+    </example>
+</det>
+
+<det>
+<al>mar</al>
+<tr>fortunate</tr>
+</det>
+</sign>
+
+<sign id="V29a">
+<phon>
+<al>sk</al>
+</phon>
+</sign>
+
+<sign id="V30">
+<logdet>
+<al root="nb">nbt</al>
+<tr>basket</tr>
+</logdet>
+
+<phon>
+<al>nb</al>
+</phon>
+</sign>
+
+<sign id="V30a">
+<useas name="V30" />
+</sign>
+
+<sign id="V31">
+<phon>
+<al>k</al>
+</phon>
+</sign>
+
+<sign id="V31a">
+<useas name="V31" />
+</sign>
+
+<sign id="V32">
+<logdet>
+<al>msnw</al>
+<tr>harpooner</tr>
+</logdet>
+
+<phon>
+<al>msn</al>
+</phon>
+
+<logdet>
+<al root="gAw">gAwt</al>
+<tr>tribute</tr>
+</logdet>
+
+<phondet>
+<al>gAw</al>
+<al>gAy</al>
+</phondet>
+</sign>
+
+<sign id="V33">
+<logdet>
+<al>sSr</al>
+<tr>linen</tr>
+</logdet>
+
+<phon>
+<al>sSr</al>
+</phon>
+
+<phon>
+<al>g</al>
+</phon>
+
+<det>
+<describe>tie up, envelop, perfume</describe>
+</det>
+
+<useas name="V6" />
+</sign>
+
+<sign id="V33a">
+<logdet>
+<al>qAr</al>
+<tr>bundle</tr>
+    <example>
+        <hi cite="GITB 804-010-299">q*A-r:V33a</hi>
+        <al>^qAr</al>
+        <tr>Kar</tr>
+    </example>
+</logdet>
+</sign>
+
+<sign id="V34" period="18">
+<useas name="V33" />
+</sign>
+
+<sign id="V35" period="OK">
+<useas name="V33" />
+</sign>
+
+<sign id="V36">
+<logdet>
+<al>Hn</al>
+<tr>receptacle</tr>
+</logdet>
+
+<phonphondet>
+<al>Hn</al>
+</phonphondet>
+
+<log>
+<group>V36*[sep=0.2]V36</group>
+<al>Hntj</al>
+<tr>end</tr>
+</log>
+</sign>
+
+<sign id="V37">
+<logdet>
+<al>jdr</al>
+<tr>bandage</tr>
+</logdet>
+
+<phonphondet>
+<al>jdr</al>
+</phonphondet>
+</sign>
+
+<sign id="V37a">
+<useas name="V37" />
+</sign>
+
+<sign id="V38" period="OK">
+<logdet>
+<al>wt</al>
+<tr>bandage</tr>
+</logdet>
+</sign>
+
+<sign id="V39">
+<logdet>
+<al root="tj">tjt</al>
+<tr>knot-amulet</tr>
+</logdet>
+</sign>
+
+<sign id="V40">
+<log numeral="10">
+<al>mD</al>
+<tr>10 (in days of the month)</tr>
+</log>
+</sign>
+
+<sign id="V40a">
+<useas number="2" name="V40"/>
+</sign>
+
+<sign id="W1">
+<logdet>
+<al root="mrH">mrHt</al>
+<tr>unguent</tr>
+</logdet>
+
+<det>
+<describe>oil, unguent</describe>
+</det>
+</sign>
+
+<sign id="W2">
+<logdet>
+<al>bAs</al>
+<tr>jar</tr>
+</logdet>
+
+<phon>
+<al>bAs</al>
+</phon>
+</sign>
+
+<sign id="W3">
+<logdet>
+<al>Ss</al>
+<tr>alabaster</tr>
+</logdet>
+
+<det useid="feast">
+<describe>feast</describe>
+</det>
+
+<phonphondet>
+<al>Hb</al>
+</phonphondet>
+
+<log>
+<al root="Hb">Hbt</al>
+<tr>ritual book</tr>
+</log>
+</sign>
+
+<sign id="W3a">
+<useas name="W3"/>
+</sign>
+
+<sign id="W4">
+<logdet>
+<al>Hb</al>
+<tr>feast</tr>
+</logdet>
+
+<det>
+<describe>feast</describe>
+</det>
+</sign>
+
+<sign id="W5">
+<log>
+<al>Xrj-Hbt</al>
+<tr>lector priest</tr>
+</log>
+</sign>
+
+<sign id="W6">
+<logdet>
+<al root="wHA">wHAt</al>
+<tr>cauldron</tr>
+</logdet>
+</sign>
+
+<sign id="W7" period="18">
+<logdet useid="granite">
+<al>mAT</al>
+<tr>granite</tr>
+</logdet>
+
+<phondet>
+<al>mAT</al>
+</phondet>
+
+<det useid="Elephantine">
+<al>^Abw</al>
+<tr>Elephantine</tr>
+    <example>
+        <hi>Ab*w-W7:xAst</hi>
+    </example>
+</det>
+
+<phondet>
+<al>Ab</al>
+</phondet>
+</sign>
+
+<sign id="W8" period="11">
+<useas name="W7" />
+</sign>
+
+<sign id="W9">
+<logdet>
+<al>nXnm</al>
+<tr>nechnem-vase</tr>
+</logdet>
+
+<phon>
+<al>Xnm</al>
+</phon>
+</sign>
+
+<sign id="W9a">
+<useas name="W9" />
+</sign>
+
+<sign id="W10">
+<det>
+<describe>cup</describe>
+</det>
+
+<logdet>
+<al>jab</al>
+<tr>cup</tr>
+</logdet>
+
+<phonphondet>
+<al>jab</al>
+</phonphondet>
+
+<phonphondet>
+<al>ab</al>
+</phonphondet>
+
+<logdet>
+<al>wsx</al>
+<tr>cup</tr>
+</logdet>
+
+<phonphondet>
+<al>wsx</al>
+</phonphondet>
+
+<phondet>
+<al>sxw</al>
+</phondet>
+
+<logdet>
+<al root="Hnw">Hnwt</al>
+<tr>cup</tr>
+</logdet>
+
+<phon>
+<al>Hnt</al>
+</phon>
+
+<useas name="N41" useref="bjA" />
+</sign>
+
+<sign id="W10a" period="OK">
+<phonphondet>
+<al>bA</al>
+</phonphondet>
+</sign>
+
+<sign id="W11" period="18">
+<logdet>
+<al root="ns">nst</al>
+<tr>seat</tr>
+</logdet>
+
+<phon>
+<al>g</al>
+</phon>
+
+<useas name="W13" useref="earthenware" />
+<useas period="18" name="O45" />
+</sign>
+
+<sign id="W12" period="OK">
+<useas name="W11" />
+</sign>
+
+<sign id="W13">
+<logdet useid="earthenware">
+<al root="dSr">dSrt</al>
+<tr>earthenware pot</tr>
+</logdet>
+
+<useas period="MK" name="N34" />
+</sign>
+
+<sign id="W14">
+<logdet>
+<al root="Hs">Hst</al>
+<tr>water jar</tr>
+</logdet>
+
+<phon>
+<al>Hs</al>
+</phon>
+
+<det>
+<describe>jar</describe>
+</det>
+</sign>
+
+<sign id="W14a">
+<phon>
+<al>Hs</al>
+</phon>
+</sign>
+
+<sign id="W15">
+<det>
+<al root="qb">qbb</al>
+<tr>cool</tr>
+</det>
+
+<logdet>
+<al>qbH</al>
+<tr>cool</tr>
+</logdet>
+</sign>
+
+<sign id="W16">
+<logdet>
+<al>qbH</al>
+<tr>cool</tr>
+</logdet>
+
+<det>
+<al root="qb">qbb</al>
+<tr>cool</tr>
+</det>
+</sign>
+
+<sign id="W17" period="12-18">
+<log>
+<al>xnt</al>
+<tr>rack</tr>
+</log>
+
+<phon>
+<al>xnt</al>
+</phon>
+</sign>
+
+<sign id="W17a">
+<useas name="W17" />
+</sign>
+
+<sign id="W18" period="OK">
+<useas name="W17" />
+</sign>
+
+<sign id="W18a">
+<useas name="W17" />
+</sign>
+
+<sign id="W19">
+<logdet>
+<al>mhr</al>
+<tr>milk jug</tr>
+</logdet>
+
+<phon>
+<al>mr</al>
+<al>mj</al>
+</phon>
+</sign>
+
+<sign id="W20">
+<logdet>
+<al root="jrT">jrTt</al>
+<tr>milk</tr>
+</logdet>
+</sign>
+
+<sign id="W21">
+<logdet>
+<al>jrp</al>
+<tr>wine</tr>
+</logdet>
+</sign>
+
+<sign id="W22">
+<logdet>
+<al root="Hnq">Hnqt</al>
+<tr>beer</tr>
+</logdet>
+
+<det useid="pot">
+<describe>pot, fluid, measure, tribute</describe>
+</det>
+
+<logdet useid="butlet" >
+<al root="wdp">wdpw</al>
+<tr>butler</tr>
+</logdet>
+</sign>
+
+<sign id="W23">
+<useas name="W22" />
+</sign>
+
+<sign id="W24">
+<phon>
+<al>nw</al>
+</phon>
+
+<phon>
+<group>W24a</group>
+<al>nw</al>
+</phon>
+
+<phon>
+<al>jn</al>
+</phon>
+
+<phon period="ME">
+<group>Aa27-W24</group>
+<al>nD</al>
+</phon>
+
+<log>
+<group>W24:N35a</group>
+<al>m-Xnw</al>
+<tr>inside</tr>
+</log>
+
+<det>
+<al root="DADA">DADAt</al>
+<tr>council</tr>
+    <example>
+        <hi>DA*DA-W24*t:Aa8-A1:Z2</hi>
+    </example>
+</det>
+
+<det>
+<al>^nxbt</al>
+<tr>Nekhbet</tr>
+    <example>
+        <hi>M22*[fit]b-nw:t</hi>
+    </example>
+</det>
+
+<useas name="Z13" useref="qd" />
+<useas name="W22" />
+</sign>
+
+<sign id="W24a">
+<useas number="3" name="W24"/>
+</sign>
+
+<sign id="W25">
+<log>
+<al root="jn">jnj</al>
+<tr>bring</tr>
+</log>
+</sign>
+
+<sign id="X1">
+<log>
+<al>t</al>
+<tr>bread</tr>
+</log>
+
+<phon>
+<al>t</al>
+</phon>
+
+<log>
+<group>.:X1-[fit]R8</group>
+<group>R8-X1</group>
+<al>jt-nTr</al>
+<tr>god's father (title)</tr>
+</log>
+
+<phon type="group">
+<group>X1:X2-X4b:Z2</group>
+<group>X1*X2:X4b</group>
+<al>t</al>
+</phon>
+</sign>
+
+<sign id="X2">
+<det>
+<describe>bread</describe>
+</det>
+
+<det>
+<group>X2*W22</group>
+<group>X2*W22:X4b</group>
+<describe>food</describe>
+</det>
+
+<log>
+<al root="DHwt">^DHwtj</al>
+<tr>Thoth</tr>
+    <example>
+	<hi>X2-A40</hi>
+    </example>
+</log>
+
+<log>
+<al>^gb</al>
+<tr>Geb</tr>
+    <example>
+	<hi>X2-A40</hi>
+    </example>
+</log>
+
+<log>
+<al root="jnp">^jnpw</al>
+<tr>Anubis</tr>
+    <example>
+	<hi>X2-A40</hi>
+    </example>
+</log>
+
+<log>
+<group>.:X2-[fit]R8</group>
+<al>jt-nTr</al>
+<tr>god's father (title)</tr>
+</log>
+</sign>
+
+<sign id="X3">
+<useas name="X2" />
+<useas name="N34" period="3-5" />
+</sign>
+
+<sign id="X4">
+<det useid="bread">
+<describe>bread, food</describe>
+</det>
+
+<phondet useid="sn">
+<al>sn</al>
+</phondet>
+
+<logdet>
+<al>fqA</al>
+<tr>cake</tr>
+</logdet>
+
+<phondet>
+<al>fqA</al>
+</phondet>
+
+<useas name="W3" useref="feast" />
+</sign>
+
+<sign id="X4a">
+<useas name="X4" />
+</sign>
+
+<sign id="X4b">
+<useas name="X4" />
+</sign>
+
+<sign id="X5">
+<useas name="X4" useref="bread" />
+<useas name="X4" useref="sn" />
+</sign>
+
+<sign id="X6">
+<logdet>
+<al root="pA">pAt</al>
+<tr>loaf</tr>
+</logdet>
+
+<phondet>
+<al>pAt</al>
+</phondet>
+</sign>
+
+<sign id="X6a">
+<useas name="X6" />
+</sign>
+
+<sign id="X7">
+<logdet>
+<group>X7:X7-A2</group>
+<group>X7:X7</group>
+<al>wnm</al>
+<tr>eat</tr>
+</logdet>
+
+<det>
+<group>X7:X7-A2</group>
+<group>X7:X7</group>
+<describe>eat</describe>
+</det>
+
+<det>
+<al>snw</al>
+<tr>food offerings</tr>
+</det>
+</sign>
+
+<sign id="X8">
+<log>
+<al root="D">Dj</al>
+<tr>give</tr>
+</log>
+
+<log>
+<group>D21-X8</group>
+<al root="rD">rDj</al>
+<tr>give</tr>
+</log>
+
+<log>
+<al>jmj</al>
+<tr>give!</tr>
+    <example>
+	<hi>X8</hi>
+	<hi>X8-G17-D37</hi>
+	<hi>M17*X8</hi>
+    </example>
+</log>
+
+<phon>
+<al>d</al>
+</phon>
+
+<log>
+<al certain="false">djw</al>
+<tr>provisions</tr>
+    <example>
+	<hi>X8-U9:[sep=0.2]Z2</hi>
+    </example>
+</log>
+</sign>
+
+<sign id="X8a">
+<useas name="X8" />
+</sign>
+
+<sign id="Y1">
+<logdet>
+<al root="mDA">mDAt</al>
+<tr>papyrus roll</tr>
+</logdet>
+
+<phon>
+<al>mDAt</al>
+</phon>
+
+<det>
+<describe>writing and what is written, abstract notions</describe>
+</det>
+
+<log>
+<al>dmD</al>
+<tr>total</tr>
+</log>
+</sign>
+
+<sign id="Y1a">
+<useas name="Y1" />
+</sign>
+
+<sign id="Y2" period="OK">
+<useas name="Y1" />
+</sign>
+
+<sign id="Y3">
+<logdet>
+<al>mnhD</al>
+<tr>scribe's outfit</tr>
+</logdet>
+
+<logdet>
+<al>sS</al>
+<tr>writing</tr>
+</logdet>
+
+<det>
+<al>naa</al>
+<tr>smooth</tr>
+    <example>
+        <hi>n:a:a-Y3-Y1a</hi>
+    </example>
+</det>
+
+<log>
+<al>snaa</al>
+<tr>made smooth</tr>
+    <example>
+	<hi>Y3-Y1a</hi>
+    </example>
+</log>
+
+<det>
+<al>Tms</al>
+<tr>red</tr>
+    <example>
+        <hi>T-m*s-Y3</hi>
+    </example>
+</det>
+
+<phondet>
+<al>Tms</al>
+</phondet>
+</sign>
+
+<sign id="Y4">
+<useas name="Y3" />
+</sign>
+
+<sign id="Y5">
+<phon>
+<al>mn</al>
+</phon>
+</sign>
+
+<sign id="Y6">
+<logdet>
+<al>jbA</al>
+<tr>game piece</tr>
+</logdet>
+
+<phonphondet>
+<al>jbA</al>
+</phonphondet>
+</sign>
+
+<sign id="Y7">
+<logdet>
+<al root="bn">bnt</al>
+<tr>harp</tr>
+</logdet>
+</sign>
+
+<sign id="Y8">
+<logdet>
+<al root="sSS">sSSt</al>
+<tr>sistrum</tr>
+</logdet>
+
+<phon period="13-18">
+<al>sxm</al>
+</phon>
+</sign>
+
+<sign id="Z1">
+<typ>
+<describe>semogram marker</describe>
+</typ>
+
+<typ period="12">
+<describe>space filler</describe>
+</typ>
+
+<log>
+<al>=j</al>
+<tr>I</tr>
+</log>
+
+<useas name="Z5" />
+
+<useas name="Z4">
+<group>Z1*Z1</group>
+</useas>
+
+<typ>
+<group>Z1*Z1*Z1</group>
+<describe>plurality or collectivity</describe>
+</typ>
+
+<phon>
+<group>Z1*Z1*Z1</group>
+<al>w</al>
+</phon>
+</sign>
+
+<sign id="Z2">
+<useas number="3" name="Z1" />
+</sign>
+
+<sign id="Z2a">
+<useas number="3" name="Z1" />
+</sign>
+
+<sign id="Z2b">
+<useas number="3" name="Z1" />
+</sign>
+
+<sign id="Z2c">
+<useas number="3" name="Z1" />
+</sign>
+
+<sign id="Z2d">
+<useas number="3" name="Z1" />
+</sign>
+
+<sign id="Z3">
+<useas number="3" name="Z1" />
+</sign>
+
+<sign id="Z3a">
+<useas number="3" name="Z1" />
+</sign>
+
+<sign id="Z3b">
+<useas number="3" name="Z1" />
+</sign>
+
+<sign id="Z4">
+<typ>
+<describe>duality</describe>
+</typ>
+
+<phon>
+<al>j</al>
+</phon>
+
+<typ>
+<describe>replaces two human figures, or signs difficult to draw</describe>
+</typ>
+</sign>
+
+<sign id="Z4a">
+<useas number="2" name="Z1" />
+</sign>
+
+<sign id="Z5">
+<typ>
+<describe>replaces human figure, or sign difficult to draw</describe>
+</typ>
+</sign>
+
+<sign id="Z5a">
+<useas name="Z5" />
+</sign>
+
+<sign id="Z6">
+<useas name="A13" />
+<useas name="A14" />
+</sign>
+
+<sign id="Z7" period="9-">
+<useas name="G43" />
+</sign>
+
+<sign id="Z8">
+<det>
+<describe>round</describe>
+</det>
+</sign>
+
+<sign id="Z9">
+<det>
+<describe>break, divide, cross, answer</describe>
+</det>
+
+<log>
+<al>Hsb</al>
+<tr>1/4</tr>
+</log>
+
+<phonphondet>
+<al>swA</al>
+</phonphondet>
+
+<phonphondet>
+<al>sD</al>
+</phonphondet>
+
+<phonphondet>
+<al>xbs</al>
+</phonphondet>
+
+<phonphondet>
+<al>Sbn</al>
+</phonphondet>
+
+<phonphondet>
+<al>wp</al>
+</phonphondet>
+
+<phonphondet>
+<al>wr</al>
+</phonphondet>
+</sign>
+
+<sign id="Z10" period="OK">
+<useas name="Z9" />
+</sign>
+
+<sign id="Z11">
+<phon>
+<al>jmj</al>
+</phon>
+
+<useas name="M42" />
+</sign>
+
+<sign id="Z12">
+<phondet>
+<al>Hw</al>
+</phondet>
+</sign>
+
+<sign id="Z13">
+<det>
+<describe>round</describe>
+</det>
+
+<phondet useid="qd">
+<al>qd</al>
+</phondet>
+</sign>
+
+<sign id="Z14" texttype="hieratic">
+<useas name="Z7"/>
+<useas name="X1"/>
+</sign>
+
+<sign id="Z15">
+<log numeral="1">
+<al>wa</al>
+<tr>1</tr>
+</log>
+</sign>
+
+<sign id="Z15a">
+<useas number="2" name="Z15"/>
+</sign>
+
+<sign id="Z15b">
+<useas number="3" name="Z15"/>
+</sign>
+
+<sign id="Z15c">
+<useas number="4" name="Z15"/>
+</sign>
+
+<sign id="Z15d">
+<useas number="5" name="Z15"/>
+</sign>
+
+<sign id="Z15e">
+<useas number="6" name="Z15"/>
+</sign>
+
+<sign id="Z15f">
+<useas number="7" name="Z15"/>
+</sign>
+
+<sign id="Z15g">
+<useas number="8" name="Z15"/>
+</sign>
+
+<sign id="Z15h">
+<useas number="9" name="Z15"/>
+</sign>
+
+<sign id="Z15i">
+<useas number="5" name="Z15"/>
+</sign>
+
+<sign id="Z16">
+<log numeral="1">
+<al>wa</al>
+<tr>1 (in days of the month)</tr>
+</log>
+</sign>
+
+<sign id="Z16a">
+<useas number="2" name="Z16"/>
+</sign>
+
+<sign id="Z16b">
+<useas number="3" name="Z16"/>
+</sign>
+
+<sign id="Z16c">
+<useas number="4" name="Z16"/>
+</sign>
+
+<sign id="Z16d">
+<useas number="5" name="Z16"/>
+</sign>
+
+<sign id="Z16e">
+<useas number="6" name="Z16"/>
+</sign>
+
+<sign id="Z16f">
+<useas number="7" name="Z16"/>
+</sign>
+
+<sign id="Z16g">
+<useas number="8" name="Z16"/>
+</sign>
+
+<sign id="Z16h">
+<useas number="9" name="Z16"/>
+</sign>
+
+<sign id="Aa1">
+<phon>
+<al>x</al>
+</phon>
+</sign>
+
+<sign id="Aa2">
+<det>
+<describe>bodily growths or conditions</describe>
+</det>
+
+<logdet>
+<al>Xpw</al>
+<tr>sculptured reliefs</tr>
+</logdet>
+
+<logdet>
+<al>Hsb</al>
+<tr>reckon</tr>
+</logdet>
+
+<phon>
+<al>wHA</al>
+</phon>
+
+<logdet>
+<al root="gAw">gAwt</al>
+<tr>tribute</tr>
+</logdet>
+
+<phondet>
+<al>gAw</al>
+</phondet>
+
+<useas name="V38"/>
+<useas name="F52"/>
+<useas period="ME" name="N32"/>
+<useas name="W6"/>
+<useas name="W7" useref="granite"/>
+<useas name="W7" useref="Elephantine"/>
+<useas name="M41"/>
+</sign>
+
+<sign id="Aa3">
+<det>
+<describe>soft body tissues and fluids</describe>
+</det>
+</sign>
+
+<sign id="Aa4">
+<useas name="W10a" />
+</sign>
+
+<sign id="Aa5">
+<logdet>
+<al root="Hp">Hpt</al>
+<tr>helm</tr>
+</logdet>
+
+<phon>
+<al>Hp</al>
+</phon>
+</sign>
+
+<sign id="Aa6">
+<det>
+<al>tmA</al>
+<tr>mat</tr>
+</det>
+
+<phondet>
+<al>TmA</al>
+</phondet>
+</sign>
+
+<sign id="Aa7">
+<logdet>
+<al>sqr</al>
+<tr>smite</tr>
+</logdet>
+</sign>
+
+<sign id="Aa7a">
+<useas name="Aa7" />
+</sign>
+
+<sign id="Aa7b">
+<useas name="Aa7" />
+</sign>
+
+<sign id="Aa8">
+<logdet>
+<al certain="false" root="DAt">DAtt</al>
+<tr>estate</tr>
+</logdet>
+
+<phondet>
+<al>DAt</al>
+</phondet>
+
+<phon>
+<al>qn</al>
+</phon>
+
+<useas name="N24" useref="district" texttype="hieroglyphic" />
+<useas name="V26" useref="aD" />
+<useas name="O34" useref="s" texttype="hieroglyphic" period="18" />
+</sign>
+
+<sign id="Aa9">
+<det>
+<al>xwd</al>
+<tr>rich</tr>
+</det>
+</sign>
+
+<sign id="Aa10">
+<det>
+<al>drf</al>
+<tr>writing</tr>
+</det>
+</sign>
+
+<sign id="Aa11">
+<phon>
+<al>mAa</al>
+</phon>
+
+<log>
+<group>Aa11:P8[rotate=270]</group>
+<al>mAa-xrw</al>
+<tr>true of voice</tr>
+</log>
+
+<det>
+<al root="TnTA">TnTAt</al>
+<tr>platform</tr>
+</det>
+</sign>
+
+<sign id="Aa12" period="OK">
+<useas name="Aa11" />
+</sign>
+
+<sign id="Aa13">
+<logdet>
+<al>jm</al>
+<tr>rib</tr>
+</logdet>
+
+<phon>
+<al>jm</al>
+</phon>
+
+<phon period="18-">
+<al>m</al>
+</phon>
+
+<useas name="Aa16" />
+</sign>
+
+<sign id="Aa14" period="OK">
+<useas name="Aa13" />
+</sign>
+
+<sign id="Aa15" period="18">
+<useas name="Aa13" />
+</sign>
+
+<sign id="Aa16">
+<logdet>
+<al>gs</al>
+<tr>side</tr>
+</logdet>
+
+<log>
+<al>1/2</al>
+<tr>half</tr>
+</log>
+
+<phon>
+<al>gs</al>
+</phon>
+</sign>
+
+<sign id="Aa17">
+<log>
+<al>sA</al>
+<tr>back</tr>
+</log>
+
+<phon>
+<al>sA</al>
+</phon>
+</sign>
+
+<sign id="Aa18" period="12-18">
+<useas name="Aa17" />
+
+<phon type="group">
+<group>Aa18</group>
+<group>Aa18:Z1</group>
+<al>s</al>
+</phon>
+</sign>
+
+<sign id="Aa19">
+<phondet>
+<al>Hr</al>
+</phondet>
+
+<det>
+<al>TAr</al>
+<tr>fasten</tr>
+</det>
+</sign>
+
+<sign id="Aa20">
+<phonphondet>
+<al>apr</al>
+</phonphondet>
+</sign>
+
+<sign id="Aa21">
+<logdet useid="wDa">
+<al>wDa</al>
+<tr>sever</tr>
+</logdet>
+
+<log period="MK">
+<al>^stx</al>
+<tr>Seth</tr>
+</log>
+</sign>
+
+<sign id="Aa22">
+<useas name="Aa21" useref="wDa" />
+</sign>
+
+<sign id="Aa23">
+<logdet>
+<al>mDd</al>
+<tr>hit</tr>
+</logdet>
+</sign>
+
+<sign id="Aa24">
+<useas name="Aa23" />
+</sign>
+
+<sign id="Aa25">
+<log>
+<al>smA</al>
+<tr>clothing priest</tr>
+</log>
+</sign>
+
+<sign id="Aa26">
+<phondet>
+<al>sbj</al>
+</phondet>
+</sign>
+
+<sign id="Aa27">
+<phon>
+<al>nD</al>
+</phon>
+</sign>
+
+<sign id="Aa28">
+<phonphondet>
+<al>qd</al>
+</phonphondet>
+</sign>
+
+<sign id="Aa29" period="OK">
+<useas name="Aa28" />
+</sign>
+
+<sign id="Aa30">
+<logdet>
+<al>Xkr</al>
+<tr>adorn</tr>
+</logdet>
+</sign>
+
+<sign id="Aa31" period="OK">
+<useas name="Aa30" />
+</sign>
+
+<sign id="Aa32">
+<log>
+<al>stj</al>
+<tr>Nubian</tr>
+    <example>
+	<hi>N17-Aa32-X1:N25</hi>
+	<al>^tA-stj</al>
+	<tr>Nubia</tr>
+    </example>
+</log>
+
+<log>
+<al>stj</al>
+<tr>some mineral</tr>
+</log>
+</sign>
+
+</signlist>

@@ -124,3 +124,13 @@ select#item-selector {
 #info .use:not(:first-child) {
 	margin-left: 8rem;
 }
+
+#legend .legend-item {
+	font-weight: 700;
+}
+
+#legend .legend-title {
+	font-weight: 700;
+	font-size: 0.8rem;
+}
+}

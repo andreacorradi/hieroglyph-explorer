@@ -55,11 +55,12 @@ select {
 
 .container {
 	display: flex;
-	justify-content: center;
+	justify-content: flex-start;
 	align-items: center;
 	flex-direction: column;
 	width: 70%;
 	height: 100%;
+	margin-top: 4rem;
 }
 
 .container > section {
